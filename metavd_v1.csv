@@ -1,0 +1,2802 @@
+,from_dataset,from_action_idx,from_action_name,to_dataset,to_action_idx,to_action_name,relation
+0,hmdb51,2,catch,charades,83,Reaching for and grabbing a picture,is-a
+1,hmdb51,3,chew,charades,65,Eating a sandwich,similar
+2,hmdb51,3,chew,charades,156,Someone is eating something,similar
+3,hmdb51,10,drink,charades,106,Drinking from a cup/glass/bottle,is-a
+4,hmdb51,10,drink,charades,129,Taking/consuming some medicine,is-a
+5,hmdb51,11,eat,charades,65,Eating a sandwich,is-a
+6,hmdb51,11,eat,charades,156,Someone is eating something,equal
+7,hmdb51,23,laugh,charades,29,Smiling at a book,is-a
+8,hmdb51,23,laugh,charades,85,Laughing at a picture,is-a
+9,hmdb51,23,laugh,charades,94,Smiling in a mirror,is-a
+10,hmdb51,23,laugh,charades,131,Laughing at television,is-a
+11,hmdb51,23,laugh,charades,149,Someone is laughing,equal
+12,hmdb51,23,laugh,charades,152,Someone is smiling,equal
+13,hmdb51,24,pick,charades,0,Holding some clothes,is-a
+14,hmdb51,24,pick,charades,2,Taking some clothes from somewhere,is-a
+15,hmdb51,24,pick,charades,18,Taking a phone/camera from somewhere,is-a
+16,hmdb51,24,pick,charades,20,Holding a bag,is-a
+17,hmdb51,24,pick,charades,23,Taking a bag from somewhere,is-a
+18,hmdb51,24,pick,charades,26,Holding a book,is-a
+19,hmdb51,24,pick,charades,30,Taking a book from somewhere,is-a
+20,hmdb51,24,pick,charades,33,Holding a towel/s,is-a
+21,hmdb51,24,pick,charades,35,Taking a towel/s from somewhere,is-a
+22,hmdb51,24,pick,charades,40,Holding a box,is-a
+23,hmdb51,24,pick,charades,43,Taking a box from somewhere,is-a
+24,hmdb51,24,pick,charades,44,Taking something from a box,is-a
+25,hmdb51,24,pick,charades,50,Taking a laptop from somewhere,is-a
+26,hmdb51,24,pick,charades,53,Holding a shoe/shoes,is-a
+27,hmdb51,24,pick,charades,56,Taking shoes from somewhere,is-a
+28,hmdb51,24,pick,charades,61,Holding some food,is-a
+29,hmdb51,24,pick,charades,63,Taking food from somewhere,is-a
+30,hmdb51,24,pick,charades,67,Holding a sandwich,is-a
+31,hmdb51,24,pick,charades,69,Taking a sandwich from somewhere,is-a
+32,hmdb51,24,pick,charades,73,Taking a blanket from somewhere,is-a
+33,hmdb51,24,pick,charades,79,Taking a pillow from somewhere,is-a
+34,hmdb51,24,pick,charades,83,Reaching for and grabbing a picture,is-a
+35,hmdb51,24,pick,charades,84,Holding a picture,is-a
+36,hmdb51,24,pick,charades,93,Holding a mirror,is-a
+37,hmdb51,24,pick,charades,100,Taking a broom from somewhere,is-a
+38,hmdb51,24,pick,charades,107,Holding a cup/glass/bottle of something,is-a
+39,hmdb51,24,pick,charades,110,Taking a cup/glass/bottle from somewhere,is-a
+40,hmdb51,24,pick,charades,115,Someone is holding a paper/notebook,is-a
+41,hmdb51,24,pick,charades,117,Taking paper/notebook from somewhere,is-a
+42,hmdb51,24,pick,charades,120,Taking a dish/es from somewhere,is-a
+43,hmdb51,24,pick,charades,128,Holding some medicine,is-a
+44,hmdb51,24,pick,charades,138,Taking a vacuum from somewhere,is-a
+45,hmdb51,25,pour,charades,108,Pouring something into a cup/glass/bottle,is-a
+46,hmdb51,37,sit,charades,10,Sitting on a table,is-a
+47,hmdb51,37,sit,charades,11,Sitting at a table,is-a
+48,hmdb51,37,sit,charades,59,Sitting in a chair,is-a
+49,hmdb51,37,sit,charades,123,Sitting on sofa/couch,is-a
+50,hmdb51,37,sit,charades,125,Sitting on the floor,is-a
+51,hmdb51,37,sit,charades,135,Sitting in a bed,is-a
+52,hmdb51,37,sit,charades,151,Someone is going from standing to sitting,equal
+53,hmdb51,39,smile,charades,29,Smiling at a book,is-a
+54,hmdb51,39,smile,charades,85,Laughing at a picture,is-a
+55,hmdb51,39,smile,charades,94,Smiling in a mirror,is-a
+56,hmdb51,39,smile,charades,131,Laughing at television,is-a
+57,hmdb51,39,smile,charades,149,Someone is laughing,equal
+58,hmdb51,39,smile,charades,152,Someone is smiling,equal
+59,hmdb51,42,stand,charades,60,Standing on a chair,is-a
+60,hmdb51,42,stand,charades,151,Someone is going from standing to sitting,is-a
+61,hmdb51,42,stand,charades,154,Someone is standing up from somewhere,is-a
+62,hmdb51,46,talk,charades,19,Talking on a phone/camera,is-a
+63,hmdb51,47,throw,charades,3,Throwing clothes somewhere,is-a
+64,hmdb51,47,throw,charades,24,Throwing a bag somewhere,is-a
+65,hmdb51,47,throw,charades,31,Throwing a book somewhere,is-a
+66,hmdb51,47,throw,charades,36,Throwing a towel/s somewhere,is-a
+67,hmdb51,47,throw,charades,45,Throwing a box somewhere,is-a
+68,hmdb51,47,throw,charades,58,Throwing shoes somewhere,is-a
+69,hmdb51,47,throw,charades,64,Throwing food somewhere,is-a
+70,hmdb51,47,throw,charades,74,Throwing a blanket somewhere,is-a
+71,hmdb51,47,throw,charades,80,Throwing a pillow somewhere,is-a
+72,hmdb51,47,throw,charades,101,Throwing a broom somewhere,is-a
+73,hmdb51,47,throw,charades,126,Throwing something on the floor,is-a
+74,hmdb51,48,turn,charades,104,Turning on a light,is-a
+75,hmdb51,48,turn,charades,105,Turning off a light,is-a
+76,hmdb51,49,walk,charades,97,Walking through a doorway,is-a
+77,hmdb51,0,brush_hair,activitynet,12,Blow-drying_hair,similar
+78,hmdb51,0,brush_hair,activitynet,14,Braiding_hair,similar
+79,hmdb51,0,brush_hair,activitynet,16,Brushing_hair,equal
+80,hmdb51,0,brush_hair,activitynet,17,Brushing_teeth,similar
+81,hmdb51,0,brush_hair,activitynet,60,Getting_a_haircut,similar
+82,hmdb51,2,catch,activitynet,21,Calf_roping,is-a
+83,hmdb51,5,climb,activitynet,143,Rock_climbing,is-a
+84,hmdb51,7,dive,activitynet,102,Plataform_diving,is-a
+85,hmdb51,7,dive,activitynet,149,Scuba_diving,is-a
+86,hmdb51,7,dive,activitynet,166,Springboard_diving,is-a
+87,hmdb51,10,drink,activitynet,51,Drinking_beer,is-a
+88,hmdb51,10,drink,activitynet,52,Drinking_coffee,is-a
+89,hmdb51,11,eat,activitynet,69,Having_an_ice_cream,is-a
+90,hmdb51,12,fall_floor,activitynet,82,Kneeling,similar
+91,hmdb51,13,fencing,activitynet,45,Doing_fencing,equal
+92,hmdb51,14,flic_flac,activitynet,180,Tumbling,similar
+93,hmdb51,17,hit,activitynet,71,Hitting_a_pinata,is-a
+94,hmdb51,17,hit,activitynet,100,Ping-pong,is-a
+95,hmdb51,17,hit,activitynet,104,Playing_badminton,is-a
+96,hmdb51,17,hit,activitynet,106,Playing_beach_volleyball,is-a
+97,hmdb51,17,hit,activitynet,108,Playing_congas,is-a
+98,hmdb51,17,hit,activitynet,109,Playing_drums,is-a
+99,hmdb51,17,hit,activitynet,110,Playing_field_hockey,is-a
+100,hmdb51,17,hit,activitynet,114,Playing_ice_hockey,is-a
+101,hmdb51,17,hit,activitynet,120,Playing_racquetball,is-a
+102,hmdb51,17,hit,activitynet,123,Playing_squash,is-a
+103,activitynet,175,Tennis_serve_with_ball_bouncing,hmdb51,17,hit,is-a
+104,activitynet,188,Volleyball,hmdb51,17,hit,is-a
+105,hmdb51,19,jump,activitynet,20,Bungee_jumping,is-a
+106,hmdb51,19,jump,activitynet,70,High_jump,is-a
+107,hmdb51,19,jump,activitynet,72,Hopscotch,is-a
+108,hmdb51,19,jump,activitynet,86,Long_jump,is-a
+109,hmdb51,19,jump,activitynet,127,Pole_vault,is-a
+110,hmdb51,19,jump,activitynet,130,Powerbocking,is-a
+111,hmdb51,19,jump,activitynet,146,Rope_skipping,is-a
+112,hmdb51,19,jump,activitynet,178,Triple_jump,is-a
+113,hmdb51,20,kick,activitynet,9,Beach_soccer,is-a
+114,hmdb51,20,kick,activitynet,47,Doing_kickboxing,is-a
+115,hmdb51,21,kick_ball,activitynet,9,Beach_soccer,similar
+116,hmdb51,21,kick_ball,activitynet,58,Futsal,similar
+117,hmdb51,21,kick_ball,activitynet,115,Playing_kickball,equal
+118,activitynet,89,Making_a_lemonade,hmdb51,25,pour,is-a
+119,hmdb51,27,punch,activitynet,47,Doing_kickboxing,is-a
+120,activitynet,71,Hitting_a_pinata,hmdb51,27,punch,is-a
+121,activitynet,168,Sumo,hmdb51,28,push,is-a
+122,hmdb51,30,ride_bike,activitynet,4,BMX,is-a
+123,hmdb51,30,ride_bike,activitynet,48,Doing_motocross,is-a
+124,hmdb51,31,ride_horse,activitynet,21,Calf_roping,is-a
+125,hmdb51,31,ride_horse,activitynet,22,Camel_ride,similar
+126,hmdb51,31,ride_horse,activitynet,73,Horseback_riding,equal
+127,hmdb51,32,run,activitynet,54,Elliptical_trainer,is-a
+128,hmdb51,32,run,activitynet,86,Long_jump,is-a
+129,hmdb51,32,run,activitynet,147,Running_a_marathon,is-a
+130,hmdb51,33,shake_hands,activitynet,2,Arm_wrestling,similar
+131,hmdb51,34,shoot_ball,activitynet,9,Beach_soccer,is-a
+132,hmdb51,34,shoot_ball,activitynet,34,Cricket,is-a
+133,hmdb51,34,shoot_ball,activitynet,35,Croquet,is-a
+134,hmdb51,34,shoot_ball,activitynet,58,Futsal,is-a
+135,hmdb51,34,shoot_ball,activitynet,75,Hurling,is-a
+136,hmdb51,34,shoot_ball,activitynet,85,Layup_drill_in_basketball,is-a
+137,hmdb51,34,shoot_ball,activitynet,110,Playing_field_hockey,is-a
+138,hmdb51,34,shoot_ball,activitynet,114,Playing_ice_hockey,is-a
+139,hmdb51,34,shoot_ball,activitynet,115,Playing_kickball,is-a
+140,hmdb51,34,shoot_ball,activitynet,116,Playing_lacrosse,is-a
+141,hmdb51,35,shoot_bow,activitynet,1,Archery,equal
+142,hmdb51,36,shoot_gun,activitynet,95,Paintball,is-a
+143,hmdb51,37,sit,activitynet,82,Kneeling,similar
+144,hmdb51,38,situp,activitynet,44,Doing_crunches,equal
+145,hmdb51,40,smoke,activitynet,159,Smoking_a_cigarette,is-a
+146,hmdb51,40,smoke,activitynet,160,Smoking_hookah,is-a
+147,activitynet,180,Tumbling,hmdb51,41,somersault,is-a
+148,hmdb51,43,swing_baseball,activitynet,75,Hurling,similar
+149,activitynet,45,Doing_fencing,hmdb51,44,sword,is-a
+150,hmdb51,45,sword_exercise,activitynet,45,Doing_fencing,is-a
+151,hmdb51,47,throw,activitynet,10,Beer_pong,is-a
+152,hmdb51,47,throw,activitynet,40,Disc_dog,is-a
+153,hmdb51,47,throw,activitynet,41,Discus_throw,is-a
+154,hmdb51,47,throw,activitynet,43,Doing_a_powerbomb,is-a
+155,hmdb51,47,throw,activitynet,65,Hammer_throw,is-a
+156,hmdb51,47,throw,activitynet,79,Javelin_throw,is-a
+157,hmdb51,47,throw,activitynet,85,Layup_drill_in_basketball,is-a
+158,hmdb51,47,throw,activitynet,116,Playing_lacrosse,is-a
+159,hmdb51,47,throw,activitynet,124,Playing_ten_pins,is-a
+160,hmdb51,47,throw,activitynet,126,Playing_water_polo,is-a
+161,hmdb51,47,throw,activitynet,153,Shot_put,is-a
+162,hmdb51,47,throw,activitynet,176,Throwing_darts,is-a
+163,hmdb51,48,turn,activitynet,164,Spinning,similar
+164,hmdb51,48,turn,activitynet,178,Triple_jump,is-a
+165,hmdb51,48,turn,activitynet,180,Tumbling,is-a
+166,hmdb51,49,walk,activitynet,54,Elliptical_trainer,is-a
+167,hmdb51,49,walk,activitynet,158,Slacklining,is-a
+168,hmdb51,49,walk,activitynet,182,Using_the_balance_beam,is-a
+169,hmdb51,49,walk,activitynet,190,Walking_the_dog,is-a
+170,stair_actions,67,setting_hair,hmdb51,0,brush_hair,is-a
+171,hmdb51,0,brush_hair,stair_actions,9,brushing_teeth,similar
+172,hmdb51,3,chew,stair_actions,23,eating_meal,similar
+173,hmdb51,3,chew,stair_actions,24,eating_snack,similar
+174,hmdb51,4,clap,stair_actions,12,clapping_hands,equal
+175,hmdb51,6,climb_stairs,stair_actions,34,going_up_or_down_stairs,equal
+176,hmdb51,10,drink,stair_actions,21,drinking,equal
+177,hmdb51,11,eat,stair_actions,23,eating_meal,is-a
+178,hmdb51,11,eat,stair_actions,24,eating_snack,is-a
+179,hmdb51,18,hug,stair_actions,37,holding_someone,similar
+180,hmdb51,18,hug,stair_actions,40,hugging,equal
+181,hmdb51,19,jump,stair_actions,42,jumping_on_sofa_or_bed,is-a
+182,stair_actions,26,exercising,hmdb51,19,jump,is-a
+183,stair_actions,26,exercising,hmdb51,20,kick,is-a
+184,hmdb51,22,kiss,stair_actions,43,kissing,equal
+185,hmdb51,23,laugh,stair_actions,74,smiling,equal
+186,hmdb51,25,pour,stair_actions,61,pouring_tea_or_coffee,is-a
+187,stair_actions,26,exercising,hmdb51,29,pushup,is-a
+188,stair_actions,26,exercising,hmdb51,30,ride_bike,is-a
+189,stair_actions,26,exercising,hmdb51,32,run,is-a
+190,hmdb51,32,run,stair_actions,66,running_around,is-a
+191,hmdb51,33,shake_hands,stair_actions,69,shaking_hands,equal
+192,hmdb51,37,sit,stair_actions,72,sitting_down,is-a
+193,stair_actions,26,exercising,hmdb51,38,situp,is-a
+194,hmdb51,39,smile,stair_actions,74,smiling,equal
+195,hmdb51,40,smoke,stair_actions,75,smoking,equal
+196,hmdb51,42,stand,stair_actions,78,standing_up,is-a
+197,hmdb51,46,talk,stair_actions,76,speaking,equal
+198,hmdb51,47,throw,stair_actions,85,throwing_trash,is-a
+199,hmdb51,47,throw,stair_actions,84,throwing,equal
+200,hmdb51,49,walk,stair_actions,90,walking_with_stick,is-a
+201,hmdb51,49,walk,stair_actions,89,walking,equal
+202,stair_actions,26,exercising,hmdb51,49,walk,is-a
+203,hmdb51,19,jump,kinetics700,242,high_jump,is-a
+204,hmdb51,19,jump,kinetics700,255,hurdling,is-a
+205,hmdb51,19,jump,kinetics700,300,long_jump,is-a
+206,kinetics700,353,parkour,hmdb51,19,jump,similar
+207,hmdb51,19,jump,kinetics700,443,pole_vault,is-a
+208,hmdb51,19,jump,kinetics700,639,triple_jump,is-a
+209,hmdb51,35,shoot_bow,kinetics700,9,archery,is-a
+210,hmdb51,47,throw,kinetics700,87,catching_or_throwing_frisbee,is-a
+211,hmdb51,47,throw,kinetics700,158,disc_golfing,is-a
+212,hmdb51,47,throw,kinetics700,234,hammer_throw,is-a
+213,hmdb51,47,throw,kinetics700,265,javelin_throw,is-a
+214,hmdb51,47,throw,kinetics700,528,shot_put,is-a
+215,hmdb51,47,throw,kinetics700,619,throwing_axe,is-a
+216,hmdb51,47,throw,kinetics700,621,throwing_discus,is-a
+217,hmdb51,47,throw,kinetics700,86,catching_or_throwing_baseball,is-a
+218,hmdb51,47,throw,kinetics700,88,catching_or_throwing_softball,is-a
+219,hmdb51,34,shoot_ball,kinetics700,176,dunking_basketball,is-a
+220,hmdb51,21,kick_ball,kinetics700,278,kicking_field_goal,is-a
+221,hmdb51,21,kick_ball,kinetics700,279,kicking_soccer_ball,is-a
+222,kinetics700,404,playing_kickball,hmdb51,21,kick_ball,equal
+223,hmdb51,34,shoot_ball,kinetics700,524,shooting_basketball,is-a
+224,hmdb51,21,kick_ball,kinetics700,525,shooting_goal_(soccer),is-a
+225,hmdb51,34,shoot_ball,kinetics700,525,shooting_goal_(soccer),is-a
+226,hmdb51,47,throw,kinetics700,620,throwing_ball_(not_baseball_or_American_football),is-a
+227,kinetics700,6,applauding,hmdb51,4,clap,equal
+228,kinetics700,49,bouncing_on_bouncy_castle,hmdb51,19,jump,similar
+229,kinetics700,103,clapping,hmdb51,4,clap,equal
+230,hmdb51,12,fall_floor,kinetics700,197,falling_off_chair,is-a
+231,hmdb51,19,jump,kinetics700,275,jumping_sofa,is-a
+232,hmdb51,17,hit,kinetics700,556,smashing,is-a
+233,hmdb51,46,talk,kinetics700,608,talking_on_cell_phone,is-a
+234,kinetics700,285,laughing,hmdb51,23,laugh,equal
+235,hmdb51,11,eat,kinetics700,156,dining,is-a
+236,hmdb51,10,drink,kinetics700,169,drinking_shots,is-a
+237,kinetics700,179,eating_burger,hmdb51,3,chew,similar
+238,hmdb51,11,eat,kinetics700,179,eating_burger,is-a
+239,kinetics700,180,eating_cake,hmdb51,3,chew,similar
+240,hmdb51,11,eat,kinetics700,180,eating_cake,is-a
+241,kinetics700,181,eating_carrots,hmdb51,3,chew,similar
+242,hmdb51,11,eat,kinetics700,181,eating_carrots,is-a
+243,kinetics700,182,eating_chips,hmdb51,3,chew,similar
+244,hmdb51,11,eat,kinetics700,182,eating_chips,is-a
+245,kinetics700,183,eating_doughnuts,hmdb51,3,chew,similar
+246,hmdb51,11,eat,kinetics700,183,eating_doughnuts,is-a
+247,kinetics700,184,eating_hotdog,hmdb51,3,chew,similar
+248,hmdb51,11,eat,kinetics700,184,eating_hotdog,is-a
+249,hmdb51,11,eat,kinetics700,185,eating_ice_cream,is-a
+250,kinetics700,186,eating_nachos,hmdb51,3,chew,similar
+251,hmdb51,11,eat,kinetics700,186,eating_nachos,is-a
+252,kinetics700,187,eating_spaghetti,hmdb51,3,chew,similar
+253,hmdb51,11,eat,kinetics700,187,eating_spaghetti,is-a
+254,kinetics700,188,eating_watermelon,hmdb51,3,chew,similar
+255,hmdb51,11,eat,kinetics700,188,eating_watermelon,is-a
+256,hmdb51,25,pour,kinetics700,447,pouring_beer,is-a
+257,hmdb51,25,pour,kinetics700,448,pouring_milk,is-a
+258,hmdb51,25,pour,kinetics700,449,pouring_wine,is-a
+259,hmdb51,25,pour,kinetics700,454,pulling_espresso_shot,is-a
+260,hmdb51,10,drink,kinetics700,540,sipping_cup,is-a
+261,hmdb51,11,eat,kinetics700,588,sucking_lolly,is-a
+262,kinetics700,613,tasting_beer,hmdb51,10,drink,similar
+263,kinetics700,614,tasting_food,hmdb51,11,eat,similar
+264,kinetics700,615,tasting_wine,hmdb51,10,drink,similar
+265,kinetics700,19,backflip_(human),hmdb51,41,somersault,is-a
+266,kinetics700,162,doing_aerobics,hmdb51,49,walk,is-a
+267,kinetics700,192,exercising_arm,hmdb51,16,handstand,is-a
+268,kinetics700,192,exercising_arm,hmdb51,26,pullup,is-a
+269,kinetics700,192,exercising_arm,hmdb51,27,punch,is-a
+270,kinetics700,192,exercising_arm,hmdb51,45,sword_exercise,is-a
+271,hmdb51,42,stand,kinetics700,236,head_stand,is-a
+272,hmdb51,49,walk,kinetics700,336,mountain_climber_(exercise),is-a
+273,kinetics700,453,pull_ups,hmdb51,26,pullup,equal
+274,hmdb51,27,punch,kinetics700,459,punching_person_(boxing),is-a
+275,hmdb51,28,push,kinetics700,460,push_up,is-a
+276,kinetics700,460,push_up,hmdb51,29,pushup,equal
+277,hmdb51,28,push,kinetics700,496,rope_pushdown,is-a
+278,kinetics700,541,situp,hmdb51,38,situp,equal
+279,kinetics700,580,standing_on_hands,hmdb51,16,handstand,equal
+280,hmdb51,15,golf,kinetics700,225,golf_chipping,is-a
+281,hmdb51,15,golf,kinetics700,226,golf_driving,is-a
+282,hmdb51,15,golf,kinetics700,227,golf_putting,is-a
+283,kinetics700,79,cartwheeling,hmdb51,1,cartwheel,equal
+284,kinetics700,233,gymnastics_tumbling,hmdb51,1,cartwheel,is-a
+285,kinetics700,233,gymnastics_tumbling,hmdb51,14,flic_flac,is-a
+286,kinetics700,233,gymnastics_tumbling,hmdb51,16,handstand,is-a
+287,kinetics700,233,gymnastics_tumbling,hmdb51,41,somersault,is-a
+288,kinetics700,567,somersaulting,hmdb51,41,somersault,equal
+289,kinetics700,60,brushing_hair,hmdb51,0,brush_hair,equal
+290,kinetics700,116,combing_hair,hmdb51,0,brush_hair,similar
+291,kinetics700,207,fixing_hair,hmdb51,0,brush_hair,is-a
+292,hmdb51,24,pick,kinetics700,369,pinching,is-a
+293,kinetics700,680,waving_hand,hmdb51,50,wave,equal
+294,hmdb51,3,chew,kinetics700,97,chewing_gum,is-a
+295,kinetics700,172,drooling,hmdb51,9,dribble,equal
+296,kinetics700,558,smoking,hmdb51,40,smoke,equal
+297,hmdb51,40,smoke,kinetics700,559,smoking_hookah,is-a
+298,hmdb51,40,smoke,kinetics700,560,smoking_pipe,is-a
+299,hmdb51,7,dive,kinetics700,24,base_jumping,is-a
+300,hmdb51,7,dive,kinetics700,67,bungee_jumping,is-a
+301,hmdb51,5,climb,kinetics700,111,climbing_a_rope,is-a
+302,kinetics700,111,climbing_a_rope,hmdb51,6,climb_stairs,similar
+303,hmdb51,5,climb,kinetics700,112,climbing_ladder,is-a
+304,kinetics700,112,climbing_ladder,hmdb51,6,climb_stairs,similar
+305,hmdb51,7,dive,kinetics700,159,diving_cliff,is-a
+306,hmdb51,7,dive,kinetics700,175,dumpster_diving,is-a
+307,hmdb51,5,climb,kinetics700,257,ice_climbing,is-a
+308,hmdb51,7,dive,kinetics700,273,jumping_into_pool,is-a
+309,hmdb51,5,climb,kinetics700,491,rock_climbing,is-a
+310,kinetics700,491,rock_climbing,hmdb51,6,climb_stairs,similar
+311,hmdb51,7,dive,kinetics700,550,skydiving,is-a
+312,hmdb51,7,dive,kinetics700,574,springboard_diving,is-a
+313,kinetics700,483,riding_or_walking_with_horse,hmdb51,31,ride_horse,equal
+314,hmdb51,27,punch,kinetics700,458,punching_bag,is-a
+315,kinetics700,602,sword_fighting,hmdb51,8,draw_sword,similar
+316,kinetics700,602,sword_fighting,hmdb51,13,fencing,is-a
+317,hmdb51,44,sword,kinetics700,602,sword_fighting,is-a
+318,kinetics700,602,sword_fighting,hmdb51,45,sword_exercise,similar
+319,hmdb51,49,walk,kinetics700,266,jaywalking,is-a
+320,hmdb51,32,run,kinetics700,268,jogging,is-a
+321,hmdb51,19,jump,kinetics700,272,jumping_bicycle,is-a
+322,hmdb51,28,push,kinetics700,461,pushing_car,is-a
+323,hmdb51,28,push,kinetics700,462,pushing_cart,is-a
+324,hmdb51,28,push,kinetics700,463,pushing_wheelbarrow,is-a
+325,hmdb51,28,push,kinetics700,464,pushing_wheelchair,is-a
+326,kinetics700,478,riding_a_bike,hmdb51,30,ride_bike,equal
+327,kinetics700,484,riding_scooter,hmdb51,30,ride_bike,similar
+328,kinetics700,486,riding_unicycle,hmdb51,30,ride_bike,similar
+329,hmdb51,32,run,kinetics700,497,running_on_treadmill,is-a
+330,hmdb51,49,walk,kinetics700,664,wading_through_mud,is-a
+331,hmdb51,49,walk,kinetics700,668,walking_on_stilts,is-a
+332,hmdb51,49,walk,kinetics700,670,walking_through_snow,is-a
+333,hmdb51,49,walk,kinetics700,671,walking_with_crutches,is-a
+334,hmdb51,7,dive,kinetics700,508,scuba_diving,is-a
+335,hmdb51,34,shoot_ball,kinetics700,380,playing_beer_pong,is-a
+336,hmdb51,34,shoot_ball,kinetics700,381,playing_billiards,is-a
+337,hmdb51,34,shoot_ball,kinetics700,416,playing_paintball,is-a
+338,hmdb51,34,shoot_ball,kinetics700,420,playing_pinball,is-a
+339,hmdb51,17,hit,kinetics700,245,hitting_baseball,is-a
+340,hmdb51,47,throw,kinetics700,76,card_throwing,is-a
+341,hmdb51,47,throw,kinetics700,622,throwing_knife,is-a
+342,hmdb51,47,throw,kinetics700,623,throwing_snowballs,is-a
+343,hmdb51,47,throw,kinetics700,625,throwing_water_balloon,is-a
+344,kinetics700,513,shaking_hands,hmdb51,33,shake_hands,equal
+345,hmdb51,7,dive,kinetics700,239,helmet_diving,is-a
+346,stair_actions,47,making_up,ucf101,0,ApplyEyeMakeup,is-a
+347,stair_actions,47,making_up,ucf101,1,ApplyLipstick,is-a
+348,ucf101,3,BabyCrawling,stair_actions,2,baby_crawling,equal
+349,stair_actions,89,walking,ucf101,5,BandMarching,is-a
+350,stair_actions,84,throwing,ucf101,6,BaseballPitch,is-a
+351,stair_actions,26,exercising,ucf101,6,BaseballPitch,is-a
+352,stair_actions,26,exercising,ucf101,9,BenchPress,is-a
+353,stair_actions,67,setting_hair,ucf101,12,BlowDryHair,is-a
+354,ucf101,12,BlowDryHair,stair_actions,22,drying_hair_with_blower,equal
+355,ucf101,13,BlowingCandles,stair_actions,6,blowing_flute,similar
+356,stair_actions,26,exercising,ucf101,14,BodyWeightSquats,is-a
+357,stair_actions,26,exercising,ucf101,16,BoxingPunchingBag,is-a
+358,stair_actions,26,exercising,ucf101,17,BoxingSpeedBag,is-a
+359,ucf101,19,BrushingTeeth,stair_actions,9,brushing_teeth,equal
+360,stair_actions,26,exercising,ucf101,20,CleanAndJerk,is-a
+361,ucf101,24,CuttingInKitchen,stair_actions,15,cutting_food,equal
+362,stair_actions,13,cooking,ucf101,24,CuttingInKitchen,is-a
+363,stair_actions,26,exercising,ucf101,29,FloorGymnastics,is-a
+364,stair_actions,67,setting_hair,ucf101,33,Haircut,is-a
+365,stair_actions,26,exercising,ucf101,36,HandstandPushups,is-a
+366,stair_actions,89,walking,ucf101,37,HandstandWalking,is-a
+367,stair_actions,26,exercising,ucf101,37,HandstandWalking,is-a
+368,stair_actions,32,giving_massage,ucf101,38,HeadMassage,is-a
+369,ucf101,39,HighJump,stair_actions,42,jumping_on_sofa_or_bed,similar
+370,stair_actions,26,exercising,ucf101,42,HulaHoop,is-a
+371,ucf101,49,Knitting,stair_actions,44,knitting_or_stitching,equal
+372,stair_actions,26,exercising,ucf101,51,Lunges,is-a
+373,stair_actions,13,cooking,ucf101,53,Mixing,is-a
+374,stair_actions,39,housecleaning,ucf101,54,MoppingFloor,is-a
+375,stair_actions,13,cooking,ucf101,57,PizzaTossing,is-a
+376,ucf101,58,PlayingCello,stair_actions,56,playing_guitar,similar
+377,ucf101,58,PlayingCello,stair_actions,57,playing_piano,similar
+378,ucf101,58,PlayingCello,stair_actions,6,blowing_flute,similar
+379,ucf101,59,PlayingDaf,stair_actions,56,playing_guitar,similar
+380,ucf101,59,PlayingDaf,stair_actions,57,playing_piano,similar
+381,ucf101,59,PlayingDaf,stair_actions,6,blowing_flute,similar
+382,ucf101,60,PlayingDhol,stair_actions,56,playing_guitar,similar
+383,ucf101,60,PlayingDhol,stair_actions,57,playing_piano,similar
+384,ucf101,60,PlayingDhol,stair_actions,6,blowing_flute,similar
+385,ucf101,61,PlayingFlute,stair_actions,56,playing_guitar,similar
+386,ucf101,61,PlayingFlute,stair_actions,57,playing_piano,similar
+387,ucf101,61,PlayingFlute,stair_actions,6,blowing_flute,equal
+388,ucf101,62,PlayingGuitar,stair_actions,56,playing_guitar,equal
+389,ucf101,62,PlayingGuitar,stair_actions,57,playing_piano,similar
+390,ucf101,62,PlayingGuitar,stair_actions,6,blowing_flute,similar
+391,ucf101,63,PlayingPiano,stair_actions,56,playing_guitar,similar
+392,ucf101,63,PlayingPiano,stair_actions,57,playing_piano,equal
+393,ucf101,63,PlayingPiano,stair_actions,6,blowing_flute,similar
+394,ucf101,64,PlayingSitar,stair_actions,56,playing_guitar,similar
+395,ucf101,64,PlayingSitar,stair_actions,57,playing_piano,similar
+396,ucf101,64,PlayingSitar,stair_actions,6,blowing_flute,similar
+397,ucf101,65,PlayingTabla,stair_actions,56,playing_guitar,similar
+398,ucf101,65,PlayingTabla,stair_actions,57,playing_piano,similar
+399,ucf101,65,PlayingTabla,stair_actions,6,blowing_flute,similar
+400,ucf101,66,PlayingViolin,stair_actions,56,playing_guitar,similar
+401,ucf101,66,PlayingViolin,stair_actions,57,playing_piano,similar
+402,ucf101,66,PlayingViolin,stair_actions,6,blowing_flute,similar
+403,stair_actions,26,exercising,ucf101,69,PullUps,is-a
+404,stair_actions,26,exercising,ucf101,71,PushUps,is-a
+405,stair_actions,26,exercising,ucf101,76,SalsaSpin,is-a
+406,stair_actions,16,dancing,ucf101,76,SalsaSpin,is-a
+407,stair_actions,71,shaving,ucf101,77,ShavingBeard,is-a
+408,ucf101,93,TrampolineJumping,stair_actions,42,jumping_on_sofa_or_bed,similar
+409,stair_actions,26,exercising,ucf101,93,TrampolineJumping,is-a
+410,ucf101,94,Typing,stair_actions,86,using_computer,similar
+411,ucf101,97,WalkingWithDog,stair_actions,90,walking_with_stick,similar
+412,stair_actions,89,walking,ucf101,97,WalkingWithDog,is-a
+413,stair_actions,26,exercising,ucf101,98,WallPushups,is-a
+414,stair_actions,99,writing,ucf101,99,WritingOnBoard,is-a
+415,stair_actions,58,playing_with_toy,ucf101,100,YoYo,is-a
+416,kinetics700,58,brush_painting,stair_actions,48,manicuring,similar
+417,kinetics700,58,brush_painting,stair_actions,20,drawing_picture,similar
+418,stair_actions,44,knitting_or_stitching,kinetics700,132,crocheting,is-a
+419,kinetics700,167,drawing,stair_actions,20,drawing_picture,equal
+420,stair_actions,44,knitting_or_stitching,kinetics700,190,embroidering,is-a
+421,kinetics700,190,embroidering,stair_actions,68,sewing,similar
+422,kinetics700,282,knitting,stair_actions,44,knitting_or_stitching,equal
+423,stair_actions,18,doing_origami,kinetics700,314,making_paper_aeroplanes,is-a
+424,kinetics700,687,weaving_fabric,stair_actions,44,knitting_or_stitching,similar
+425,stair_actions,84,throwing,kinetics700,87,catching_or_throwing_frisbee,is-a
+426,stair_actions,84,throwing,kinetics700,158,disc_golfing,is-a
+427,stair_actions,84,throwing,kinetics700,234,hammer_throw,is-a
+428,stair_actions,84,throwing,kinetics700,265,javelin_throw,is-a
+429,stair_actions,84,throwing,kinetics700,528,shot_put,is-a
+430,stair_actions,84,throwing,kinetics700,619,throwing_axe,is-a
+431,stair_actions,84,throwing,kinetics700,621,throwing_discus,is-a
+432,stair_actions,84,throwing,kinetics700,86,catching_or_throwing_baseball,is-a
+433,stair_actions,84,throwing,kinetics700,88,catching_or_throwing_softball,is-a
+434,stair_actions,53,passing_something,kinetics700,354,passing_American_football_(in_game),is-a
+435,stair_actions,53,passing_something,kinetics700,355,passing_American_football_(not_in_game),is-a
+436,stair_actions,53,passing_something,kinetics700,356,passing_soccer_ball,is-a
+437,stair_actions,84,throwing,kinetics700,620,throwing_ball_(not_baseball_or_American_football),is-a
+438,kinetics700,6,applauding,stair_actions,12,clapping_hands,equal
+439,kinetics700,49,bouncing_on_bouncy_castle,stair_actions,42,jumping_on_sofa_or_bed,similar
+440,kinetics700,103,clapping,stair_actions,12,clapping_hands,equal
+441,stair_actions,70,shaking_head,kinetics700,237,headbanging,is-a
+442,kinetics700,275,jumping_sofa,stair_actions,42,jumping_on_sofa_or_bed,equal
+443,kinetics700,500,saluting,stair_actions,8,bowing,similar
+444,kinetics700,514,shaking_head,stair_actions,70,shaking_head,equal
+445,kinetics700,554,sleeping,stair_actions,73,sleeping_on_bed,is-a
+446,kinetics700,302,looking_at_phone,stair_actions,87,using_smartphone,similar
+447,kinetics700,608,talking_on_cell_phone,stair_actions,87,using_smartphone,similar
+448,stair_actions,39,housecleaning,kinetics700,59,brushing_floor,is-a
+449,stair_actions,39,housecleaning,kinetics700,106,cleaning_gutters,is-a
+450,kinetics700,108,cleaning_shoes,stair_actions,60,polishing_shoe,is-a
+451,stair_actions,39,housecleaning,kinetics700,109,cleaning_toilet,is-a
+452,stair_actions,39,housecleaning,kinetics700,110,cleaning_windows,is-a
+453,kinetics700,110,cleaning_windows,stair_actions,98,wiping_window,is-a
+454,stair_actions,39,housecleaning,kinetics700,333,mopping_floor,is-a
+455,stair_actions,39,housecleaning,kinetics700,444,polishing_furniture,is-a
+456,kinetics700,522,shining_shoes,stair_actions,60,polishing_shoe,equal
+457,stair_actions,39,housecleaning,kinetics700,592,sweeping_floor,is-a
+458,stair_actions,39,housecleaning,kinetics700,662,vacuuming_floor,is-a
+459,kinetics700,672,washing_dishes,stair_actions,91,washing_dish,equal
+460,stair_actions,63,putting_on_cloth,kinetics700,124,cosplaying,is-a
+461,kinetics700,213,folding_clothes,stair_actions,29,folding_laundry,equal
+462,kinetics700,263,ironing,stair_actions,41,ironing,equal
+463,stair_actions,63,putting_on_cloth,kinetics700,470,putting_on_sari,is-a
+464,kinetics700,471,putting_on_shoes,stair_actions,96,wearing_shoes,equal
+465,stair_actions,97,wearing_tie,kinetics700,641,tying_bow_tie,is-a
+466,stair_actions,97,wearing_tie,kinetics700,643,tying_necktie,is-a
+467,stair_actions,96,wearing_shoes,kinetics700,644,tying_shoe_laces,is-a
+468,kinetics700,135,crying,stair_actions,3,baby_crying,is-a
+469,kinetics700,135,crying,stair_actions,14,crying,equal
+470,stair_actions,13,cooking,kinetics700,20,baking_cookies,is-a
+471,stair_actions,13,cooking,kinetics700,22,barbequing,is-a
+472,stair_actions,13,cooking,kinetics700,53,breading_or_breadcrumbing,is-a
+473,stair_actions,15,cutting_food,kinetics700,100,chopping_meat,is-a
+474,stair_actions,13,cooking,kinetics700,119,cooking_chicken,is-a
+475,stair_actions,13,cooking,kinetics700,120,cooking_egg,is-a
+476,stair_actions,13,cooking,kinetics700,121,cooking_on_campfire,is-a
+477,stair_actions,13,cooking,kinetics700,122,cooking_sausages_(not_on_barbeque),is-a
+478,stair_actions,13,cooking,kinetics700,123,cooking_scallops,is-a
+479,stair_actions,15,cutting_food,kinetics700,140,cutting_apple,is-a
+480,stair_actions,15,cutting_food,kinetics700,141,cutting_cake,is-a
+481,stair_actions,15,cutting_food,kinetics700,143,cutting_orange,is-a
+482,stair_actions,15,cutting_food,kinetics700,144,cutting_pineapple,is-a
+483,stair_actions,15,cutting_food,kinetics700,145,cutting_watermelon,is-a
+484,stair_actions,13,cooking,kinetics700,203,filling_cake,is-a
+485,stair_actions,13,cooking,kinetics700,210,flipping_pancake,is-a
+486,stair_actions,13,cooking,kinetics700,217,frying_vegetables,is-a
+487,stair_actions,15,cutting_food,kinetics700,229,grinding_meat,is-a
+488,stair_actions,13,cooking,kinetics700,306,making_a_cake,is-a
+489,stair_actions,13,cooking,kinetics700,307,making_a_sandwich,is-a
+490,stair_actions,13,cooking,kinetics700,315,making_pizza,is-a
+491,stair_actions,13,cooking,kinetics700,318,making_sushi,is-a
+492,stair_actions,13,cooking,kinetics700,441,poaching_eggs,is-a
+493,stair_actions,13,cooking,kinetics700,450,preparing_salad,is-a
+494,stair_actions,13,cooking,kinetics700,488,roasting_marshmallows,is-a
+495,stair_actions,13,cooking,kinetics700,489,roasting_pig,is-a
+496,stair_actions,13,cooking,kinetics700,495,rolling_pastry,is-a
+497,stair_actions,13,cooking,kinetics700,505,scrambling_eggs,is-a
+498,stair_actions,13,cooking,kinetics700,509,seasoning_food,is-a
+499,stair_actions,13,cooking,kinetics700,515,shaping_bread_dough,is-a
+500,stair_actions,15,cutting_food,kinetics700,555,slicing_onion,is-a
+501,stair_actions,13,cooking,kinetics700,632,tossing_salad,is-a
+502,stair_actions,16,dancing,kinetics700,31,belly_dancing,is-a
+503,stair_actions,16,dancing,kinetics700,54,breakdancing,is-a
+504,stair_actions,16,dancing,kinetics700,73,capoeira,is-a
+505,stair_actions,16,dancing,kinetics700,96,cheerleading,is-a
+506,stair_actions,16,dancing,kinetics700,127,country_line_dancing,is-a
+507,stair_actions,16,dancing,kinetics700,136,cumbia,is-a
+508,stair_actions,16,dancing,kinetics700,146,dancing_ballet,is-a
+509,stair_actions,16,dancing,kinetics700,147,dancing_charleston,is-a
+510,stair_actions,16,dancing,kinetics700,148,dancing_gangnam_style,is-a
+511,stair_actions,16,dancing,kinetics700,149,dancing_macarena,is-a
+512,stair_actions,16,dancing,kinetics700,276,jumpstyle_dancing,is-a
+513,stair_actions,16,dancing,kinetics700,283,krumping,is-a
+514,stair_actions,16,dancing,kinetics700,321,marching,is-a
+515,stair_actions,16,dancing,kinetics700,332,moon_walking,is-a
+516,stair_actions,16,dancing,kinetics700,334,mosh_pit_dancing,is-a
+517,stair_actions,16,dancing,kinetics700,370,pirouetting,is-a
+518,stair_actions,16,dancing,kinetics700,490,robot_dancing,is-a
+519,stair_actions,16,dancing,kinetics700,499,salsa_dancing,is-a
+520,stair_actions,16,dancing,kinetics700,523,shoot_dance,is-a
+521,stair_actions,16,dancing,kinetics700,534,shuffling_feet,is-a
+522,stair_actions,16,dancing,kinetics700,538,silent_disco,is-a
+523,stair_actions,16,dancing,kinetics700,575,square_dancing,is-a
+524,stair_actions,16,dancing,kinetics700,599,swing_dancing,is-a
+525,stair_actions,16,dancing,kinetics700,609,tango_dancing,is-a
+526,stair_actions,16,dancing,kinetics700,610,tap_dancing,is-a
+527,stair_actions,16,dancing,kinetics700,699,zumba,is-a
+528,kinetics700,156,dining,stair_actions,23,eating_meal,equal
+529,kinetics700,156,dining,stair_actions,24,eating_snack,similar
+530,stair_actions,21,drinking,kinetics700,169,drinking_shots,is-a
+531,stair_actions,23,eating_meal,kinetics700,179,eating_burger,is-a
+532,stair_actions,24,eating_snack,kinetics700,179,eating_burger,is-a
+533,kinetics700,180,eating_cake,stair_actions,23,eating_meal,similar
+534,stair_actions,24,eating_snack,kinetics700,180,eating_cake,is-a
+535,stair_actions,23,eating_meal,kinetics700,181,eating_carrots,is-a
+536,stair_actions,24,eating_snack,kinetics700,181,eating_carrots,is-a
+537,stair_actions,23,eating_meal,kinetics700,182,eating_chips,is-a
+538,stair_actions,24,eating_snack,kinetics700,182,eating_chips,is-a
+539,stair_actions,23,eating_meal,kinetics700,183,eating_doughnuts,is-a
+540,stair_actions,24,eating_snack,kinetics700,183,eating_doughnuts,is-a
+541,stair_actions,23,eating_meal,kinetics700,184,eating_hotdog,is-a
+542,stair_actions,24,eating_snack,kinetics700,184,eating_hotdog,is-a
+543,stair_actions,24,eating_snack,kinetics700,185,eating_ice_cream,is-a
+544,stair_actions,23,eating_meal,kinetics700,186,eating_nachos,is-a
+545,stair_actions,24,eating_snack,kinetics700,186,eating_nachos,is-a
+546,stair_actions,23,eating_meal,kinetics700,187,eating_spaghetti,is-a
+547,kinetics700,187,eating_spaghetti,stair_actions,24,eating_snack,similar
+548,stair_actions,23,eating_meal,kinetics700,188,eating_watermelon,is-a
+549,stair_actions,24,eating_snack,kinetics700,188,eating_watermelon,is-a
+550,kinetics700,447,pouring_beer,stair_actions,61,pouring_tea_or_coffee,similar
+551,kinetics700,448,pouring_milk,stair_actions,61,pouring_tea_or_coffee,similar
+552,kinetics700,449,pouring_wine,stair_actions,61,pouring_tea_or_coffee,similar
+553,stair_actions,61,pouring_tea_or_coffee,kinetics700,454,pulling_espresso_shot,is-a
+554,stair_actions,21,drinking,kinetics700,540,sipping_cup,is-a
+555,kinetics700,613,tasting_beer,stair_actions,21,drinking,similar
+556,kinetics700,614,tasting_food,stair_actions,23,eating_meal,similar
+557,kinetics700,615,tasting_wine,stair_actions,21,drinking,similar
+558,stair_actions,87,using_smartphone,kinetics700,617,texting,is-a
+559,kinetics700,617,texting,stair_actions,88,using_tablet,similar
+560,kinetics700,659,using_remote_controller_(not_gaming),stair_actions,52,operating_remote_control,equal
+561,stair_actions,26,exercising,kinetics700,26,battle_rope_training,is-a
+562,stair_actions,26,exercising,kinetics700,32,bench_pressing,is-a
+563,stair_actions,26,exercising,kinetics700,105,clean_and_jerk,is-a
+564,stair_actions,26,exercising,kinetics700,118,contorting,is-a
+565,stair_actions,26,exercising,kinetics700,150,deadlifting,is-a
+566,kinetics700,162,doing_aerobics,stair_actions,89,walking,is-a
+567,stair_actions,26,exercising,kinetics700,162,doing_aerobics,is-a
+568,stair_actions,26,exercising,kinetics700,192,exercising_arm,is-a
+569,stair_actions,26,exercising,kinetics700,193,exercising_with_an_exercise_ball,is-a
+570,stair_actions,26,exercising,kinetics700,216,front_raises,is-a
+571,stair_actions,26,exercising,kinetics700,236,head_stand,is-a
+572,stair_actions,26,exercising,kinetics700,274,jumping_jacks,is-a
+573,stair_actions,26,exercising,kinetics700,305,lunge,is-a
+574,stair_actions,89,walking,kinetics700,336,mountain_climber_(exercise),is-a
+575,stair_actions,26,exercising,kinetics700,336,mountain_climber_(exercise),is-a
+576,stair_actions,26,exercising,kinetics700,453,pull_ups,is-a
+577,stair_actions,26,exercising,kinetics700,460,push_up,is-a
+578,stair_actions,26,exercising,kinetics700,496,rope_pushdown,is-a
+579,stair_actions,26,exercising,kinetics700,541,situp,is-a
+580,stair_actions,26,exercising,kinetics700,561,snatch_weight_lifting,is-a
+581,stair_actions,26,exercising,kinetics700,576,squat,is-a
+582,stair_actions,26,exercising,kinetics700,580,standing_on_hands,is-a
+583,stair_actions,26,exercising,kinetics700,698,yoga,is-a
+584,stair_actions,30,gardening,kinetics700,41,blowing_leaves,is-a
+585,stair_actions,30,gardening,kinetics700,340,mowing_lawn,is-a
+586,stair_actions,30,gardening,kinetics700,366,picking_apples,is-a
+587,stair_actions,30,gardening,kinetics700,367,picking_blueberries,is-a
+588,stair_actions,30,gardening,kinetics700,372,planting_trees,is-a
+589,stair_actions,30,gardening,kinetics700,637,trimming_shrubs,is-a
+590,stair_actions,30,gardening,kinetics700,638,trimming_trees,is-a
+591,stair_actions,30,gardening,kinetics700,679,watering_plants,is-a
+592,stair_actions,26,exercising,kinetics700,50,bouncing_on_trampoline,is-a
+593,stair_actions,67,setting_hair,kinetics700,38,blowdrying_hair,is-a
+594,kinetics700,38,blowdrying_hair,stair_actions,22,drying_hair_with_blower,equal
+595,stair_actions,67,setting_hair,kinetics700,52,braiding_hair,is-a
+596,stair_actions,67,setting_hair,kinetics700,60,brushing_hair,is-a
+597,stair_actions,67,setting_hair,kinetics700,116,combing_hair,is-a
+598,stair_actions,67,setting_hair,kinetics700,139,curling_hair,is-a
+599,kinetics700,207,fixing_hair,stair_actions,67,setting_hair,similar
+600,kinetics700,207,fixing_hair,stair_actions,22,drying_hair_with_blower,is-a
+601,stair_actions,67,setting_hair,kinetics700,264,ironing_hair,is-a
+602,stair_actions,41,ironing,kinetics700,264,ironing_hair,is-a
+603,stair_actions,67,setting_hair,kinetics700,674,washing_hair,is-a
+604,kinetics700,61,brushing_teeth,stair_actions,9,brushing_teeth,equal
+605,kinetics700,218,gargling,stair_actions,31,gargling,equal
+606,kinetics700,558,smoking,stair_actions,75,smoking,equal
+607,stair_actions,75,smoking,kinetics700,559,smoking_hookah,is-a
+608,stair_actions,75,smoking,kinetics700,560,smoking_pipe,is-a
+609,kinetics700,230,grooming_cat,stair_actions,79,stroking_animal,similar
+610,kinetics700,231,grooming_dog,stair_actions,79,stroking_animal,similar
+611,kinetics700,232,grooming_horse,stair_actions,79,stroking_animal,similar
+612,kinetics700,361,petting_animal_(not_cat),stair_actions,79,stroking_animal,equal
+613,kinetics700,362,petting_cat,stair_actions,79,stroking_animal,is-a
+614,kinetics700,363,petting_horse,stair_actions,79,stroking_animal,is-a
+615,stair_actions,47,making_up,kinetics700,138,curling_eyelashes,is-a
+616,kinetics700,165,doing_nails,stair_actions,48,manicuring,is-a
+617,stair_actions,47,making_up,kinetics700,177,dyeing_eyebrows,is-a
+618,stair_actions,47,making_up,kinetics700,204,filling_eyebrows,is-a
+619,stair_actions,47,making_up,kinetics700,466,putting_on_eyeliner,is-a
+620,stair_actions,47,making_up,kinetics700,467,putting_on_foundation,is-a
+621,stair_actions,47,making_up,kinetics700,468,putting_on_lipstick,is-a
+622,stair_actions,47,making_up,kinetics700,469,putting_on_mascara,is-a
+623,stair_actions,28,fighting,kinetics700,11,arm_wrestling,is-a
+624,stair_actions,28,fighting,kinetics700,602,sword_fighting,is-a
+625,stair_actions,28,fighting,kinetics700,694,wrestling,is-a
+626,kinetics700,131,crawling_baby,stair_actions,2,baby_crawling,equal
+627,stair_actions,89,walking,kinetics700,266,jaywalking,is-a
+628,kinetics700,497,running_on_treadmill,stair_actions,66,running_around,similar
+629,stair_actions,89,walking,kinetics700,664,wading_through_mud,is-a
+630,kinetics700,668,walking_on_stilts,stair_actions,90,walking_with_stick,similar
+631,stair_actions,89,walking,kinetics700,668,walking_on_stilts,is-a
+632,kinetics700,670,walking_through_snow,stair_actions,90,walking_with_stick,similar
+633,stair_actions,89,walking,kinetics700,670,walking_through_snow,is-a
+634,stair_actions,90,walking_with_stick,kinetics700,671,walking_with_crutches,is-a
+635,stair_actions,89,walking,kinetics700,671,walking_with_crutches,is-a
+636,kinetics700,69,busking,stair_actions,56,playing_guitar,is-a
+637,kinetics700,69,busking,stair_actions,57,playing_piano,is-a
+638,kinetics700,69,busking,stair_actions,6,blowing_flute,is-a
+639,kinetics700,374,playing_accordion,stair_actions,56,playing_guitar,similar
+640,kinetics700,374,playing_accordion,stair_actions,57,playing_piano,similar
+641,kinetics700,377,playing_bagpipes,stair_actions,56,playing_guitar,similar
+642,kinetics700,377,playing_bagpipes,stair_actions,57,playing_piano,similar
+643,stair_actions,56,playing_guitar,kinetics700,379,playing_bass_guitar,is-a
+644,kinetics700,379,playing_bass_guitar,stair_actions,57,playing_piano,similar
+645,kinetics700,384,playing_cello,stair_actions,56,playing_guitar,similar
+646,kinetics700,384,playing_cello,stair_actions,57,playing_piano,similar
+647,kinetics700,387,playing_clarinet,stair_actions,56,playing_guitar,similar
+648,kinetics700,387,playing_clarinet,stair_actions,57,playing_piano,similar
+649,kinetics700,390,playing_cymbals,stair_actions,56,playing_guitar,similar
+650,kinetics700,390,playing_cymbals,stair_actions,57,playing_piano,similar
+651,kinetics700,392,playing_didgeridoo,stair_actions,56,playing_guitar,similar
+652,kinetics700,392,playing_didgeridoo,stair_actions,57,playing_piano,similar
+653,kinetics700,394,playing_drums,stair_actions,56,playing_guitar,similar
+654,kinetics700,394,playing_drums,stair_actions,57,playing_piano,similar
+655,kinetics700,396,playing_flute,stair_actions,56,playing_guitar,similar
+656,kinetics700,396,playing_flute,stair_actions,57,playing_piano,similar
+657,kinetics700,396,playing_flute,stair_actions,6,blowing_flute,equal
+658,kinetics700,398,playing_guitar,stair_actions,56,playing_guitar,equal
+659,kinetics700,398,playing_guitar,stair_actions,57,playing_piano,similar
+660,kinetics700,400,playing_harmonica,stair_actions,56,playing_guitar,similar
+661,kinetics700,400,playing_harmonica,stair_actions,57,playing_piano,similar
+662,kinetics700,401,playing_harp,stair_actions,56,playing_guitar,similar
+663,kinetics700,401,playing_harp,stair_actions,57,playing_piano,similar
+664,kinetics700,403,playing_keyboard,stair_actions,56,playing_guitar,similar
+665,kinetics700,403,playing_keyboard,stair_actions,57,playing_piano,similar
+666,kinetics700,406,playing_lute,stair_actions,56,playing_guitar,similar
+667,kinetics700,406,playing_lute,stair_actions,57,playing_piano,similar
+668,kinetics700,408,playing_maracas,stair_actions,56,playing_guitar,similar
+669,kinetics700,408,playing_maracas,stair_actions,57,playing_piano,similar
+670,kinetics700,412,playing_nose_flute,stair_actions,56,playing_guitar,similar
+671,kinetics700,412,playing_nose_flute,stair_actions,57,playing_piano,similar
+672,kinetics700,412,playing_nose_flute,stair_actions,6,blowing_flute,similar
+673,kinetics700,413,playing_oboe,stair_actions,56,playing_guitar,similar
+674,kinetics700,413,playing_oboe,stair_actions,57,playing_piano,similar
+675,kinetics700,414,playing_ocarina,stair_actions,56,playing_guitar,similar
+676,kinetics700,414,playing_ocarina,stair_actions,57,playing_piano,similar
+677,kinetics700,415,playing_organ,stair_actions,56,playing_guitar,similar
+678,kinetics700,415,playing_organ,stair_actions,57,playing_piano,similar
+679,kinetics700,417,playing_pan_pipes,stair_actions,56,playing_guitar,similar
+680,kinetics700,417,playing_pan_pipes,stair_actions,57,playing_piano,similar
+681,kinetics700,418,playing_piano,stair_actions,56,playing_guitar,similar
+682,kinetics700,418,playing_piano,stair_actions,57,playing_piano,equal
+683,kinetics700,419,playing_piccolo,stair_actions,56,playing_guitar,similar
+684,kinetics700,419,playing_piccolo,stair_actions,57,playing_piano,similar
+685,kinetics700,424,playing_recorder,stair_actions,56,playing_guitar,similar
+686,kinetics700,424,playing_recorder,stair_actions,57,playing_piano,similar
+687,kinetics700,428,playing_saxophone,stair_actions,56,playing_guitar,similar
+688,kinetics700,428,playing_saxophone,stair_actions,57,playing_piano,similar
+689,kinetics700,434,playing_trombone,stair_actions,56,playing_guitar,similar
+690,kinetics700,434,playing_trombone,stair_actions,57,playing_piano,similar
+691,kinetics700,435,playing_trumpet,stair_actions,56,playing_guitar,similar
+692,kinetics700,435,playing_trumpet,stair_actions,57,playing_piano,similar
+693,kinetics700,436,playing_ukulele,stair_actions,56,playing_guitar,similar
+694,kinetics700,436,playing_ukulele,stair_actions,57,playing_piano,similar
+695,kinetics700,437,playing_violin,stair_actions,56,playing_guitar,similar
+696,kinetics700,437,playing_violin,stair_actions,57,playing_piano,similar
+697,kinetics700,440,playing_xylophone,stair_actions,56,playing_guitar,similar
+698,kinetics700,440,playing_xylophone,stair_actions,57,playing_piano,similar
+699,stair_actions,56,playing_guitar,kinetics700,611,tapping_guitar,is-a
+700,kinetics700,397,playing_gong,stair_actions,56,playing_guitar,similar
+701,kinetics700,397,playing_gong,stair_actions,57,playing_piano,similar
+702,stair_actions,99,writing,kinetics700,71,calligraphy,is-a
+703,kinetics700,474,reading_book,stair_actions,65,reading_newspaper,similar
+704,kinetics700,475,reading_newspaper,stair_actions,65,reading_newspaper,equal
+705,kinetics700,695,writing,stair_actions,99,writing,equal
+706,kinetics700,673,washing_feet,stair_actions,93,washing_hands,similar
+707,kinetics700,673,washing_feet,stair_actions,92,washing_face,similar
+708,kinetics700,675,washing_hands,stair_actions,93,washing_hands,equal
+709,kinetics700,675,washing_hands,stair_actions,92,washing_face,similar
+710,kinetics700,380,playing_beer_pong,stair_actions,54,playing_board_game,similar
+711,kinetics700,380,playing_beer_pong,stair_actions,55,playing_computer_game,similar
+712,kinetics700,381,playing_billiards,stair_actions,54,playing_board_game,similar
+713,kinetics700,381,playing_billiards,stair_actions,55,playing_computer_game,similar
+714,kinetics700,382,playing_blackjack,stair_actions,54,playing_board_game,similar
+715,kinetics700,382,playing_blackjack,stair_actions,55,playing_computer_game,similar
+716,kinetics700,383,playing_cards,stair_actions,54,playing_board_game,similar
+717,kinetics700,383,playing_cards,stair_actions,55,playing_computer_game,similar
+718,stair_actions,54,playing_board_game,kinetics700,385,playing_checkers,is-a
+719,kinetics700,385,playing_checkers,stair_actions,55,playing_computer_game,similar
+720,stair_actions,54,playing_board_game,kinetics700,386,playing_chess,is-a
+721,kinetics700,386,playing_chess,stair_actions,55,playing_computer_game,similar
+722,kinetics700,391,playing_darts,stair_actions,54,playing_board_game,similar
+723,kinetics700,391,playing_darts,stair_actions,55,playing_computer_game,similar
+724,kinetics700,393,playing_dominoes,stair_actions,54,playing_board_game,similar
+725,kinetics700,393,playing_dominoes,stair_actions,55,playing_computer_game,similar
+726,kinetics700,399,playing_hand_clapping_games,stair_actions,54,playing_board_game,similar
+727,kinetics700,399,playing_hand_clapping_games,stair_actions,55,playing_computer_game,similar
+728,kinetics700,405,playing_laser_tag,stair_actions,54,playing_board_game,similar
+729,kinetics700,405,playing_laser_tag,stair_actions,55,playing_computer_game,similar
+730,kinetics700,407,playing_mahjong,stair_actions,54,playing_board_game,similar
+731,kinetics700,407,playing_mahjong,stair_actions,55,playing_computer_game,similar
+732,kinetics700,409,playing_marbles,stair_actions,54,playing_board_game,similar
+733,kinetics700,409,playing_marbles,stair_actions,55,playing_computer_game,similar
+734,stair_actions,54,playing_board_game,kinetics700,410,playing_monopoly,is-a
+735,kinetics700,410,playing_monopoly,stair_actions,55,playing_computer_game,similar
+736,kinetics700,416,playing_paintball,stair_actions,54,playing_board_game,similar
+737,kinetics700,416,playing_paintball,stair_actions,55,playing_computer_game,similar
+738,kinetics700,420,playing_pinball,stair_actions,54,playing_board_game,similar
+739,kinetics700,420,playing_pinball,stair_actions,55,playing_computer_game,similar
+740,kinetics700,422,playing_poker,stair_actions,54,playing_board_game,similar
+741,kinetics700,422,playing_poker,stair_actions,55,playing_computer_game,similar
+742,kinetics700,427,playing_rubiks_cube,stair_actions,54,playing_board_game,similar
+743,kinetics700,427,playing_rubiks_cube,stair_actions,55,playing_computer_game,similar
+744,stair_actions,54,playing_board_game,kinetics700,429,playing_scrabble,is-a
+745,kinetics700,429,playing_scrabble,stair_actions,55,playing_computer_game,similar
+746,kinetics700,430,playing_shuffleboard,stair_actions,54,playing_board_game,similar
+747,kinetics700,430,playing_shuffleboard,stair_actions,55,playing_computer_game,similar
+748,kinetics700,431,playing_slot_machine,stair_actions,54,playing_board_game,similar
+749,kinetics700,431,playing_slot_machine,stair_actions,55,playing_computer_game,similar
+750,kinetics700,439,playing_with_trains,stair_actions,54,playing_board_game,similar
+751,kinetics700,492,rock_scissors_paper,stair_actions,19,doing_paper-rock-scissors,equal
+752,kinetics700,76,card_throwing,stair_actions,85,throwing_trash,similar
+753,stair_actions,84,throwing,kinetics700,76,card_throwing,is-a
+754,kinetics700,622,throwing_knife,stair_actions,85,throwing_trash,similar
+755,stair_actions,84,throwing,kinetics700,622,throwing_knife,is-a
+756,kinetics700,623,throwing_snowballs,stair_actions,85,throwing_trash,similar
+757,stair_actions,84,throwing,kinetics700,623,throwing_snowballs,is-a
+758,kinetics700,625,throwing_water_balloon,stair_actions,85,throwing_trash,similar
+759,stair_actions,84,throwing,kinetics700,625,throwing_water_balloon,is-a
+760,stair_actions,37,holding_someone,kinetics700,77,carrying_baby,is-a
+761,kinetics700,241,high_fiving,stair_actions,17,doing_high_five,equal
+762,stair_actions,37,holding_someone,kinetics700,252,hugging_(not_baby),is-a
+763,kinetics700,252,hugging_(not_baby),stair_actions,40,hugging,equal
+764,stair_actions,37,holding_someone,kinetics700,253,hugging_baby,is-a
+765,stair_actions,40,hugging,kinetics700,253,hugging_baby,is-a
+766,stair_actions,32,giving_massage,kinetics700,323,massaging_back,is-a
+767,stair_actions,32,giving_massage,kinetics700,324,massaging_feet,is-a
+768,stair_actions,32,giving_massage,kinetics700,325,massaging_legs,is-a
+769,stair_actions,32,giving_massage,kinetics700,326,massaging_neck,is-a
+770,stair_actions,32,giving_massage,kinetics700,327,massaging_person's_head,is-a
+771,kinetics700,513,shaking_hands,stair_actions,69,shaking_hands,equal
+772,stair_actions,4,being_angry,kinetics700,57,breathing_fire,is-a
+773,kinetics700,346,opening_door,stair_actions,51,opening_refrigerator_door,is-a
+774,stair_actions,58,playing_with_toy,kinetics700,658,using_puppets,is-a
+775,activitynet,96,Painting,kinetics700,58,brush_painting,is-a
+776,kinetics700,58,brush_painting,activitynet,97,Painting_fence,similar
+777,kinetics700,58,brush_painting,activitynet,98,Painting_furniture,similar
+778,kinetics700,64,building_sandcastle,activitynet,18,Building_sandcastles,equal
+779,kinetics700,80,carving_ice,activitynet,25,Carving_jack-o-lanterns,similar
+780,kinetics700,81,carving_marble,activitynet,25,Carving_jack-o-lanterns,similar
+781,kinetics700,82,carving_pumpkin,activitynet,25,Carving_jack-o-lanterns,is-a
+782,kinetics700,83,carving_wood_with_a_knife,activitynet,25,Carving_jack-o-lanterns,similar
+783,kinetics700,115,coloring_in,activitynet,96,Painting,is-a
+784,activitynet,83,Knitting,kinetics700,132,crocheting,is-a
+785,kinetics700,152,decorating_the_christmas_tree,activitynet,39,Decorating_the_Christmas_tree,equal
+786,kinetics700,167,drawing,activitynet,96,Painting,similar
+787,kinetics700,222,getting_a_tattoo,activitynet,62,Getting_a_tattoo,equal
+788,kinetics700,282,knitting,activitynet,83,Knitting,equal
+789,activitynet,96,Painting,kinetics700,572,spray_painting,is-a
+790,kinetics700,687,weaving_fabric,activitynet,83,Knitting,similar
+791,kinetics700,242,high_jump,activitynet,70,High_jump,equal
+792,kinetics700,242,high_jump,activitynet,86,Long_jump,similar
+793,kinetics700,242,high_jump,activitynet,178,Triple_jump,similar
+794,kinetics700,300,long_jump,activitynet,70,High_jump,similar
+795,kinetics700,300,long_jump,activitynet,86,Long_jump,equal
+796,kinetics700,300,long_jump,activitynet,178,Triple_jump,similar
+797,kinetics700,443,pole_vault,activitynet,127,Pole_vault,equal
+798,kinetics700,639,triple_jump,activitynet,70,High_jump,similar
+799,kinetics700,639,triple_jump,activitynet,86,Long_jump,similar
+800,kinetics700,639,triple_jump,activitynet,178,Triple_jump,equal
+801,kinetics700,9,archery,activitynet,1,Archery,equal
+802,kinetics700,87,catching_or_throwing_frisbee,activitynet,41,Discus_throw,similar
+803,kinetics700,87,catching_or_throwing_frisbee,activitynet,65,Hammer_throw,similar
+804,kinetics700,87,catching_or_throwing_frisbee,activitynet,79,Javelin_throw,similar
+805,kinetics700,158,disc_golfing,activitynet,41,Discus_throw,similar
+806,kinetics700,234,hammer_throw,activitynet,41,Discus_throw,similar
+807,kinetics700,234,hammer_throw,activitynet,65,Hammer_throw,equal
+808,kinetics700,234,hammer_throw,activitynet,79,Javelin_throw,similar
+809,kinetics700,265,javelin_throw,activitynet,41,Discus_throw,similar
+810,kinetics700,265,javelin_throw,activitynet,65,Hammer_throw,similar
+811,kinetics700,265,javelin_throw,activitynet,79,Javelin_throw,equal
+812,kinetics700,528,shot_put,activitynet,153,Shot_put,equal
+813,kinetics700,619,throwing_axe,activitynet,65,Hammer_throw,similar
+814,kinetics700,619,throwing_axe,activitynet,79,Javelin_throw,similar
+815,kinetics700,621,throwing_discus,activitynet,41,Discus_throw,equal
+816,kinetics700,621,throwing_discus,activitynet,65,Hammer_throw,similar
+817,kinetics700,621,throwing_discus,activitynet,79,Javelin_throw,similar
+818,kinetics700,14,assembling_bicycle,activitynet,3,Assembling_bicycle,equal
+819,kinetics700,14,assembling_bicycle,activitynet,55,Fixing_bicycle,similar
+820,kinetics700,92,changing_wheel_(not_on_bike),activitynet,26,Changing_car_wheel,equal
+821,kinetics700,94,checking_tires,activitynet,26,Changing_car_wheel,similar
+822,activitynet,55,Fixing_bicycle,kinetics700,94,checking_tires,is-a
+823,kinetics700,206,fixing_bicycle,activitynet,3,Assembling_bicycle,similar
+824,kinetics700,206,fixing_bicycle,activitynet,55,Fixing_bicycle,equal
+825,kinetics700,477,repairing_puncture,activitynet,26,Changing_car_wheel,similar
+826,activitynet,55,Fixing_bicycle,kinetics700,477,repairing_puncture,is-a
+827,kinetics700,48,bouncing_ball_(not_juggling),activitynet,175,Tennis_serve_with_ball_bouncing,is-a
+828,kinetics700,51,bowling,activitynet,124,Playing_ten_pins,is-a
+829,kinetics700,161,dodgeball,activitynet,42,Dodgeball,equal
+830,activitynet,85,Layup_drill_in_basketball,kinetics700,168,dribbling_basketball,is-a
+831,activitynet,85,Layup_drill_in_basketball,kinetics700,176,dunking_basketball,is-a
+832,activitynet,9,Beach_soccer,kinetics700,279,kicking_soccer_ball,is-a
+833,activitynet,58,Futsal,kinetics700,279,kicking_soccer_ball,is-a
+834,kinetics700,279,kicking_soccer_ball,activitynet,115,Playing_kickball,similar
+835,activitynet,9,Beach_soccer,kinetics700,356,passing_soccer_ball,is-a
+836,activitynet,58,Futsal,kinetics700,356,passing_soccer_ball,is-a
+837,kinetics700,378,playing_basketball,activitynet,85,Layup_drill_in_basketball,is-a
+838,kinetics700,404,playing_kickball,activitynet,115,Playing_kickball,equal
+839,kinetics700,438,playing_volleyball,activitynet,106,Playing_beach_volleyball,is-a
+840,kinetics700,438,playing_volleyball,activitynet,188,Volleyball,equal
+841,activitynet,85,Layup_drill_in_basketball,kinetics700,524,shooting_basketball,is-a
+842,activitynet,9,Beach_soccer,kinetics700,525,shooting_goal_(soccer),is-a
+843,activitynet,58,Futsal,kinetics700,525,shooting_goal_(soccer),is-a
+844,kinetics700,525,shooting_goal_(soccer),activitynet,115,Playing_kickball,similar
+845,activitynet,6,Ballet,kinetics700,629,tiptoeing,is-a
+846,kinetics700,59,brushing_floor,activitynet,93,Mooping_floor,similar
+847,kinetics700,59,brushing_floor,activitynet,187,Vacuuming_floor,similar
+848,kinetics700,106,cleaning_gutters,activitynet,30,Cleaning_shoes,similar
+849,kinetics700,106,cleaning_gutters,activitynet,31,Cleaning_sink,similar
+850,kinetics700,106,cleaning_gutters,activitynet,32,Cleaning_windows,similar
+851,kinetics700,107,cleaning_pool,activitynet,30,Cleaning_shoes,similar
+852,kinetics700,107,cleaning_pool,activitynet,31,Cleaning_sink,similar
+853,kinetics700,107,cleaning_pool,activitynet,32,Cleaning_windows,similar
+854,kinetics700,108,cleaning_shoes,activitynet,30,Cleaning_shoes,equal
+855,kinetics700,108,cleaning_shoes,activitynet,31,Cleaning_sink,similar
+856,kinetics700,108,cleaning_shoes,activitynet,32,Cleaning_windows,similar
+857,kinetics700,108,cleaning_shoes,activitynet,129,Polishing_shoes,is-a
+858,kinetics700,109,cleaning_toilet,activitynet,30,Cleaning_shoes,similar
+859,kinetics700,109,cleaning_toilet,activitynet,31,Cleaning_sink,similar
+860,kinetics700,109,cleaning_toilet,activitynet,32,Cleaning_windows,similar
+861,kinetics700,110,cleaning_windows,activitynet,30,Cleaning_shoes,similar
+862,kinetics700,110,cleaning_windows,activitynet,31,Cleaning_sink,similar
+863,kinetics700,110,cleaning_windows,activitynet,32,Cleaning_windows,equal
+864,kinetics700,164,doing_laundry,activitynet,67,Hand_washing_clothes,is-a
+865,kinetics700,235,hand_washing_clothes,activitynet,67,Hand_washing_clothes,equal
+866,kinetics700,333,mopping_floor,activitynet,93,Mooping_floor,equal
+867,kinetics700,444,polishing_furniture,activitynet,128,Polishing_forniture,equal
+868,kinetics700,444,polishing_furniture,activitynet,129,Polishing_shoes,similar
+869,kinetics700,445,polishing_metal,activitynet,128,Polishing_forniture,similar
+870,kinetics700,445,polishing_metal,activitynet,129,Polishing_shoes,similar
+871,activitynet,30,Cleaning_shoes,kinetics700,522,shining_shoes,is-a
+872,kinetics700,522,shining_shoes,activitynet,129,Polishing_shoes,equal
+873,kinetics700,592,sweeping_floor,activitynet,93,Mooping_floor,similar
+874,kinetics700,592,sweeping_floor,activitynet,187,Vacuuming_floor,similar
+875,activitynet,187,Vacuuming_floor,kinetics700,661,vacuuming_car,is-a
+876,kinetics700,662,vacuuming_floor,activitynet,93,Mooping_floor,similar
+877,kinetics700,662,vacuuming_floor,activitynet,187,Vacuuming_floor,equal
+878,kinetics700,672,washing_dishes,activitynet,191,Washing_dishes,equal
+879,kinetics700,263,ironing,activitynet,78,Ironing_clothes,is-a
+880,kinetics700,471,putting_on_shoes,activitynet,135,Putting_on_shoes,equal
+881,activitynet,135,Putting_on_shoes,kinetics700,644,tying_shoe_laces,is-a
+882,kinetics700,20,baking_cookies,activitynet,5,Baking_cookies,equal
+883,kinetics700,120,cooking_egg,activitynet,91,Making_an_omelette,is-a
+884,kinetics700,306,making_a_cake,activitynet,88,Making_a_cake,equal
+885,kinetics700,306,making_a_cake,activitynet,89,Making_a_lemonade,similar
+886,kinetics700,306,making_a_cake,activitynet,90,Making_a_sandwich,similar
+887,kinetics700,306,making_a_cake,activitynet,91,Making_an_omelette,similar
+888,kinetics700,307,making_a_sandwich,activitynet,88,Making_a_cake,similar
+889,kinetics700,307,making_a_sandwich,activitynet,89,Making_a_lemonade,similar
+890,kinetics700,307,making_a_sandwich,activitynet,90,Making_a_sandwich,equal
+891,kinetics700,307,making_a_sandwich,activitynet,91,Making_an_omelette,similar
+892,kinetics700,310,making_cheese,activitynet,88,Making_a_cake,similar
+893,kinetics700,310,making_cheese,activitynet,89,Making_a_lemonade,similar
+894,kinetics700,310,making_cheese,activitynet,90,Making_a_sandwich,similar
+895,kinetics700,310,making_cheese,activitynet,91,Making_an_omelette,similar
+896,kinetics700,315,making_pizza,activitynet,88,Making_a_cake,similar
+897,kinetics700,315,making_pizza,activitynet,89,Making_a_lemonade,similar
+898,kinetics700,315,making_pizza,activitynet,90,Making_a_sandwich,similar
+899,kinetics700,315,making_pizza,activitynet,91,Making_an_omelette,similar
+900,kinetics700,318,making_sushi,activitynet,88,Making_a_cake,similar
+901,kinetics700,318,making_sushi,activitynet,89,Making_a_lemonade,similar
+902,kinetics700,318,making_sushi,activitynet,90,Making_a_sandwich,similar
+903,kinetics700,318,making_sushi,activitynet,91,Making_an_omelette,similar
+904,kinetics700,359,peeling_potatoes,activitynet,99,Peeling_potatoes,equal
+905,kinetics700,450,preparing_salad,activitynet,132,Preparing_salad,equal
+906,kinetics700,503,sausage_making,activitynet,88,Making_a_cake,similar
+907,kinetics700,503,sausage_making,activitynet,89,Making_a_lemonade,similar
+908,kinetics700,503,sausage_making,activitynet,90,Making_a_sandwich,similar
+909,kinetics700,503,sausage_making,activitynet,91,Making_an_omelette,similar
+910,activitynet,132,Preparing_salad,kinetics700,632,tossing_salad,is-a
+911,kinetics700,31,belly_dancing,activitynet,11,Belly_dance,equal
+912,kinetics700,54,breakdancing,activitynet,15,Breakdancing,equal
+913,kinetics700,73,capoeira,activitynet,24,Capoeira,equal
+914,kinetics700,96,cheerleading,activitynet,27,Cheerleading,equal
+915,kinetics700,136,cumbia,activitynet,36,Cumbia,equal
+916,activitynet,199,Zumba,kinetics700,136,cumbia,is-a
+917,kinetics700,146,dancing_ballet,activitynet,6,Ballet,equal
+918,activitynet,6,Ballet,kinetics700,370,pirouetting,is-a
+919,kinetics700,609,tango_dancing,activitynet,174,Tango,equal
+920,kinetics700,699,zumba,activitynet,36,Cumbia,is-a
+921,kinetics700,699,zumba,activitynet,199,Zumba,equal
+922,kinetics700,169,drinking_shots,activitynet,51,Drinking_beer,similar
+923,kinetics700,169,drinking_shots,activitynet,52,Drinking_coffee,similar
+924,kinetics700,185,eating_ice_cream,activitynet,69,Having_an_ice_cream,equal
+925,kinetics700,105,clean_and_jerk,activitynet,29,Clean_and_jerk,equal
+926,kinetics700,150,deadlifting,activitynet,29,Clean_and_jerk,is-a
+927,kinetics700,150,deadlifting,activitynet,161,Snatch,is-a
+928,kinetics700,162,doing_aerobics,activitynet,50,Doing_step_aerobics,is-a
+929,kinetics700,162,doing_aerobics,activitynet,54,Elliptical_trainer,is-a
+930,kinetics700,162,doing_aerobics,activitynet,74,Hula_hoop,is-a
+931,kinetics700,162,doing_aerobics,activitynet,147,Running_a_marathon,is-a
+932,kinetics700,561,snatch_weight_lifting,activitynet,161,Snatch,equal
+933,kinetics700,41,blowing_leaves,activitynet,13,Blowing_leaves,equal
+934,kinetics700,101,chopping_wood,activitynet,28,Chopping_wood,equal
+935,activitynet,38,Cutting_the_grass,kinetics700,340,mowing_lawn,is-a
+936,kinetics700,340,mowing_lawn,activitynet,94,Mowing_the_lawn,equal
+937,kinetics700,637,trimming_shrubs,activitynet,177,Trimming_branches_or_hedges,similar
+938,kinetics700,638,trimming_trees,activitynet,177,Trimming_branches_or_hedges,is-a
+939,activitynet,180,Tumbling,kinetics700,79,cartwheeling,is-a
+940,activitynet,180,Tumbling,kinetics700,233,gymnastics_tumbling,is-a
+941,activitynet,180,Tumbling,kinetics700,567,somersaulting,is-a
+942,kinetics700,38,blowdrying_hair,activitynet,12,Blow-drying_hair,equal
+943,kinetics700,52,braiding_hair,activitynet,14,Braiding_hair,equal
+944,kinetics700,60,brushing_hair,activitynet,16,Brushing_hair,equal
+945,kinetics700,116,combing_hair,activitynet,16,Brushing_hair,similar
+946,kinetics700,207,fixing_hair,activitynet,12,Blow-drying_hair,is-a
+947,kinetics700,207,fixing_hair,activitynet,14,Braiding_hair,is-a
+948,kinetics700,207,fixing_hair,activitynet,16,Brushing_hair,is-a
+949,kinetics700,207,fixing_hair,activitynet,60,Getting_a_haircut,similar
+950,kinetics700,207,fixing_hair,activitynet,138,Removing_curlers,is-a
+951,kinetics700,220,getting_a_haircut,activitynet,60,Getting_a_haircut,equal
+952,activitynet,138,Removing_curlers,kinetics700,264,ironing_hair,is-a
+953,kinetics700,61,brushing_teeth,activitynet,17,Brushing_teeth,equal
+954,kinetics700,218,gargling,activitynet,59,Gargling_mouthwash,is-a
+955,kinetics700,465,putting_in_contact_lenses,activitynet,133,Putting_in_contact_lenses,equal
+956,kinetics700,558,smoking,activitynet,159,Smoking_a_cigarette,is-a
+957,kinetics700,558,smoking,activitynet,160,Smoking_hookah,is-a
+958,kinetics700,559,smoking_hookah,activitynet,159,Smoking_a_cigarette,similar
+959,kinetics700,559,smoking_hookah,activitynet,160,Smoking_hookah,equal
+960,kinetics700,560,smoking_pipe,activitynet,159,Smoking_a_cigarette,similar
+961,kinetics700,560,smoking_pipe,activitynet,160,Smoking_hookah,similar
+962,kinetics700,67,bungee_jumping,activitynet,20,Bungee_jumping,equal
+963,kinetics700,111,climbing_a_rope,activitynet,143,Rock_climbing,similar
+964,kinetics700,112,climbing_ladder,activitynet,143,Rock_climbing,similar
+965,kinetics700,257,ice_climbing,activitynet,143,Rock_climbing,similar
+966,kinetics700,491,rock_climbing,activitynet,143,Rock_climbing,equal
+967,kinetics700,25,bathing_dog,activitynet,7,Bathing_dog,equal
+968,kinetics700,25,bathing_dog,activitynet,63,Grooming_dog,similar
+969,kinetics700,85,catching_fish,activitynet,76,Ice_fishing,is-a
+970,kinetics700,230,grooming_cat,activitynet,63,Grooming_dog,similar
+971,kinetics700,230,grooming_cat,activitynet,64,Grooming_horse,similar
+972,kinetics700,231,grooming_dog,activitynet,7,Bathing_dog,similar
+973,kinetics700,231,grooming_dog,activitynet,63,Grooming_dog,equal
+974,kinetics700,231,grooming_dog,activitynet,64,Grooming_horse,similar
+975,kinetics700,232,grooming_horse,activitynet,63,Grooming_dog,similar
+976,kinetics700,232,grooming_horse,activitynet,64,Grooming_horse,equal
+977,kinetics700,258,ice_fishing,activitynet,76,Ice_fishing,equal
+978,kinetics700,479,riding_camel,activitynet,22,Camel_ride,equal
+979,kinetics700,483,riding_or_walking_with_horse,activitynet,21,Calf_roping,is-a
+980,kinetics700,483,riding_or_walking_with_horse,activitynet,73,Horseback_riding,is-a
+981,kinetics700,483,riding_or_walking_with_horse,activitynet,118,Playing_polo,is-a
+982,kinetics700,669,walking_the_dog,activitynet,190,Walking_the_dog,equal
+983,kinetics700,7,applying_cream,activitynet,0,Applying_sunscreen,similar
+984,kinetics700,165,doing_nails,activitynet,49,Doing_nails,equal
+985,activitynet,134,Putting_on_makeup,kinetics700,177,dyeing_eyebrows,is-a
+986,activitynet,134,Putting_on_makeup,kinetics700,204,filling_eyebrows,is-a
+987,kinetics700,221,getting_a_piercing,activitynet,61,Getting_a_piercing,equal
+988,activitynet,134,Putting_on_makeup,kinetics700,466,putting_on_eyeliner,is-a
+989,activitynet,134,Putting_on_makeup,kinetics700,467,putting_on_foundation,is-a
+990,activitynet,134,Putting_on_makeup,kinetics700,468,putting_on_lipstick,is-a
+991,activitynet,134,Putting_on_makeup,kinetics700,469,putting_on_mascara,is-a
+992,kinetics700,11,arm_wrestling,activitynet,2,Arm_wrestling,equal
+993,activitynet,46,Doing_karate,kinetics700,243,high_kick,is-a
+994,activitynet,47,Doing_kickboxing,kinetics700,243,high_kick,is-a
+995,activitynet,47,Doing_kickboxing,kinetics700,458,punching_bag,is-a
+996,activitynet,46,Doing_karate,kinetics700,535,side_kick,is-a
+997,activitynet,47,Doing_kickboxing,kinetics700,535,side_kick,is-a
+998,kinetics700,602,sword_fighting,activitynet,45,Doing_fencing,is-a
+999,kinetics700,606,tai_chi,activitynet,173,Tai_chi,equal
+1000,kinetics700,694,wrestling,activitynet,2,Arm_wrestling,is-a
+1001,kinetics700,694,wrestling,activitynet,43,Doing_a_powerbomb,is-a
+1002,kinetics700,694,wrestling,activitynet,168,Sumo,is-a
+1003,kinetics700,250,hoverboarding,activitynet,87,Longboarding,similar
+1004,kinetics700,250,hoverboarding,activitynet,156,Skateboarding,similar
+1005,kinetics700,250,hoverboarding,activitynet,163,Snowboarding,similar
+1006,kinetics700,272,jumping_bicycle,activitynet,4,BMX,is-a
+1007,kinetics700,335,motorcycling,activitynet,48,Doing_motocross,is-a
+1008,kinetics700,478,riding_a_bike,activitynet,4,BMX,is-a
+1009,kinetics700,478,riding_a_bike,activitynet,48,Doing_motocross,is-a
+1010,kinetics700,493,roller_skating,activitynet,144,Rollerblading,is-a
+1011,kinetics700,542,skateboarding,activitynet,87,Longboarding,similar
+1012,kinetics700,542,skateboarding,activitynet,156,Skateboarding,equal
+1013,kinetics700,542,skateboarding,activitynet,163,Snowboarding,similar
+1014,kinetics700,374,playing_accordion,activitynet,103,Playing_accordion,equal
+1015,kinetics700,374,playing_accordion,activitynet,105,Playing_bagpipes,similar
+1016,kinetics700,374,playing_accordion,activitynet,108,Playing_congas,similar
+1017,kinetics700,374,playing_accordion,activitynet,109,Playing_drums,similar
+1018,kinetics700,374,playing_accordion,activitynet,111,Playing_flauta,similar
+1019,kinetics700,374,playing_accordion,activitynet,112,Playing_guitarra,similar
+1020,kinetics700,374,playing_accordion,activitynet,113,Playing_harmonica,similar
+1021,kinetics700,374,playing_accordion,activitynet,117,Playing_piano,similar
+1022,kinetics700,374,playing_accordion,activitynet,122,Playing_saxophone,similar
+1023,kinetics700,374,playing_accordion,activitynet,125,Playing_violin,similar
+1024,kinetics700,377,playing_bagpipes,activitynet,103,Playing_accordion,similar
+1025,kinetics700,377,playing_bagpipes,activitynet,105,Playing_bagpipes,equal
+1026,kinetics700,377,playing_bagpipes,activitynet,108,Playing_congas,similar
+1027,kinetics700,377,playing_bagpipes,activitynet,109,Playing_drums,similar
+1028,kinetics700,377,playing_bagpipes,activitynet,111,Playing_flauta,similar
+1029,kinetics700,377,playing_bagpipes,activitynet,112,Playing_guitarra,similar
+1030,kinetics700,377,playing_bagpipes,activitynet,113,Playing_harmonica,similar
+1031,kinetics700,377,playing_bagpipes,activitynet,117,Playing_piano,similar
+1032,kinetics700,377,playing_bagpipes,activitynet,122,Playing_saxophone,similar
+1033,kinetics700,377,playing_bagpipes,activitynet,125,Playing_violin,similar
+1034,kinetics700,379,playing_bass_guitar,activitynet,103,Playing_accordion,similar
+1035,kinetics700,379,playing_bass_guitar,activitynet,105,Playing_bagpipes,similar
+1036,kinetics700,379,playing_bass_guitar,activitynet,108,Playing_congas,similar
+1037,kinetics700,379,playing_bass_guitar,activitynet,109,Playing_drums,similar
+1038,kinetics700,379,playing_bass_guitar,activitynet,111,Playing_flauta,similar
+1039,activitynet,112,Playing_guitarra,kinetics700,379,playing_bass_guitar,is-a
+1040,kinetics700,379,playing_bass_guitar,activitynet,113,Playing_harmonica,similar
+1041,kinetics700,379,playing_bass_guitar,activitynet,117,Playing_piano,similar
+1042,kinetics700,379,playing_bass_guitar,activitynet,122,Playing_saxophone,similar
+1043,kinetics700,379,playing_bass_guitar,activitynet,125,Playing_violin,similar
+1044,kinetics700,384,playing_cello,activitynet,103,Playing_accordion,similar
+1045,kinetics700,384,playing_cello,activitynet,105,Playing_bagpipes,similar
+1046,kinetics700,384,playing_cello,activitynet,108,Playing_congas,similar
+1047,kinetics700,384,playing_cello,activitynet,109,Playing_drums,similar
+1048,kinetics700,384,playing_cello,activitynet,111,Playing_flauta,similar
+1049,kinetics700,384,playing_cello,activitynet,112,Playing_guitarra,similar
+1050,kinetics700,384,playing_cello,activitynet,113,Playing_harmonica,similar
+1051,kinetics700,384,playing_cello,activitynet,117,Playing_piano,similar
+1052,kinetics700,384,playing_cello,activitynet,122,Playing_saxophone,similar
+1053,kinetics700,384,playing_cello,activitynet,125,Playing_violin,similar
+1054,kinetics700,387,playing_clarinet,activitynet,103,Playing_accordion,similar
+1055,kinetics700,387,playing_clarinet,activitynet,105,Playing_bagpipes,similar
+1056,kinetics700,387,playing_clarinet,activitynet,108,Playing_congas,similar
+1057,kinetics700,387,playing_clarinet,activitynet,109,Playing_drums,similar
+1058,kinetics700,387,playing_clarinet,activitynet,111,Playing_flauta,similar
+1059,kinetics700,387,playing_clarinet,activitynet,112,Playing_guitarra,similar
+1060,kinetics700,387,playing_clarinet,activitynet,113,Playing_harmonica,similar
+1061,kinetics700,387,playing_clarinet,activitynet,117,Playing_piano,similar
+1062,kinetics700,387,playing_clarinet,activitynet,122,Playing_saxophone,similar
+1063,kinetics700,387,playing_clarinet,activitynet,125,Playing_violin,similar
+1064,activitynet,53,Drum_corps,kinetics700,390,playing_cymbals,is-a
+1065,kinetics700,390,playing_cymbals,activitynet,103,Playing_accordion,similar
+1066,kinetics700,390,playing_cymbals,activitynet,105,Playing_bagpipes,similar
+1067,kinetics700,390,playing_cymbals,activitynet,108,Playing_congas,similar
+1068,kinetics700,390,playing_cymbals,activitynet,109,Playing_drums,similar
+1069,kinetics700,390,playing_cymbals,activitynet,111,Playing_flauta,similar
+1070,kinetics700,390,playing_cymbals,activitynet,112,Playing_guitarra,similar
+1071,kinetics700,390,playing_cymbals,activitynet,113,Playing_harmonica,similar
+1072,kinetics700,390,playing_cymbals,activitynet,117,Playing_piano,similar
+1073,kinetics700,390,playing_cymbals,activitynet,122,Playing_saxophone,similar
+1074,kinetics700,390,playing_cymbals,activitynet,125,Playing_violin,similar
+1075,kinetics700,392,playing_didgeridoo,activitynet,103,Playing_accordion,similar
+1076,kinetics700,392,playing_didgeridoo,activitynet,105,Playing_bagpipes,similar
+1077,kinetics700,392,playing_didgeridoo,activitynet,108,Playing_congas,similar
+1078,kinetics700,392,playing_didgeridoo,activitynet,109,Playing_drums,similar
+1079,kinetics700,392,playing_didgeridoo,activitynet,111,Playing_flauta,similar
+1080,kinetics700,392,playing_didgeridoo,activitynet,112,Playing_guitarra,similar
+1081,kinetics700,392,playing_didgeridoo,activitynet,113,Playing_harmonica,similar
+1082,kinetics700,392,playing_didgeridoo,activitynet,117,Playing_piano,similar
+1083,kinetics700,392,playing_didgeridoo,activitynet,122,Playing_saxophone,similar
+1084,kinetics700,392,playing_didgeridoo,activitynet,125,Playing_violin,similar
+1085,activitynet,53,Drum_corps,kinetics700,394,playing_drums,is-a
+1086,kinetics700,394,playing_drums,activitynet,103,Playing_accordion,similar
+1087,kinetics700,394,playing_drums,activitynet,105,Playing_bagpipes,similar
+1088,kinetics700,394,playing_drums,activitynet,108,Playing_congas,is-a
+1089,kinetics700,394,playing_drums,activitynet,109,Playing_drums,equal
+1090,kinetics700,394,playing_drums,activitynet,111,Playing_flauta,similar
+1091,kinetics700,394,playing_drums,activitynet,112,Playing_guitarra,similar
+1092,kinetics700,394,playing_drums,activitynet,113,Playing_harmonica,similar
+1093,kinetics700,394,playing_drums,activitynet,117,Playing_piano,similar
+1094,kinetics700,394,playing_drums,activitynet,122,Playing_saxophone,similar
+1095,kinetics700,394,playing_drums,activitynet,125,Playing_violin,similar
+1096,kinetics700,396,playing_flute,activitynet,103,Playing_accordion,similar
+1097,kinetics700,396,playing_flute,activitynet,105,Playing_bagpipes,similar
+1098,kinetics700,396,playing_flute,activitynet,108,Playing_congas,similar
+1099,kinetics700,396,playing_flute,activitynet,109,Playing_drums,similar
+1100,kinetics700,396,playing_flute,activitynet,111,Playing_flauta,similar
+1101,kinetics700,396,playing_flute,activitynet,112,Playing_guitarra,similar
+1102,kinetics700,396,playing_flute,activitynet,113,Playing_harmonica,similar
+1103,kinetics700,396,playing_flute,activitynet,117,Playing_piano,similar
+1104,kinetics700,396,playing_flute,activitynet,122,Playing_saxophone,similar
+1105,kinetics700,396,playing_flute,activitynet,125,Playing_violin,similar
+1106,kinetics700,398,playing_guitar,activitynet,103,Playing_accordion,similar
+1107,kinetics700,398,playing_guitar,activitynet,105,Playing_bagpipes,similar
+1108,kinetics700,398,playing_guitar,activitynet,108,Playing_congas,similar
+1109,kinetics700,398,playing_guitar,activitynet,109,Playing_drums,similar
+1110,kinetics700,398,playing_guitar,activitynet,111,Playing_flauta,similar
+1111,kinetics700,398,playing_guitar,activitynet,112,Playing_guitarra,equal
+1112,kinetics700,398,playing_guitar,activitynet,113,Playing_harmonica,similar
+1113,kinetics700,398,playing_guitar,activitynet,117,Playing_piano,similar
+1114,kinetics700,398,playing_guitar,activitynet,122,Playing_saxophone,similar
+1115,kinetics700,398,playing_guitar,activitynet,125,Playing_violin,similar
+1116,kinetics700,400,playing_harmonica,activitynet,103,Playing_accordion,similar
+1117,kinetics700,400,playing_harmonica,activitynet,105,Playing_bagpipes,similar
+1118,kinetics700,400,playing_harmonica,activitynet,108,Playing_congas,similar
+1119,kinetics700,400,playing_harmonica,activitynet,109,Playing_drums,similar
+1120,kinetics700,400,playing_harmonica,activitynet,111,Playing_flauta,similar
+1121,kinetics700,400,playing_harmonica,activitynet,112,Playing_guitarra,similar
+1122,kinetics700,400,playing_harmonica,activitynet,113,Playing_harmonica,equal
+1123,kinetics700,400,playing_harmonica,activitynet,117,Playing_piano,similar
+1124,kinetics700,400,playing_harmonica,activitynet,122,Playing_saxophone,similar
+1125,kinetics700,400,playing_harmonica,activitynet,125,Playing_violin,similar
+1126,kinetics700,401,playing_harp,activitynet,103,Playing_accordion,similar
+1127,kinetics700,401,playing_harp,activitynet,105,Playing_bagpipes,similar
+1128,kinetics700,401,playing_harp,activitynet,108,Playing_congas,similar
+1129,kinetics700,401,playing_harp,activitynet,109,Playing_drums,similar
+1130,kinetics700,401,playing_harp,activitynet,111,Playing_flauta,similar
+1131,kinetics700,401,playing_harp,activitynet,112,Playing_guitarra,similar
+1132,kinetics700,401,playing_harp,activitynet,113,Playing_harmonica,similar
+1133,kinetics700,401,playing_harp,activitynet,117,Playing_piano,similar
+1134,kinetics700,401,playing_harp,activitynet,122,Playing_saxophone,similar
+1135,kinetics700,401,playing_harp,activitynet,125,Playing_violin,similar
+1136,kinetics700,403,playing_keyboard,activitynet,103,Playing_accordion,similar
+1137,kinetics700,403,playing_keyboard,activitynet,105,Playing_bagpipes,similar
+1138,kinetics700,403,playing_keyboard,activitynet,108,Playing_congas,similar
+1139,kinetics700,403,playing_keyboard,activitynet,109,Playing_drums,similar
+1140,kinetics700,403,playing_keyboard,activitynet,111,Playing_flauta,similar
+1141,kinetics700,403,playing_keyboard,activitynet,112,Playing_guitarra,similar
+1142,kinetics700,403,playing_keyboard,activitynet,113,Playing_harmonica,similar
+1143,kinetics700,403,playing_keyboard,activitynet,117,Playing_piano,similar
+1144,kinetics700,403,playing_keyboard,activitynet,122,Playing_saxophone,similar
+1145,kinetics700,403,playing_keyboard,activitynet,125,Playing_violin,similar
+1146,kinetics700,406,playing_lute,activitynet,103,Playing_accordion,similar
+1147,kinetics700,406,playing_lute,activitynet,105,Playing_bagpipes,similar
+1148,kinetics700,406,playing_lute,activitynet,108,Playing_congas,similar
+1149,kinetics700,406,playing_lute,activitynet,109,Playing_drums,similar
+1150,kinetics700,406,playing_lute,activitynet,111,Playing_flauta,similar
+1151,kinetics700,406,playing_lute,activitynet,112,Playing_guitarra,similar
+1152,kinetics700,406,playing_lute,activitynet,113,Playing_harmonica,similar
+1153,kinetics700,406,playing_lute,activitynet,117,Playing_piano,similar
+1154,kinetics700,406,playing_lute,activitynet,122,Playing_saxophone,similar
+1155,kinetics700,406,playing_lute,activitynet,125,Playing_violin,similar
+1156,kinetics700,408,playing_maracas,activitynet,103,Playing_accordion,similar
+1157,kinetics700,408,playing_maracas,activitynet,105,Playing_bagpipes,similar
+1158,kinetics700,408,playing_maracas,activitynet,108,Playing_congas,similar
+1159,kinetics700,408,playing_maracas,activitynet,109,Playing_drums,similar
+1160,kinetics700,408,playing_maracas,activitynet,111,Playing_flauta,similar
+1161,kinetics700,408,playing_maracas,activitynet,112,Playing_guitarra,similar
+1162,kinetics700,408,playing_maracas,activitynet,113,Playing_harmonica,similar
+1163,kinetics700,408,playing_maracas,activitynet,117,Playing_piano,similar
+1164,kinetics700,408,playing_maracas,activitynet,122,Playing_saxophone,similar
+1165,kinetics700,408,playing_maracas,activitynet,125,Playing_violin,similar
+1166,kinetics700,412,playing_nose_flute,activitynet,103,Playing_accordion,similar
+1167,kinetics700,412,playing_nose_flute,activitynet,105,Playing_bagpipes,similar
+1168,kinetics700,412,playing_nose_flute,activitynet,108,Playing_congas,similar
+1169,kinetics700,412,playing_nose_flute,activitynet,109,Playing_drums,similar
+1170,kinetics700,412,playing_nose_flute,activitynet,111,Playing_flauta,similar
+1171,kinetics700,412,playing_nose_flute,activitynet,112,Playing_guitarra,similar
+1172,kinetics700,412,playing_nose_flute,activitynet,113,Playing_harmonica,similar
+1173,kinetics700,412,playing_nose_flute,activitynet,117,Playing_piano,similar
+1174,kinetics700,412,playing_nose_flute,activitynet,122,Playing_saxophone,similar
+1175,kinetics700,412,playing_nose_flute,activitynet,125,Playing_violin,similar
+1176,kinetics700,413,playing_oboe,activitynet,103,Playing_accordion,similar
+1177,kinetics700,413,playing_oboe,activitynet,105,Playing_bagpipes,similar
+1178,kinetics700,413,playing_oboe,activitynet,108,Playing_congas,similar
+1179,kinetics700,413,playing_oboe,activitynet,109,Playing_drums,similar
+1180,kinetics700,413,playing_oboe,activitynet,111,Playing_flauta,similar
+1181,kinetics700,413,playing_oboe,activitynet,112,Playing_guitarra,similar
+1182,kinetics700,413,playing_oboe,activitynet,113,Playing_harmonica,similar
+1183,kinetics700,413,playing_oboe,activitynet,117,Playing_piano,similar
+1184,kinetics700,413,playing_oboe,activitynet,122,Playing_saxophone,similar
+1185,kinetics700,413,playing_oboe,activitynet,125,Playing_violin,similar
+1186,kinetics700,414,playing_ocarina,activitynet,103,Playing_accordion,similar
+1187,kinetics700,414,playing_ocarina,activitynet,105,Playing_bagpipes,similar
+1188,kinetics700,414,playing_ocarina,activitynet,108,Playing_congas,similar
+1189,kinetics700,414,playing_ocarina,activitynet,109,Playing_drums,similar
+1190,kinetics700,414,playing_ocarina,activitynet,111,Playing_flauta,similar
+1191,kinetics700,414,playing_ocarina,activitynet,112,Playing_guitarra,similar
+1192,kinetics700,414,playing_ocarina,activitynet,113,Playing_harmonica,similar
+1193,kinetics700,414,playing_ocarina,activitynet,117,Playing_piano,similar
+1194,kinetics700,414,playing_ocarina,activitynet,122,Playing_saxophone,similar
+1195,kinetics700,414,playing_ocarina,activitynet,125,Playing_violin,similar
+1196,kinetics700,415,playing_organ,activitynet,103,Playing_accordion,similar
+1197,kinetics700,415,playing_organ,activitynet,105,Playing_bagpipes,similar
+1198,kinetics700,415,playing_organ,activitynet,108,Playing_congas,similar
+1199,kinetics700,415,playing_organ,activitynet,109,Playing_drums,similar
+1200,kinetics700,415,playing_organ,activitynet,111,Playing_flauta,similar
+1201,kinetics700,415,playing_organ,activitynet,112,Playing_guitarra,similar
+1202,kinetics700,415,playing_organ,activitynet,113,Playing_harmonica,similar
+1203,kinetics700,415,playing_organ,activitynet,117,Playing_piano,similar
+1204,kinetics700,415,playing_organ,activitynet,122,Playing_saxophone,similar
+1205,kinetics700,415,playing_organ,activitynet,125,Playing_violin,similar
+1206,kinetics700,417,playing_pan_pipes,activitynet,103,Playing_accordion,similar
+1207,kinetics700,417,playing_pan_pipes,activitynet,105,Playing_bagpipes,similar
+1208,kinetics700,417,playing_pan_pipes,activitynet,108,Playing_congas,similar
+1209,kinetics700,417,playing_pan_pipes,activitynet,109,Playing_drums,similar
+1210,kinetics700,417,playing_pan_pipes,activitynet,111,Playing_flauta,similar
+1211,kinetics700,417,playing_pan_pipes,activitynet,112,Playing_guitarra,similar
+1212,kinetics700,417,playing_pan_pipes,activitynet,113,Playing_harmonica,similar
+1213,kinetics700,417,playing_pan_pipes,activitynet,117,Playing_piano,similar
+1214,kinetics700,417,playing_pan_pipes,activitynet,122,Playing_saxophone,similar
+1215,kinetics700,417,playing_pan_pipes,activitynet,125,Playing_violin,similar
+1216,kinetics700,418,playing_piano,activitynet,103,Playing_accordion,similar
+1217,kinetics700,418,playing_piano,activitynet,105,Playing_bagpipes,similar
+1218,kinetics700,418,playing_piano,activitynet,108,Playing_congas,similar
+1219,kinetics700,418,playing_piano,activitynet,109,Playing_drums,similar
+1220,kinetics700,418,playing_piano,activitynet,111,Playing_flauta,similar
+1221,kinetics700,418,playing_piano,activitynet,112,Playing_guitarra,similar
+1222,kinetics700,418,playing_piano,activitynet,113,Playing_harmonica,similar
+1223,kinetics700,418,playing_piano,activitynet,117,Playing_piano,equal
+1224,kinetics700,418,playing_piano,activitynet,122,Playing_saxophone,similar
+1225,kinetics700,418,playing_piano,activitynet,125,Playing_violin,similar
+1226,kinetics700,419,playing_piccolo,activitynet,103,Playing_accordion,similar
+1227,kinetics700,419,playing_piccolo,activitynet,105,Playing_bagpipes,similar
+1228,kinetics700,419,playing_piccolo,activitynet,108,Playing_congas,similar
+1229,kinetics700,419,playing_piccolo,activitynet,109,Playing_drums,similar
+1230,kinetics700,419,playing_piccolo,activitynet,111,Playing_flauta,similar
+1231,kinetics700,419,playing_piccolo,activitynet,112,Playing_guitarra,similar
+1232,kinetics700,419,playing_piccolo,activitynet,113,Playing_harmonica,similar
+1233,kinetics700,419,playing_piccolo,activitynet,117,Playing_piano,similar
+1234,kinetics700,419,playing_piccolo,activitynet,122,Playing_saxophone,similar
+1235,kinetics700,419,playing_piccolo,activitynet,125,Playing_violin,similar
+1236,kinetics700,424,playing_recorder,activitynet,103,Playing_accordion,similar
+1237,kinetics700,424,playing_recorder,activitynet,105,Playing_bagpipes,similar
+1238,kinetics700,424,playing_recorder,activitynet,108,Playing_congas,similar
+1239,kinetics700,424,playing_recorder,activitynet,109,Playing_drums,similar
+1240,activitynet,111,Playing_flauta,kinetics700,424,playing_recorder,is-a
+1241,kinetics700,424,playing_recorder,activitynet,112,Playing_guitarra,similar
+1242,kinetics700,424,playing_recorder,activitynet,113,Playing_harmonica,similar
+1243,kinetics700,424,playing_recorder,activitynet,117,Playing_piano,similar
+1244,kinetics700,424,playing_recorder,activitynet,122,Playing_saxophone,similar
+1245,kinetics700,424,playing_recorder,activitynet,125,Playing_violin,similar
+1246,kinetics700,428,playing_saxophone,activitynet,103,Playing_accordion,similar
+1247,kinetics700,428,playing_saxophone,activitynet,105,Playing_bagpipes,similar
+1248,kinetics700,428,playing_saxophone,activitynet,108,Playing_congas,similar
+1249,kinetics700,428,playing_saxophone,activitynet,109,Playing_drums,similar
+1250,kinetics700,428,playing_saxophone,activitynet,111,Playing_flauta,similar
+1251,kinetics700,428,playing_saxophone,activitynet,112,Playing_guitarra,similar
+1252,kinetics700,428,playing_saxophone,activitynet,113,Playing_harmonica,similar
+1253,kinetics700,428,playing_saxophone,activitynet,117,Playing_piano,similar
+1254,kinetics700,428,playing_saxophone,activitynet,122,Playing_saxophone,equal
+1255,kinetics700,428,playing_saxophone,activitynet,125,Playing_violin,similar
+1256,kinetics700,434,playing_trombone,activitynet,103,Playing_accordion,similar
+1257,kinetics700,434,playing_trombone,activitynet,105,Playing_bagpipes,similar
+1258,kinetics700,434,playing_trombone,activitynet,108,Playing_congas,similar
+1259,kinetics700,434,playing_trombone,activitynet,109,Playing_drums,similar
+1260,kinetics700,434,playing_trombone,activitynet,111,Playing_flauta,similar
+1261,kinetics700,434,playing_trombone,activitynet,112,Playing_guitarra,similar
+1262,kinetics700,434,playing_trombone,activitynet,113,Playing_harmonica,similar
+1263,kinetics700,434,playing_trombone,activitynet,117,Playing_piano,similar
+1264,kinetics700,434,playing_trombone,activitynet,122,Playing_saxophone,similar
+1265,kinetics700,434,playing_trombone,activitynet,125,Playing_violin,similar
+1266,activitynet,53,Drum_corps,kinetics700,435,playing_trumpet,is-a
+1267,kinetics700,435,playing_trumpet,activitynet,103,Playing_accordion,similar
+1268,kinetics700,435,playing_trumpet,activitynet,105,Playing_bagpipes,similar
+1269,kinetics700,435,playing_trumpet,activitynet,108,Playing_congas,similar
+1270,kinetics700,435,playing_trumpet,activitynet,109,Playing_drums,similar
+1271,kinetics700,435,playing_trumpet,activitynet,111,Playing_flauta,similar
+1272,kinetics700,435,playing_trumpet,activitynet,112,Playing_guitarra,similar
+1273,kinetics700,435,playing_trumpet,activitynet,113,Playing_harmonica,similar
+1274,kinetics700,435,playing_trumpet,activitynet,117,Playing_piano,similar
+1275,kinetics700,435,playing_trumpet,activitynet,122,Playing_saxophone,similar
+1276,kinetics700,435,playing_trumpet,activitynet,125,Playing_violin,similar
+1277,kinetics700,436,playing_ukulele,activitynet,103,Playing_accordion,similar
+1278,kinetics700,436,playing_ukulele,activitynet,105,Playing_bagpipes,similar
+1279,kinetics700,436,playing_ukulele,activitynet,108,Playing_congas,similar
+1280,kinetics700,436,playing_ukulele,activitynet,109,Playing_drums,similar
+1281,kinetics700,436,playing_ukulele,activitynet,111,Playing_flauta,similar
+1282,kinetics700,436,playing_ukulele,activitynet,112,Playing_guitarra,similar
+1283,kinetics700,436,playing_ukulele,activitynet,113,Playing_harmonica,similar
+1284,kinetics700,436,playing_ukulele,activitynet,117,Playing_piano,similar
+1285,kinetics700,436,playing_ukulele,activitynet,122,Playing_saxophone,similar
+1286,kinetics700,436,playing_ukulele,activitynet,125,Playing_violin,similar
+1287,kinetics700,437,playing_violin,activitynet,103,Playing_accordion,similar
+1288,kinetics700,437,playing_violin,activitynet,105,Playing_bagpipes,similar
+1289,kinetics700,437,playing_violin,activitynet,108,Playing_congas,similar
+1290,kinetics700,437,playing_violin,activitynet,109,Playing_drums,similar
+1291,kinetics700,437,playing_violin,activitynet,111,Playing_flauta,similar
+1292,kinetics700,437,playing_violin,activitynet,112,Playing_guitarra,similar
+1293,kinetics700,437,playing_violin,activitynet,113,Playing_harmonica,similar
+1294,kinetics700,437,playing_violin,activitynet,117,Playing_piano,similar
+1295,kinetics700,437,playing_violin,activitynet,122,Playing_saxophone,similar
+1296,kinetics700,437,playing_violin,activitynet,125,Playing_violin,equal
+1297,kinetics700,440,playing_xylophone,activitynet,103,Playing_accordion,similar
+1298,kinetics700,440,playing_xylophone,activitynet,105,Playing_bagpipes,similar
+1299,kinetics700,440,playing_xylophone,activitynet,108,Playing_congas,similar
+1300,kinetics700,440,playing_xylophone,activitynet,109,Playing_drums,similar
+1301,kinetics700,440,playing_xylophone,activitynet,111,Playing_flauta,similar
+1302,kinetics700,440,playing_xylophone,activitynet,112,Playing_guitarra,similar
+1303,kinetics700,440,playing_xylophone,activitynet,113,Playing_harmonica,similar
+1304,kinetics700,440,playing_xylophone,activitynet,117,Playing_piano,similar
+1305,kinetics700,440,playing_xylophone,activitynet,122,Playing_saxophone,similar
+1306,kinetics700,440,playing_xylophone,activitynet,125,Playing_violin,similar
+1307,activitynet,112,Playing_guitarra,kinetics700,611,tapping_guitar,is-a
+1308,kinetics700,397,playing_gong,activitynet,103,Playing_accordion,similar
+1309,kinetics700,397,playing_gong,activitynet,105,Playing_bagpipes,similar
+1310,kinetics700,397,playing_gong,activitynet,108,Playing_congas,similar
+1311,kinetics700,397,playing_gong,activitynet,109,Playing_drums,similar
+1312,kinetics700,397,playing_gong,activitynet,111,Playing_flauta,similar
+1313,kinetics700,397,playing_gong,activitynet,112,Playing_guitarra,similar
+1314,kinetics700,397,playing_gong,activitynet,113,Playing_harmonica,similar
+1315,kinetics700,397,playing_gong,activitynet,117,Playing_piano,similar
+1316,kinetics700,397,playing_gong,activitynet,122,Playing_saxophone,similar
+1317,kinetics700,397,playing_gong,activitynet,125,Playing_violin,similar
+1318,kinetics700,693,wrapping_present,activitynet,198,Wrapping_presents,equal
+1319,activitynet,49,Doing_nails,kinetics700,142,cutting_nails,is-a
+1320,kinetics700,673,washing_feet,activitynet,192,Washing_face,similar
+1321,kinetics700,673,washing_feet,activitynet,193,Washing_hands,similar
+1322,kinetics700,675,washing_hands,activitynet,192,Washing_face,similar
+1323,kinetics700,675,washing_hands,activitynet,193,Washing_hands,equal
+1324,kinetics700,151,dealing_cards,activitynet,107,Playing_blackjack,is-a
+1325,kinetics700,212,flying_kite,activitynet,81,Kite_flying,equal
+1326,kinetics700,249,hopscotch,activitynet,72,Hopscotch,equal
+1327,kinetics700,380,playing_beer_pong,activitynet,10,Beer_pong,equal
+1328,kinetics700,380,playing_beer_pong,activitynet,104,Playing_badminton,similar
+1329,kinetics700,380,playing_beer_pong,activitynet,106,Playing_beach_volleyball,similar
+1330,kinetics700,380,playing_beer_pong,activitynet,107,Playing_blackjack,similar
+1331,kinetics700,380,playing_beer_pong,activitynet,110,Playing_field_hockey,similar
+1332,kinetics700,380,playing_beer_pong,activitynet,114,Playing_ice_hockey,similar
+1333,kinetics700,380,playing_beer_pong,activitynet,115,Playing_kickball,similar
+1334,kinetics700,380,playing_beer_pong,activitynet,116,Playing_lacrosse,similar
+1335,kinetics700,380,playing_beer_pong,activitynet,118,Playing_polo,similar
+1336,kinetics700,380,playing_beer_pong,activitynet,119,Playing_pool,similar
+1337,kinetics700,380,playing_beer_pong,activitynet,120,Playing_racquetball,similar
+1338,kinetics700,380,playing_beer_pong,activitynet,121,Playing_rubik_cube,similar
+1339,kinetics700,381,playing_billiards,activitynet,104,Playing_badminton,similar
+1340,kinetics700,381,playing_billiards,activitynet,106,Playing_beach_volleyball,similar
+1341,kinetics700,381,playing_billiards,activitynet,107,Playing_blackjack,similar
+1342,kinetics700,381,playing_billiards,activitynet,110,Playing_field_hockey,similar
+1343,kinetics700,381,playing_billiards,activitynet,114,Playing_ice_hockey,similar
+1344,kinetics700,381,playing_billiards,activitynet,115,Playing_kickball,similar
+1345,kinetics700,381,playing_billiards,activitynet,116,Playing_lacrosse,similar
+1346,kinetics700,381,playing_billiards,activitynet,118,Playing_polo,similar
+1347,kinetics700,381,playing_billiards,activitynet,119,Playing_pool,equal
+1348,kinetics700,381,playing_billiards,activitynet,120,Playing_racquetball,similar
+1349,kinetics700,381,playing_billiards,activitynet,121,Playing_rubik_cube,similar
+1350,kinetics700,382,playing_blackjack,activitynet,104,Playing_badminton,similar
+1351,kinetics700,382,playing_blackjack,activitynet,106,Playing_beach_volleyball,similar
+1352,kinetics700,382,playing_blackjack,activitynet,107,Playing_blackjack,equal
+1353,kinetics700,382,playing_blackjack,activitynet,110,Playing_field_hockey,similar
+1354,kinetics700,382,playing_blackjack,activitynet,114,Playing_ice_hockey,similar
+1355,kinetics700,382,playing_blackjack,activitynet,115,Playing_kickball,similar
+1356,kinetics700,382,playing_blackjack,activitynet,116,Playing_lacrosse,similar
+1357,kinetics700,382,playing_blackjack,activitynet,118,Playing_polo,similar
+1358,kinetics700,382,playing_blackjack,activitynet,119,Playing_pool,similar
+1359,kinetics700,382,playing_blackjack,activitynet,120,Playing_racquetball,similar
+1360,kinetics700,382,playing_blackjack,activitynet,121,Playing_rubik_cube,similar
+1361,kinetics700,383,playing_cards,activitynet,104,Playing_badminton,similar
+1362,kinetics700,383,playing_cards,activitynet,106,Playing_beach_volleyball,similar
+1363,kinetics700,383,playing_cards,activitynet,107,Playing_blackjack,is-a
+1364,kinetics700,383,playing_cards,activitynet,110,Playing_field_hockey,similar
+1365,kinetics700,383,playing_cards,activitynet,114,Playing_ice_hockey,similar
+1366,kinetics700,383,playing_cards,activitynet,115,Playing_kickball,similar
+1367,kinetics700,383,playing_cards,activitynet,116,Playing_lacrosse,similar
+1368,kinetics700,383,playing_cards,activitynet,118,Playing_polo,similar
+1369,kinetics700,383,playing_cards,activitynet,119,Playing_pool,similar
+1370,kinetics700,383,playing_cards,activitynet,120,Playing_racquetball,similar
+1371,kinetics700,383,playing_cards,activitynet,121,Playing_rubik_cube,similar
+1372,kinetics700,385,playing_checkers,activitynet,104,Playing_badminton,similar
+1373,kinetics700,385,playing_checkers,activitynet,106,Playing_beach_volleyball,similar
+1374,kinetics700,385,playing_checkers,activitynet,107,Playing_blackjack,similar
+1375,kinetics700,385,playing_checkers,activitynet,110,Playing_field_hockey,similar
+1376,kinetics700,385,playing_checkers,activitynet,114,Playing_ice_hockey,similar
+1377,kinetics700,385,playing_checkers,activitynet,115,Playing_kickball,similar
+1378,kinetics700,385,playing_checkers,activitynet,116,Playing_lacrosse,similar
+1379,kinetics700,385,playing_checkers,activitynet,118,Playing_polo,similar
+1380,kinetics700,385,playing_checkers,activitynet,119,Playing_pool,similar
+1381,kinetics700,385,playing_checkers,activitynet,120,Playing_racquetball,similar
+1382,kinetics700,385,playing_checkers,activitynet,121,Playing_rubik_cube,similar
+1383,kinetics700,386,playing_chess,activitynet,104,Playing_badminton,similar
+1384,kinetics700,386,playing_chess,activitynet,106,Playing_beach_volleyball,similar
+1385,kinetics700,386,playing_chess,activitynet,107,Playing_blackjack,similar
+1386,kinetics700,386,playing_chess,activitynet,110,Playing_field_hockey,similar
+1387,kinetics700,386,playing_chess,activitynet,114,Playing_ice_hockey,similar
+1388,kinetics700,386,playing_chess,activitynet,115,Playing_kickball,similar
+1389,kinetics700,386,playing_chess,activitynet,116,Playing_lacrosse,similar
+1390,kinetics700,386,playing_chess,activitynet,118,Playing_polo,similar
+1391,kinetics700,386,playing_chess,activitynet,119,Playing_pool,similar
+1392,kinetics700,386,playing_chess,activitynet,120,Playing_racquetball,similar
+1393,kinetics700,386,playing_chess,activitynet,121,Playing_rubik_cube,similar
+1394,kinetics700,391,playing_darts,activitynet,104,Playing_badminton,similar
+1395,kinetics700,391,playing_darts,activitynet,106,Playing_beach_volleyball,similar
+1396,kinetics700,391,playing_darts,activitynet,107,Playing_blackjack,similar
+1397,kinetics700,391,playing_darts,activitynet,110,Playing_field_hockey,similar
+1398,kinetics700,391,playing_darts,activitynet,114,Playing_ice_hockey,similar
+1399,kinetics700,391,playing_darts,activitynet,115,Playing_kickball,similar
+1400,kinetics700,391,playing_darts,activitynet,116,Playing_lacrosse,similar
+1401,kinetics700,391,playing_darts,activitynet,118,Playing_polo,similar
+1402,kinetics700,391,playing_darts,activitynet,119,Playing_pool,similar
+1403,kinetics700,391,playing_darts,activitynet,120,Playing_racquetball,similar
+1404,kinetics700,391,playing_darts,activitynet,121,Playing_rubik_cube,similar
+1405,kinetics700,393,playing_dominoes,activitynet,104,Playing_badminton,similar
+1406,kinetics700,393,playing_dominoes,activitynet,106,Playing_beach_volleyball,similar
+1407,kinetics700,393,playing_dominoes,activitynet,107,Playing_blackjack,similar
+1408,kinetics700,393,playing_dominoes,activitynet,110,Playing_field_hockey,similar
+1409,kinetics700,393,playing_dominoes,activitynet,114,Playing_ice_hockey,similar
+1410,kinetics700,393,playing_dominoes,activitynet,115,Playing_kickball,similar
+1411,kinetics700,393,playing_dominoes,activitynet,116,Playing_lacrosse,similar
+1412,kinetics700,393,playing_dominoes,activitynet,118,Playing_polo,similar
+1413,kinetics700,393,playing_dominoes,activitynet,119,Playing_pool,similar
+1414,kinetics700,393,playing_dominoes,activitynet,120,Playing_racquetball,similar
+1415,kinetics700,393,playing_dominoes,activitynet,121,Playing_rubik_cube,similar
+1416,kinetics700,399,playing_hand_clapping_games,activitynet,104,Playing_badminton,similar
+1417,kinetics700,399,playing_hand_clapping_games,activitynet,106,Playing_beach_volleyball,similar
+1418,kinetics700,399,playing_hand_clapping_games,activitynet,107,Playing_blackjack,similar
+1419,kinetics700,399,playing_hand_clapping_games,activitynet,110,Playing_field_hockey,similar
+1420,kinetics700,399,playing_hand_clapping_games,activitynet,114,Playing_ice_hockey,similar
+1421,kinetics700,399,playing_hand_clapping_games,activitynet,115,Playing_kickball,similar
+1422,kinetics700,399,playing_hand_clapping_games,activitynet,116,Playing_lacrosse,similar
+1423,kinetics700,399,playing_hand_clapping_games,activitynet,118,Playing_polo,similar
+1424,kinetics700,399,playing_hand_clapping_games,activitynet,119,Playing_pool,similar
+1425,kinetics700,399,playing_hand_clapping_games,activitynet,120,Playing_racquetball,similar
+1426,kinetics700,399,playing_hand_clapping_games,activitynet,121,Playing_rubik_cube,similar
+1427,kinetics700,405,playing_laser_tag,activitynet,104,Playing_badminton,similar
+1428,kinetics700,405,playing_laser_tag,activitynet,106,Playing_beach_volleyball,similar
+1429,kinetics700,405,playing_laser_tag,activitynet,107,Playing_blackjack,similar
+1430,kinetics700,405,playing_laser_tag,activitynet,110,Playing_field_hockey,similar
+1431,kinetics700,405,playing_laser_tag,activitynet,114,Playing_ice_hockey,similar
+1432,kinetics700,405,playing_laser_tag,activitynet,115,Playing_kickball,similar
+1433,kinetics700,405,playing_laser_tag,activitynet,116,Playing_lacrosse,similar
+1434,kinetics700,405,playing_laser_tag,activitynet,118,Playing_polo,similar
+1435,kinetics700,405,playing_laser_tag,activitynet,119,Playing_pool,similar
+1436,kinetics700,405,playing_laser_tag,activitynet,120,Playing_racquetball,similar
+1437,kinetics700,405,playing_laser_tag,activitynet,121,Playing_rubik_cube,similar
+1438,kinetics700,407,playing_mahjong,activitynet,104,Playing_badminton,similar
+1439,kinetics700,407,playing_mahjong,activitynet,106,Playing_beach_volleyball,similar
+1440,kinetics700,407,playing_mahjong,activitynet,107,Playing_blackjack,similar
+1441,kinetics700,407,playing_mahjong,activitynet,110,Playing_field_hockey,similar
+1442,kinetics700,407,playing_mahjong,activitynet,114,Playing_ice_hockey,similar
+1443,kinetics700,407,playing_mahjong,activitynet,115,Playing_kickball,similar
+1444,kinetics700,407,playing_mahjong,activitynet,116,Playing_lacrosse,similar
+1445,kinetics700,407,playing_mahjong,activitynet,118,Playing_polo,similar
+1446,kinetics700,407,playing_mahjong,activitynet,119,Playing_pool,similar
+1447,kinetics700,407,playing_mahjong,activitynet,120,Playing_racquetball,similar
+1448,kinetics700,407,playing_mahjong,activitynet,121,Playing_rubik_cube,similar
+1449,kinetics700,409,playing_marbles,activitynet,104,Playing_badminton,similar
+1450,kinetics700,409,playing_marbles,activitynet,106,Playing_beach_volleyball,similar
+1451,kinetics700,409,playing_marbles,activitynet,107,Playing_blackjack,similar
+1452,kinetics700,409,playing_marbles,activitynet,110,Playing_field_hockey,similar
+1453,kinetics700,409,playing_marbles,activitynet,114,Playing_ice_hockey,similar
+1454,kinetics700,409,playing_marbles,activitynet,115,Playing_kickball,similar
+1455,kinetics700,409,playing_marbles,activitynet,116,Playing_lacrosse,similar
+1456,kinetics700,409,playing_marbles,activitynet,118,Playing_polo,similar
+1457,kinetics700,409,playing_marbles,activitynet,119,Playing_pool,similar
+1458,kinetics700,409,playing_marbles,activitynet,120,Playing_racquetball,similar
+1459,kinetics700,409,playing_marbles,activitynet,121,Playing_rubik_cube,similar
+1460,kinetics700,410,playing_monopoly,activitynet,104,Playing_badminton,similar
+1461,kinetics700,410,playing_monopoly,activitynet,106,Playing_beach_volleyball,similar
+1462,kinetics700,410,playing_monopoly,activitynet,107,Playing_blackjack,similar
+1463,kinetics700,410,playing_monopoly,activitynet,110,Playing_field_hockey,similar
+1464,kinetics700,410,playing_monopoly,activitynet,114,Playing_ice_hockey,similar
+1465,kinetics700,410,playing_monopoly,activitynet,115,Playing_kickball,similar
+1466,kinetics700,410,playing_monopoly,activitynet,116,Playing_lacrosse,similar
+1467,kinetics700,410,playing_monopoly,activitynet,118,Playing_polo,similar
+1468,kinetics700,410,playing_monopoly,activitynet,119,Playing_pool,similar
+1469,kinetics700,410,playing_monopoly,activitynet,120,Playing_racquetball,similar
+1470,kinetics700,410,playing_monopoly,activitynet,121,Playing_rubik_cube,similar
+1471,kinetics700,416,playing_paintball,activitynet,104,Playing_badminton,similar
+1472,kinetics700,416,playing_paintball,activitynet,106,Playing_beach_volleyball,similar
+1473,kinetics700,416,playing_paintball,activitynet,107,Playing_blackjack,similar
+1474,kinetics700,416,playing_paintball,activitynet,110,Playing_field_hockey,similar
+1475,kinetics700,416,playing_paintball,activitynet,114,Playing_ice_hockey,similar
+1476,kinetics700,416,playing_paintball,activitynet,115,Playing_kickball,similar
+1477,kinetics700,416,playing_paintball,activitynet,116,Playing_lacrosse,similar
+1478,kinetics700,416,playing_paintball,activitynet,118,Playing_polo,similar
+1479,kinetics700,416,playing_paintball,activitynet,119,Playing_pool,similar
+1480,kinetics700,416,playing_paintball,activitynet,120,Playing_racquetball,similar
+1481,kinetics700,416,playing_paintball,activitynet,121,Playing_rubik_cube,similar
+1482,kinetics700,420,playing_pinball,activitynet,104,Playing_badminton,similar
+1483,kinetics700,420,playing_pinball,activitynet,106,Playing_beach_volleyball,similar
+1484,kinetics700,420,playing_pinball,activitynet,107,Playing_blackjack,similar
+1485,kinetics700,420,playing_pinball,activitynet,110,Playing_field_hockey,similar
+1486,kinetics700,420,playing_pinball,activitynet,114,Playing_ice_hockey,similar
+1487,kinetics700,420,playing_pinball,activitynet,115,Playing_kickball,similar
+1488,kinetics700,420,playing_pinball,activitynet,116,Playing_lacrosse,similar
+1489,kinetics700,420,playing_pinball,activitynet,118,Playing_polo,similar
+1490,kinetics700,420,playing_pinball,activitynet,119,Playing_pool,similar
+1491,kinetics700,420,playing_pinball,activitynet,120,Playing_racquetball,similar
+1492,kinetics700,420,playing_pinball,activitynet,121,Playing_rubik_cube,similar
+1493,kinetics700,422,playing_poker,activitynet,104,Playing_badminton,similar
+1494,kinetics700,422,playing_poker,activitynet,106,Playing_beach_volleyball,similar
+1495,kinetics700,422,playing_poker,activitynet,107,Playing_blackjack,similar
+1496,kinetics700,422,playing_poker,activitynet,110,Playing_field_hockey,similar
+1497,kinetics700,422,playing_poker,activitynet,114,Playing_ice_hockey,similar
+1498,kinetics700,422,playing_poker,activitynet,115,Playing_kickball,similar
+1499,kinetics700,422,playing_poker,activitynet,116,Playing_lacrosse,similar
+1500,kinetics700,422,playing_poker,activitynet,118,Playing_polo,similar
+1501,kinetics700,422,playing_poker,activitynet,119,Playing_pool,similar
+1502,kinetics700,422,playing_poker,activitynet,120,Playing_racquetball,similar
+1503,kinetics700,422,playing_poker,activitynet,121,Playing_rubik_cube,similar
+1504,kinetics700,427,playing_rubiks_cube,activitynet,104,Playing_badminton,similar
+1505,kinetics700,427,playing_rubiks_cube,activitynet,106,Playing_beach_volleyball,similar
+1506,kinetics700,427,playing_rubiks_cube,activitynet,107,Playing_blackjack,similar
+1507,kinetics700,427,playing_rubiks_cube,activitynet,110,Playing_field_hockey,similar
+1508,kinetics700,427,playing_rubiks_cube,activitynet,114,Playing_ice_hockey,similar
+1509,kinetics700,427,playing_rubiks_cube,activitynet,115,Playing_kickball,similar
+1510,kinetics700,427,playing_rubiks_cube,activitynet,116,Playing_lacrosse,similar
+1511,kinetics700,427,playing_rubiks_cube,activitynet,118,Playing_polo,similar
+1512,kinetics700,427,playing_rubiks_cube,activitynet,119,Playing_pool,similar
+1513,kinetics700,427,playing_rubiks_cube,activitynet,120,Playing_racquetball,similar
+1514,kinetics700,427,playing_rubiks_cube,activitynet,121,Playing_rubik_cube,equal
+1515,kinetics700,429,playing_scrabble,activitynet,104,Playing_badminton,similar
+1516,kinetics700,429,playing_scrabble,activitynet,106,Playing_beach_volleyball,similar
+1517,kinetics700,429,playing_scrabble,activitynet,107,Playing_blackjack,similar
+1518,kinetics700,429,playing_scrabble,activitynet,110,Playing_field_hockey,similar
+1519,kinetics700,429,playing_scrabble,activitynet,114,Playing_ice_hockey,similar
+1520,kinetics700,429,playing_scrabble,activitynet,115,Playing_kickball,similar
+1521,kinetics700,429,playing_scrabble,activitynet,116,Playing_lacrosse,similar
+1522,kinetics700,429,playing_scrabble,activitynet,118,Playing_polo,similar
+1523,kinetics700,429,playing_scrabble,activitynet,119,Playing_pool,similar
+1524,kinetics700,429,playing_scrabble,activitynet,120,Playing_racquetball,similar
+1525,kinetics700,429,playing_scrabble,activitynet,121,Playing_rubik_cube,similar
+1526,kinetics700,430,playing_shuffleboard,activitynet,104,Playing_badminton,similar
+1527,kinetics700,430,playing_shuffleboard,activitynet,106,Playing_beach_volleyball,similar
+1528,kinetics700,430,playing_shuffleboard,activitynet,107,Playing_blackjack,similar
+1529,kinetics700,430,playing_shuffleboard,activitynet,110,Playing_field_hockey,similar
+1530,kinetics700,430,playing_shuffleboard,activitynet,114,Playing_ice_hockey,similar
+1531,kinetics700,430,playing_shuffleboard,activitynet,115,Playing_kickball,similar
+1532,kinetics700,430,playing_shuffleboard,activitynet,116,Playing_lacrosse,similar
+1533,kinetics700,430,playing_shuffleboard,activitynet,118,Playing_polo,similar
+1534,kinetics700,430,playing_shuffleboard,activitynet,119,Playing_pool,similar
+1535,kinetics700,430,playing_shuffleboard,activitynet,120,Playing_racquetball,similar
+1536,kinetics700,430,playing_shuffleboard,activitynet,121,Playing_rubik_cube,similar
+1537,kinetics700,430,playing_shuffleboard,activitynet,155,Shuffleboard,equal
+1538,kinetics700,431,playing_slot_machine,activitynet,104,Playing_badminton,similar
+1539,kinetics700,431,playing_slot_machine,activitynet,106,Playing_beach_volleyball,similar
+1540,kinetics700,431,playing_slot_machine,activitynet,107,Playing_blackjack,similar
+1541,kinetics700,431,playing_slot_machine,activitynet,110,Playing_field_hockey,similar
+1542,kinetics700,431,playing_slot_machine,activitynet,114,Playing_ice_hockey,similar
+1543,kinetics700,431,playing_slot_machine,activitynet,115,Playing_kickball,similar
+1544,kinetics700,431,playing_slot_machine,activitynet,116,Playing_lacrosse,similar
+1545,kinetics700,431,playing_slot_machine,activitynet,118,Playing_polo,similar
+1546,kinetics700,431,playing_slot_machine,activitynet,119,Playing_pool,similar
+1547,kinetics700,431,playing_slot_machine,activitynet,120,Playing_racquetball,similar
+1548,kinetics700,431,playing_slot_machine,activitynet,121,Playing_rubik_cube,similar
+1549,kinetics700,455,pulling_rope_(game),activitynet,179,Tug_of_war,similar
+1550,kinetics700,492,rock_scissors_paper,activitynet,142,Rock-paper-scissors,equal
+1551,activitynet,107,Playing_blackjack,kinetics700,533,shuffling_cards,is-a
+1552,kinetics700,256,hurling_(sport),activitynet,75,Hurling,equal
+1553,kinetics700,376,playing_badminton,activitynet,104,Playing_badminton,equal
+1554,kinetics700,376,playing_badminton,activitynet,116,Playing_lacrosse,similar
+1555,kinetics700,376,playing_badminton,activitynet,120,Playing_racquetball,similar
+1556,kinetics700,376,playing_badminton,activitynet,123,Playing_squash,similar
+1557,kinetics700,389,playing_cricket,activitynet,34,Cricket,equal
+1558,kinetics700,389,playing_cricket,activitynet,104,Playing_badminton,similar
+1559,kinetics700,389,playing_cricket,activitynet,116,Playing_lacrosse,similar
+1560,kinetics700,389,playing_cricket,activitynet,120,Playing_racquetball,similar
+1561,kinetics700,389,playing_cricket,activitynet,123,Playing_squash,similar
+1562,kinetics700,395,playing_field_hockey,activitynet,104,Playing_badminton,similar
+1563,kinetics700,395,playing_field_hockey,activitynet,116,Playing_lacrosse,similar
+1564,kinetics700,395,playing_field_hockey,activitynet,120,Playing_racquetball,similar
+1565,kinetics700,395,playing_field_hockey,activitynet,123,Playing_squash,similar
+1566,kinetics700,421,playing_ping_pong,activitynet,104,Playing_badminton,similar
+1567,kinetics700,421,playing_ping_pong,activitynet,116,Playing_lacrosse,similar
+1568,kinetics700,421,playing_ping_pong,activitynet,120,Playing_racquetball,similar
+1569,kinetics700,421,playing_ping_pong,activitynet,123,Playing_squash,similar
+1570,kinetics700,423,playing_polo,activitynet,104,Playing_badminton,similar
+1571,kinetics700,423,playing_polo,activitynet,116,Playing_lacrosse,similar
+1572,kinetics700,423,playing_polo,activitynet,120,Playing_racquetball,similar
+1573,kinetics700,423,playing_polo,activitynet,123,Playing_squash,similar
+1574,kinetics700,425,playing_road_hockey,activitynet,104,Playing_badminton,similar
+1575,kinetics700,425,playing_road_hockey,activitynet,116,Playing_lacrosse,similar
+1576,kinetics700,425,playing_road_hockey,activitynet,120,Playing_racquetball,similar
+1577,kinetics700,425,playing_road_hockey,activitynet,123,Playing_squash,similar
+1578,kinetics700,426,playing_rounders,activitynet,104,Playing_badminton,similar
+1579,kinetics700,426,playing_rounders,activitynet,116,Playing_lacrosse,similar
+1580,kinetics700,426,playing_rounders,activitynet,120,Playing_racquetball,similar
+1581,kinetics700,426,playing_rounders,activitynet,123,Playing_squash,similar
+1582,kinetics700,432,playing_squash_or_racquetball,activitynet,104,Playing_badminton,similar
+1583,kinetics700,432,playing_squash_or_racquetball,activitynet,116,Playing_lacrosse,similar
+1584,kinetics700,432,playing_squash_or_racquetball,activitynet,120,Playing_racquetball,equal
+1585,kinetics700,432,playing_squash_or_racquetball,activitynet,123,Playing_squash,equal
+1586,kinetics700,433,playing_tennis,activitynet,104,Playing_badminton,similar
+1587,kinetics700,433,playing_tennis,activitynet,116,Playing_lacrosse,similar
+1588,kinetics700,433,playing_tennis,activitynet,120,Playing_racquetball,similar
+1589,kinetics700,433,playing_tennis,activitynet,123,Playing_squash,similar
+1590,kinetics700,137,curling_(sport),activitynet,37,Curling,equal
+1591,activitynet,114,Playing_ice_hockey,kinetics700,246,hockey_stop,is-a
+1592,kinetics700,402,playing_ice_hockey,activitynet,114,Playing_ice_hockey,equal
+1593,kinetics700,530,shoveling_snow,activitynet,154,Shoveling_snow,equal
+1594,activitynet,157,Skiing,kinetics700,543,ski_ballet,is-a
+1595,activitynet,157,Skiing,kinetics700,544,ski_jumping,is-a
+1596,activitynet,157,Skiing,kinetics700,545,skiing_crosscountry,is-a
+1597,activitynet,157,Skiing,kinetics700,546,skiing_mono,is-a
+1598,activitynet,157,Skiing,kinetics700,547,skiing_slalom,is-a
+1599,kinetics700,564,snowboarding,activitynet,163,Snowboarding,equal
+1600,kinetics700,622,throwing_knife,activitynet,79,Javelin_throw,similar
+1601,kinetics700,622,throwing_knife,activitynet,176,Throwing_darts,similar
+1602,kinetics700,623,throwing_snowballs,activitynet,176,Throwing_darts,similar
+1603,kinetics700,625,throwing_water_balloon,activitynet,176,Throwing_darts,similar
+1604,activitynet,168,Sumo,kinetics700,604,tackling,is-a
+1605,kinetics700,373,plastering,activitynet,101,Plastering,equal
+1606,kinetics700,516,sharpening_knives,activitynet,150,Sharpening_knives,equal
+1607,activitynet,97,Painting_fence,kinetics700,649,using_a_paint_roller,is-a
+1608,activitynet,98,Painting_furniture,kinetics700,649,using_a_paint_roller,is-a
+1609,activitynet,3,Assembling_bicycle,kinetics700,652,using_a_wrench,is-a
+1610,activitynet,26,Changing_car_wheel,kinetics700,652,using_a_wrench,is-a
+1611,activitynet,55,Fixing_bicycle,kinetics700,652,using_a_wrench,is-a
+1612,kinetics700,688,welding,activitynet,196,Welding,equal
+1613,kinetics700,262,installing_carpet,activitynet,77,Installing_carpet,equal
+1614,kinetics700,287,laying_bricks,activitynet,84,Laying_tile,similar
+1615,kinetics700,288,laying_concrete,activitynet,84,Laying_tile,similar
+1616,kinetics700,289,laying_decking,activitynet,84,Laying_tile,similar
+1617,kinetics700,290,laying_stone,activitynet,84,Laying_tile,similar
+1618,kinetics700,291,laying_tiles,activitynet,84,Laying_tile,equal
+1619,activitynet,68,Hanging_wallpaper,kinetics700,472,putting_wallpaper_on_wall,is-a
+1620,activitynet,169,Surfing,kinetics700,45,bodysurfing,is-a
+1621,kinetics700,45,bodysurfing,activitynet,197,Windsurfing,similar
+1622,kinetics700,72,canoeing_or_kayaking,activitynet,23,Canoeing,equal
+1623,kinetics700,72,canoeing_or_kayaking,activitynet,80,Kayaking,equal
+1624,kinetics700,239,helmet_diving,activitynet,102,Plataform_diving,similar
+1625,kinetics700,239,helmet_diving,activitynet,149,Scuba_diving,similar
+1626,kinetics700,239,helmet_diving,activitynet,166,Springboard_diving,similar
+1627,activitynet,170,Swimming,kinetics700,239,helmet_diving,is-a
+1628,activitynet,170,Swimming,kinetics700,260,ice_swimming,is-a
+1629,kinetics700,267,jetskiing,activitynet,194,Waterskiing,similar
+1630,activitynet,169,Surfing,kinetics700,281,kitesurfing,is-a
+1631,kinetics700,281,kitesurfing,activitynet,197,Windsurfing,similar
+1632,activitynet,169,Surfing,kinetics700,301,longboarding,is-a
+1633,kinetics700,301,longboarding,activitynet,189,Wakeboarding,similar
+1634,activitynet,148,Sailing,kinetics700,352,parasailing,is-a
+1635,kinetics700,498,sailing,activitynet,148,Sailing,equal
+1636,kinetics700,590,surfing_water,activitynet,169,Surfing,equal
+1637,kinetics700,590,surfing_water,activitynet,189,Wakeboarding,similar
+1638,kinetics700,590,surfing_water,activitynet,194,Waterskiing,similar
+1639,kinetics700,590,surfing_water,activitynet,197,Windsurfing,is-a
+1640,kinetics700,677,water_skiing,activitynet,194,Waterskiing,equal
+1641,activitynet,169,Surfing,kinetics700,690,windsurfing,is-a
+1642,kinetics700,690,windsurfing,activitynet,197,Windsurfing,equal
+1643,activitynet,167,Starting_a_campfire,kinetics700,296,lighting_candle,is-a
+1644,kinetics700,303,looking_in_mirror,charades,94,Smiling in a mirror,similar
+1645,kinetics700,303,looking_in_mirror,charades,96,Watching something/someone/themselves in a mirror,equal
+1646,kinetics700,302,looking_at_phone,charades,16,Playing with a phone/camera,similar
+1647,kinetics700,608,talking_on_cell_phone,charades,19,Talking on a phone/camera,equal
+1648,kinetics700,110,cleaning_windows,charades,91,Washing a window,is-a
+1649,kinetics700,164,doing_laundry,charades,5,Washing some clothes,equal
+1650,charades,5,Washing some clothes,kinetics700,235,hand_washing_clothes,is-a
+1651,kinetics700,320,making_the_bed,charades,75,Tidying up a blanket/s,similar
+1652,kinetics700,511,setting_table,charades,12,Tidying up a table,similar
+1653,kinetics700,592,sweeping_floor,charades,102,Tidying up with a broom,similar
+1654,kinetics700,672,washing_dishes,charades,111,Washing a cup/glass/bottle,similar
+1655,kinetics700,672,washing_dishes,charades,121,Wash a dish/dishes,equal
+1656,kinetics700,124,cosplaying,charades,148,Someone is dressing,similar
+1657,charades,4,Tidying some clothes,kinetics700,213,folding_clothes,is-a
+1658,charades,148,Someone is dressing,kinetics700,470,putting_on_sari,is-a
+1659,kinetics700,471,putting_on_shoes,charades,55,Putting on shoe/shoes,equal
+1660,charades,148,Someone is dressing,kinetics700,471,putting_on_shoes,is-a
+1661,charades,148,Someone is dressing,kinetics700,641,tying_bow_tie,is-a
+1662,charades,148,Someone is dressing,kinetics700,643,tying_necktie,is-a
+1663,charades,55,Putting on shoe/shoes,kinetics700,644,tying_shoe_laces,is-a
+1664,charades,148,Someone is dressing,kinetics700,644,tying_shoe_laces,is-a
+1665,charades,147,Someone is cooking something,kinetics700,20,baking_cookies,is-a
+1666,charades,147,Someone is cooking something,kinetics700,22,barbequing,is-a
+1667,charades,147,Someone is cooking something,kinetics700,53,breading_or_breadcrumbing,is-a
+1668,charades,147,Someone is cooking something,kinetics700,119,cooking_chicken,is-a
+1669,charades,147,Someone is cooking something,kinetics700,120,cooking_egg,is-a
+1670,kinetics700,121,cooking_on_campfire,charades,147,Someone is cooking something,similar
+1671,charades,147,Someone is cooking something,kinetics700,122,cooking_sausages_(not_on_barbeque),is-a
+1672,charades,147,Someone is cooking something,kinetics700,123,cooking_scallops,is-a
+1673,charades,147,Someone is cooking something,kinetics700,203,filling_cake,is-a
+1674,charades,147,Someone is cooking something,kinetics700,210,flipping_pancake,is-a
+1675,charades,147,Someone is cooking something,kinetics700,217,frying_vegetables,is-a
+1676,kinetics700,306,making_a_cake,charades,66,Making a sandwich,similar
+1677,charades,147,Someone is cooking something,kinetics700,306,making_a_cake,is-a
+1678,kinetics700,307,making_a_sandwich,charades,66,Making a sandwich,equal
+1679,charades,147,Someone is cooking something,kinetics700,307,making_a_sandwich,is-a
+1680,kinetics700,310,making_cheese,charades,66,Making a sandwich,similar
+1681,kinetics700,315,making_pizza,charades,66,Making a sandwich,similar
+1682,charades,147,Someone is cooking something,kinetics700,315,making_pizza,is-a
+1683,kinetics700,318,making_sushi,charades,66,Making a sandwich,similar
+1684,charades,147,Someone is cooking something,kinetics700,318,making_sushi,is-a
+1685,charades,147,Someone is cooking something,kinetics700,441,poaching_eggs,is-a
+1686,charades,147,Someone is cooking something,kinetics700,450,preparing_salad,is-a
+1687,charades,147,Someone is cooking something,kinetics700,488,roasting_marshmallows,is-a
+1688,charades,147,Someone is cooking something,kinetics700,489,roasting_pig,is-a
+1689,charades,147,Someone is cooking something,kinetics700,495,rolling_pastry,is-a
+1690,charades,147,Someone is cooking something,kinetics700,505,scrambling_eggs,is-a
+1691,charades,147,Someone is cooking something,kinetics700,509,seasoning_food,is-a
+1692,charades,147,Someone is cooking something,kinetics700,515,shaping_bread_dough,is-a
+1693,charades,147,Someone is cooking something,kinetics700,632,tossing_salad,is-a
+1694,charades,156,Someone is eating something,kinetics700,156,dining,is-a
+1695,charades,106,Drinking from a cup/glass/bottle,kinetics700,169,drinking_shots,is-a
+1696,kinetics700,179,eating_burger,charades,65,Eating a sandwich,similar
+1697,charades,156,Someone is eating something,kinetics700,179,eating_burger,is-a
+1698,kinetics700,180,eating_cake,charades,65,Eating a sandwich,similar
+1699,charades,156,Someone is eating something,kinetics700,180,eating_cake,is-a
+1700,kinetics700,181,eating_carrots,charades,65,Eating a sandwich,similar
+1701,charades,156,Someone is eating something,kinetics700,181,eating_carrots,is-a
+1702,kinetics700,182,eating_chips,charades,65,Eating a sandwich,similar
+1703,charades,156,Someone is eating something,kinetics700,182,eating_chips,is-a
+1704,kinetics700,183,eating_doughnuts,charades,65,Eating a sandwich,similar
+1705,charades,156,Someone is eating something,kinetics700,183,eating_doughnuts,is-a
+1706,kinetics700,184,eating_hotdog,charades,65,Eating a sandwich,similar
+1707,charades,156,Someone is eating something,kinetics700,184,eating_hotdog,is-a
+1708,kinetics700,185,eating_ice_cream,charades,65,Eating a sandwich,similar
+1709,charades,156,Someone is eating something,kinetics700,185,eating_ice_cream,is-a
+1710,kinetics700,186,eating_nachos,charades,65,Eating a sandwich,similar
+1711,charades,156,Someone is eating something,kinetics700,186,eating_nachos,is-a
+1712,kinetics700,187,eating_spaghetti,charades,65,Eating a sandwich,similar
+1713,charades,156,Someone is eating something,kinetics700,187,eating_spaghetti,is-a
+1714,kinetics700,188,eating_watermelon,charades,65,Eating a sandwich,similar
+1715,charades,156,Someone is eating something,kinetics700,188,eating_watermelon,is-a
+1716,kinetics700,540,sipping_cup,charades,106,Drinking from a cup/glass/bottle,equal
+1717,charades,156,Someone is eating something,kinetics700,588,sucking_lolly,is-a
+1718,kinetics700,614,tasting_food,charades,65,Eating a sandwich,similar
+1719,kinetics700,614,tasting_food,charades,156,Someone is eating something,similar
+1720,charades,144,Fixing their hair,kinetics700,38,blowdrying_hair,is-a
+1721,charades,144,Fixing their hair,kinetics700,52,braiding_hair,is-a
+1722,charades,144,Fixing their hair,kinetics700,60,brushing_hair,is-a
+1723,charades,144,Fixing their hair,kinetics700,116,combing_hair,is-a
+1724,charades,144,Fixing their hair,kinetics700,139,curling_hair,is-a
+1725,kinetics700,207,fixing_hair,charades,144,Fixing their hair,equal
+1726,charades,144,Fixing their hair,kinetics700,264,ironing_hair,is-a
+1727,charades,144,Fixing their hair,kinetics700,674,washing_hair,is-a
+1728,kinetics700,562,sneezing,charades,153,Someone is sneezing,equal
+1729,charades,150,Someone is running somewhere,kinetics700,497,running_on_treadmill,is-a
+1730,kinetics700,695,writing,charades,145,Working on paper/notebook,is-a
+1731,kinetics700,673,washing_feet,charades,139,Washing their hands,similar
+1732,kinetics700,675,washing_hands,charades,139,Washing their hands,equal
+1733,kinetics700,76,card_throwing,charades,3,Throwing clothes somewhere,similar
+1734,kinetics700,76,card_throwing,charades,24,Throwing a bag somewhere,similar
+1735,kinetics700,76,card_throwing,charades,31,Throwing a book somewhere,similar
+1736,kinetics700,76,card_throwing,charades,36,Throwing a towel/s somewhere,similar
+1737,kinetics700,76,card_throwing,charades,45,Throwing a box somewhere,similar
+1738,kinetics700,76,card_throwing,charades,58,Throwing shoes somewhere,similar
+1739,kinetics700,76,card_throwing,charades,64,Throwing food somewhere,similar
+1740,kinetics700,76,card_throwing,charades,74,Throwing a blanket somewhere,similar
+1741,kinetics700,76,card_throwing,charades,80,Throwing a pillow somewhere,similar
+1742,kinetics700,76,card_throwing,charades,101,Throwing a broom somewhere,similar
+1743,kinetics700,76,card_throwing,charades,126,Throwing something on the floor,similar
+1744,kinetics700,622,throwing_knife,charades,3,Throwing clothes somewhere,similar
+1745,kinetics700,622,throwing_knife,charades,24,Throwing a bag somewhere,similar
+1746,kinetics700,622,throwing_knife,charades,31,Throwing a book somewhere,similar
+1747,kinetics700,622,throwing_knife,charades,36,Throwing a towel/s somewhere,similar
+1748,kinetics700,622,throwing_knife,charades,45,Throwing a box somewhere,similar
+1749,kinetics700,622,throwing_knife,charades,58,Throwing shoes somewhere,similar
+1750,kinetics700,622,throwing_knife,charades,64,Throwing food somewhere,similar
+1751,kinetics700,622,throwing_knife,charades,74,Throwing a blanket somewhere,similar
+1752,kinetics700,622,throwing_knife,charades,80,Throwing a pillow somewhere,similar
+1753,kinetics700,622,throwing_knife,charades,101,Throwing a broom somewhere,similar
+1754,kinetics700,622,throwing_knife,charades,126,Throwing something on the floor,similar
+1755,kinetics700,623,throwing_snowballs,charades,3,Throwing clothes somewhere,similar
+1756,kinetics700,623,throwing_snowballs,charades,24,Throwing a bag somewhere,similar
+1757,kinetics700,623,throwing_snowballs,charades,31,Throwing a book somewhere,similar
+1758,kinetics700,623,throwing_snowballs,charades,36,Throwing a towel/s somewhere,similar
+1759,kinetics700,623,throwing_snowballs,charades,45,Throwing a box somewhere,similar
+1760,kinetics700,623,throwing_snowballs,charades,58,Throwing shoes somewhere,similar
+1761,kinetics700,623,throwing_snowballs,charades,64,Throwing food somewhere,similar
+1762,kinetics700,623,throwing_snowballs,charades,74,Throwing a blanket somewhere,similar
+1763,kinetics700,623,throwing_snowballs,charades,80,Throwing a pillow somewhere,similar
+1764,kinetics700,623,throwing_snowballs,charades,101,Throwing a broom somewhere,similar
+1765,kinetics700,623,throwing_snowballs,charades,126,Throwing something on the floor,similar
+1766,kinetics700,625,throwing_water_balloon,charades,3,Throwing clothes somewhere,similar
+1767,kinetics700,625,throwing_water_balloon,charades,24,Throwing a bag somewhere,similar
+1768,kinetics700,625,throwing_water_balloon,charades,31,Throwing a book somewhere,similar
+1769,kinetics700,625,throwing_water_balloon,charades,36,Throwing a towel/s somewhere,similar
+1770,kinetics700,625,throwing_water_balloon,charades,45,Throwing a box somewhere,similar
+1771,kinetics700,625,throwing_water_balloon,charades,58,Throwing shoes somewhere,similar
+1772,kinetics700,625,throwing_water_balloon,charades,64,Throwing food somewhere,similar
+1773,kinetics700,625,throwing_water_balloon,charades,74,Throwing a blanket somewhere,similar
+1774,kinetics700,625,throwing_water_balloon,charades,80,Throwing a pillow somewhere,similar
+1775,kinetics700,625,throwing_water_balloon,charades,101,Throwing a broom somewhere,similar
+1776,kinetics700,625,throwing_water_balloon,charades,126,Throwing something on the floor,similar
+1777,kinetics700,114,closing_door,charades,6,Closing a door,equal
+1778,kinetics700,114,closing_door,charades,112,Closing a closet/cabinet,is-a
+1779,kinetics700,114,closing_door,charades,142,Closing a refrigerator,is-a
+1780,charades,97,Walking through a doorway,kinetics700,191,entering_church,is-a
+1781,kinetics700,346,opening_door,charades,8,Opening a door,equal
+1782,kinetics700,346,opening_door,charades,113,Opening a closet/cabinet,is-a
+1783,kinetics700,346,opening_door,charades,143,Opening a refrigerator,is-a
+1784,charades,131,Laughing at television,kinetics700,676,watching_tv,is-a
+1785,kinetics700,676,watching_tv,charades,132,Watching television,equal
+1786,charades,8,Opening a door,kinetics700,348,opening_refrigerator,is-a
+1787,kinetics700,348,opening_refrigerator,charades,143,Opening a refrigerator,equal
+1788,ucf101,49,Knitting,kinetics700,132,crocheting,is-a
+1789,kinetics700,282,knitting,ucf101,49,Knitting,equal
+1790,kinetics700,687,weaving_fabric,ucf101,49,Knitting,similar
+1791,kinetics700,242,high_jump,ucf101,39,HighJump,equal
+1792,kinetics700,242,high_jump,ucf101,50,LongJump,similar
+1793,kinetics700,300,long_jump,ucf101,39,HighJump,similar
+1794,kinetics700,300,long_jump,ucf101,50,LongJump,equal
+1795,kinetics700,443,pole_vault,ucf101,67,PoleVault,equal
+1796,kinetics700,639,triple_jump,ucf101,39,HighJump,similar
+1797,kinetics700,639,triple_jump,ucf101,50,LongJump,similar
+1798,kinetics700,9,archery,ucf101,2,Archery,equal
+1799,kinetics700,87,catching_or_throwing_frisbee,ucf101,30,FrisbeeCatch,equal
+1800,kinetics700,87,catching_or_throwing_frisbee,ucf101,34,HammerThrow,similar
+1801,kinetics700,87,catching_or_throwing_frisbee,ucf101,92,ThrowDiscus,similar
+1802,kinetics700,158,disc_golfing,ucf101,92,ThrowDiscus,similar
+1803,kinetics700,234,hammer_throw,ucf101,34,HammerThrow,equal
+1804,kinetics700,234,hammer_throw,ucf101,92,ThrowDiscus,similar
+1805,kinetics700,265,javelin_throw,ucf101,34,HammerThrow,similar
+1806,kinetics700,265,javelin_throw,ucf101,44,JavelinThrow,equal
+1807,kinetics700,265,javelin_throw,ucf101,92,ThrowDiscus,similar
+1808,kinetics700,528,shot_put,ucf101,78,Shotput,equal
+1809,kinetics700,619,throwing_axe,ucf101,34,HammerThrow,similar
+1810,kinetics700,621,throwing_discus,ucf101,34,HammerThrow,similar
+1811,kinetics700,621,throwing_discus,ucf101,92,ThrowDiscus,equal
+1812,kinetics700,51,bowling,ucf101,15,Bowling,equal
+1813,kinetics700,51,bowling,ucf101,22,CricketBowling,is-a
+1814,ucf101,7,Basketball,kinetics700,168,dribbling_basketball,is-a
+1815,ucf101,7,Basketball,kinetics700,176,dunking_basketball,is-a
+1816,kinetics700,176,dunking_basketball,ucf101,8,BasketballDunk,equal
+1817,kinetics700,279,kicking_soccer_ball,ucf101,84,SoccerPenalty,is-a
+1818,kinetics700,378,playing_basketball,ucf101,7,Basketball,equal
+1819,kinetics700,378,playing_basketball,ucf101,8,BasketballDunk,is-a
+1820,ucf101,7,Basketball,kinetics700,411,playing_netball,is-a
+1821,kinetics700,438,playing_volleyball,ucf101,96,VolleyballSpiking,is-a
+1822,ucf101,7,Basketball,kinetics700,524,shooting_basketball,is-a
+1823,kinetics700,524,shooting_basketball,ucf101,8,BasketballDunk,is-a
+1824,kinetics700,525,shooting_goal_(soccer),ucf101,84,SoccerPenalty,is-a
+1825,kinetics700,49,bouncing_on_bouncy_castle,ucf101,93,TrampolineJumping,similar
+1826,kinetics700,275,jumping_sofa,ucf101,93,TrampolineJumping,similar
+1827,ucf101,91,TennisSwing,kinetics700,556,smashing,is-a
+1828,kinetics700,59,brushing_floor,ucf101,54,MoppingFloor,similar
+1829,kinetics700,333,mopping_floor,ucf101,54,MoppingFloor,equal
+1830,ucf101,53,Mixing,kinetics700,37,blending_fruit,is-a
+1831,kinetics700,315,making_pizza,ucf101,57,PizzaTossing,is-a
+1832,kinetics700,515,shaping_bread_dough,ucf101,57,PizzaTossing,is-a
+1833,ucf101,53,Mixing,kinetics700,632,tossing_salad,is-a
+1834,kinetics700,499,salsa_dancing,ucf101,76,SalsaSpin,is-a
+1835,kinetics700,32,bench_pressing,ucf101,9,BenchPress,equal
+1836,kinetics700,105,clean_and_jerk,ucf101,20,CleanAndJerk,equal
+1837,kinetics700,162,doing_aerobics,ucf101,42,HulaHoop,is-a
+1838,kinetics700,162,doing_aerobics,ucf101,46,JumpRope,is-a
+1839,kinetics700,162,doing_aerobics,ucf101,90,TaiChi,is-a
+1840,kinetics700,162,doing_aerobics,ucf101,93,TrampolineJumping,is-a
+1841,kinetics700,192,exercising_arm,ucf101,9,BenchPress,is-a
+1842,kinetics700,192,exercising_arm,ucf101,73,RockClimbingIndoor,is-a
+1843,kinetics700,192,exercising_arm,ucf101,74,RopeClimbing,is-a
+1844,kinetics700,192,exercising_arm,ucf101,98,WallPushups,is-a
+1845,kinetics700,274,jumping_jacks,ucf101,47,JumpingJack,equal
+1846,kinetics700,305,lunge,ucf101,51,Lunges,equal
+1847,kinetics700,453,pull_ups,ucf101,69,PullUps,equal
+1848,ucf101,70,Punch,kinetics700,459,punching_person_(boxing),is-a
+1849,kinetics700,460,push_up,ucf101,36,HandstandPushups,is-a
+1850,kinetics700,460,push_up,ucf101,71,PushUps,equal
+1851,kinetics700,460,push_up,ucf101,98,WallPushups,is-a
+1852,kinetics700,576,squat,ucf101,14,BodyWeightSquats,is-a
+1853,kinetics700,580,standing_on_hands,ucf101,36,HandstandPushups,is-a
+1854,kinetics700,580,standing_on_hands,ucf101,37,HandstandWalking,is-a
+1855,ucf101,32,GolfSwing,kinetics700,225,golf_chipping,is-a
+1856,ucf101,32,GolfSwing,kinetics700,226,golf_driving,is-a
+1857,ucf101,32,GolfSwing,kinetics700,227,golf_putting,is-a
+1858,kinetics700,50,bouncing_on_trampoline,ucf101,93,TrampolineJumping,equal
+1859,ucf101,4,BalanceBeam,kinetics700,79,cartwheeling,is-a
+1860,ucf101,29,FloorGymnastics,kinetics700,79,cartwheeling,is-a
+1861,kinetics700,233,gymnastics_tumbling,ucf101,37,HandstandWalking,is-a
+1862,ucf101,29,FloorGymnastics,kinetics700,567,somersaulting,is-a
+1863,kinetics700,38,blowdrying_hair,ucf101,12,BlowDryHair,equal
+1864,kinetics700,207,fixing_hair,ucf101,12,BlowDryHair,is-a
+1865,kinetics700,207,fixing_hair,ucf101,33,Haircut,is-a
+1866,ucf101,33,Haircut,kinetics700,220,getting_a_haircut,is-a
+1867,kinetics700,43,blowing_out_candles,ucf101,13,BlowingCandles,equal
+1868,kinetics700,61,brushing_teeth,ucf101,19,BrushingTeeth,equal
+1869,ucf101,25,Diving,kinetics700,24,base_jumping,is-a
+1870,ucf101,25,Diving,kinetics700,67,bungee_jumping,is-a
+1871,kinetics700,111,climbing_a_rope,ucf101,73,RockClimbingIndoor,similar
+1872,kinetics700,111,climbing_a_rope,ucf101,74,RopeClimbing,equal
+1873,kinetics700,112,climbing_ladder,ucf101,73,RockClimbingIndoor,similar
+1874,kinetics700,112,climbing_ladder,ucf101,74,RopeClimbing,similar
+1875,kinetics700,159,diving_cliff,ucf101,21,CliffDiving,equal
+1876,ucf101,25,Diving,kinetics700,159,diving_cliff,is-a
+1877,kinetics700,159,diving_cliff,ucf101,82,SkyDiving,similar
+1878,kinetics700,257,ice_climbing,ucf101,73,RockClimbingIndoor,similar
+1879,kinetics700,257,ice_climbing,ucf101,74,RopeClimbing,similar
+1880,ucf101,25,Diving,kinetics700,273,jumping_into_pool,is-a
+1881,kinetics700,491,rock_climbing,ucf101,73,RockClimbingIndoor,is-a
+1882,kinetics700,491,rock_climbing,ucf101,74,RopeClimbing,similar
+1883,kinetics700,550,skydiving,ucf101,21,CliffDiving,similar
+1884,ucf101,25,Diving,kinetics700,550,skydiving,is-a
+1885,kinetics700,550,skydiving,ucf101,82,SkyDiving,equal
+1886,kinetics700,574,springboard_diving,ucf101,21,CliffDiving,similar
+1887,ucf101,25,Diving,kinetics700,574,springboard_diving,is-a
+1888,kinetics700,574,springboard_diving,ucf101,82,SkyDiving,similar
+1889,kinetics700,601,swinging_on_something,ucf101,85,StillRings,is-a
+1890,kinetics700,483,riding_or_walking_with_horse,ucf101,40,HorseRace,is-a
+1891,kinetics700,483,riding_or_walking_with_horse,ucf101,41,HorseRiding,equal
+1892,ucf101,97,WalkingWithDog,kinetics700,669,walking_the_dog,is-a
+1893,kinetics700,269,juggling_balls,ucf101,45,JugglingBalls,equal
+1894,kinetics700,269,juggling_balls,ucf101,83,SoccerJuggling,is-a
+1895,kinetics700,270,juggling_fire,ucf101,45,JugglingBalls,similar
+1896,ucf101,45,JugglingBalls,kinetics700,271,juggling_soccer_ball,is-a
+1897,kinetics700,271,juggling_soccer_ball,ucf101,83,SoccerJuggling,equal
+1898,kinetics700,7,applying_cream,ucf101,0,ApplyEyeMakeup,similar
+1899,kinetics700,7,applying_cream,ucf101,1,ApplyLipstick,similar
+1900,ucf101,0,ApplyEyeMakeup,kinetics700,177,dyeing_eyebrows,is-a
+1901,ucf101,0,ApplyEyeMakeup,kinetics700,204,filling_eyebrows,is-a
+1902,ucf101,0,ApplyEyeMakeup,kinetics700,466,putting_on_eyeliner,is-a
+1903,ucf101,0,ApplyEyeMakeup,kinetics700,467,putting_on_foundation,is-a
+1904,ucf101,0,ApplyEyeMakeup,kinetics700,468,putting_on_lipstick,is-a
+1905,kinetics700,468,putting_on_lipstick,ucf101,1,ApplyLipstick,equal
+1906,ucf101,0,ApplyEyeMakeup,kinetics700,469,putting_on_mascara,is-a
+1907,kinetics700,458,punching_bag,ucf101,16,BoxingPunchingBag,is-a
+1908,kinetics700,458,punching_bag,ucf101,17,BoxingSpeedBag,is-a
+1909,ucf101,70,Punch,kinetics700,458,punching_bag,is-a
+1910,kinetics700,602,sword_fighting,ucf101,27,Fencing,is-a
+1911,kinetics700,606,tai_chi,ucf101,90,TaiChi,equal
+1912,kinetics700,694,wrestling,ucf101,86,SumoWrestling,is-a
+1913,kinetics700,131,crawling_baby,ucf101,3,BabyCrawling,equal
+1914,ucf101,10,Biking,kinetics700,196,falling_off_bike,is-a
+1915,kinetics700,250,hoverboarding,ucf101,79,SkateBoarding,similar
+1916,ucf101,10,Biking,kinetics700,272,jumping_bicycle,is-a
+1917,ucf101,10,Biking,kinetics700,478,riding_a_bike,is-a
+1918,ucf101,10,Biking,kinetics700,486,riding_unicycle,is-a
+1919,kinetics700,542,skateboarding,ucf101,79,SkateBoarding,equal
+1920,kinetics700,374,playing_accordion,ucf101,5,BandMarching,similar
+1921,kinetics700,374,playing_accordion,ucf101,58,PlayingCello,similar
+1922,kinetics700,374,playing_accordion,ucf101,59,PlayingDaf,similar
+1923,kinetics700,374,playing_accordion,ucf101,60,PlayingDhol,similar
+1924,kinetics700,374,playing_accordion,ucf101,61,PlayingFlute,similar
+1925,kinetics700,374,playing_accordion,ucf101,62,PlayingGuitar,similar
+1926,kinetics700,374,playing_accordion,ucf101,63,PlayingPiano,similar
+1927,kinetics700,374,playing_accordion,ucf101,64,PlayingSitar,similar
+1928,kinetics700,374,playing_accordion,ucf101,65,PlayingTabla,similar
+1929,kinetics700,374,playing_accordion,ucf101,66,PlayingViolin,similar
+1930,kinetics700,377,playing_bagpipes,ucf101,5,BandMarching,similar
+1931,kinetics700,377,playing_bagpipes,ucf101,58,PlayingCello,similar
+1932,kinetics700,377,playing_bagpipes,ucf101,59,PlayingDaf,similar
+1933,kinetics700,377,playing_bagpipes,ucf101,60,PlayingDhol,similar
+1934,kinetics700,377,playing_bagpipes,ucf101,61,PlayingFlute,similar
+1935,kinetics700,377,playing_bagpipes,ucf101,62,PlayingGuitar,similar
+1936,kinetics700,377,playing_bagpipes,ucf101,63,PlayingPiano,similar
+1937,kinetics700,377,playing_bagpipes,ucf101,64,PlayingSitar,similar
+1938,kinetics700,377,playing_bagpipes,ucf101,65,PlayingTabla,similar
+1939,kinetics700,377,playing_bagpipes,ucf101,66,PlayingViolin,similar
+1940,kinetics700,379,playing_bass_guitar,ucf101,58,PlayingCello,similar
+1941,kinetics700,379,playing_bass_guitar,ucf101,59,PlayingDaf,similar
+1942,kinetics700,379,playing_bass_guitar,ucf101,60,PlayingDhol,similar
+1943,kinetics700,379,playing_bass_guitar,ucf101,61,PlayingFlute,similar
+1944,ucf101,62,PlayingGuitar,kinetics700,379,playing_bass_guitar,is-a
+1945,kinetics700,379,playing_bass_guitar,ucf101,63,PlayingPiano,similar
+1946,kinetics700,379,playing_bass_guitar,ucf101,64,PlayingSitar,similar
+1947,kinetics700,379,playing_bass_guitar,ucf101,65,PlayingTabla,similar
+1948,kinetics700,379,playing_bass_guitar,ucf101,66,PlayingViolin,similar
+1949,kinetics700,384,playing_cello,ucf101,58,PlayingCello,equal
+1950,kinetics700,384,playing_cello,ucf101,59,PlayingDaf,similar
+1951,kinetics700,384,playing_cello,ucf101,60,PlayingDhol,similar
+1952,kinetics700,384,playing_cello,ucf101,61,PlayingFlute,similar
+1953,kinetics700,384,playing_cello,ucf101,62,PlayingGuitar,similar
+1954,kinetics700,384,playing_cello,ucf101,63,PlayingPiano,similar
+1955,kinetics700,384,playing_cello,ucf101,64,PlayingSitar,similar
+1956,kinetics700,384,playing_cello,ucf101,65,PlayingTabla,similar
+1957,kinetics700,384,playing_cello,ucf101,66,PlayingViolin,similar
+1958,kinetics700,387,playing_clarinet,ucf101,5,BandMarching,similar
+1959,kinetics700,387,playing_clarinet,ucf101,58,PlayingCello,similar
+1960,kinetics700,387,playing_clarinet,ucf101,59,PlayingDaf,similar
+1961,kinetics700,387,playing_clarinet,ucf101,60,PlayingDhol,similar
+1962,kinetics700,387,playing_clarinet,ucf101,61,PlayingFlute,similar
+1963,kinetics700,387,playing_clarinet,ucf101,62,PlayingGuitar,similar
+1964,kinetics700,387,playing_clarinet,ucf101,63,PlayingPiano,similar
+1965,kinetics700,387,playing_clarinet,ucf101,64,PlayingSitar,similar
+1966,kinetics700,387,playing_clarinet,ucf101,65,PlayingTabla,similar
+1967,kinetics700,387,playing_clarinet,ucf101,66,PlayingViolin,similar
+1968,kinetics700,390,playing_cymbals,ucf101,5,BandMarching,similar
+1969,kinetics700,390,playing_cymbals,ucf101,26,Drumming,similar
+1970,kinetics700,390,playing_cymbals,ucf101,58,PlayingCello,similar
+1971,kinetics700,390,playing_cymbals,ucf101,59,PlayingDaf,similar
+1972,kinetics700,390,playing_cymbals,ucf101,60,PlayingDhol,similar
+1973,kinetics700,390,playing_cymbals,ucf101,61,PlayingFlute,similar
+1974,kinetics700,390,playing_cymbals,ucf101,62,PlayingGuitar,similar
+1975,kinetics700,390,playing_cymbals,ucf101,63,PlayingPiano,similar
+1976,kinetics700,390,playing_cymbals,ucf101,64,PlayingSitar,similar
+1977,kinetics700,390,playing_cymbals,ucf101,65,PlayingTabla,similar
+1978,kinetics700,390,playing_cymbals,ucf101,66,PlayingViolin,similar
+1979,kinetics700,392,playing_didgeridoo,ucf101,58,PlayingCello,similar
+1980,kinetics700,392,playing_didgeridoo,ucf101,59,PlayingDaf,similar
+1981,kinetics700,392,playing_didgeridoo,ucf101,60,PlayingDhol,similar
+1982,kinetics700,392,playing_didgeridoo,ucf101,61,PlayingFlute,similar
+1983,kinetics700,392,playing_didgeridoo,ucf101,62,PlayingGuitar,similar
+1984,kinetics700,392,playing_didgeridoo,ucf101,63,PlayingPiano,similar
+1985,kinetics700,392,playing_didgeridoo,ucf101,64,PlayingSitar,similar
+1986,kinetics700,392,playing_didgeridoo,ucf101,65,PlayingTabla,similar
+1987,kinetics700,392,playing_didgeridoo,ucf101,66,PlayingViolin,similar
+1988,kinetics700,394,playing_drums,ucf101,5,BandMarching,similar
+1989,kinetics700,394,playing_drums,ucf101,26,Drumming,equal
+1990,kinetics700,394,playing_drums,ucf101,58,PlayingCello,similar
+1991,kinetics700,394,playing_drums,ucf101,59,PlayingDaf,is-a
+1992,kinetics700,394,playing_drums,ucf101,60,PlayingDhol,is-a
+1993,kinetics700,394,playing_drums,ucf101,61,PlayingFlute,similar
+1994,kinetics700,394,playing_drums,ucf101,62,PlayingGuitar,similar
+1995,kinetics700,394,playing_drums,ucf101,63,PlayingPiano,similar
+1996,kinetics700,394,playing_drums,ucf101,64,PlayingSitar,similar
+1997,kinetics700,394,playing_drums,ucf101,65,PlayingTabla,is-a
+1998,kinetics700,394,playing_drums,ucf101,66,PlayingViolin,similar
+1999,kinetics700,396,playing_flute,ucf101,5,BandMarching,similar
+2000,kinetics700,396,playing_flute,ucf101,58,PlayingCello,similar
+2001,kinetics700,396,playing_flute,ucf101,59,PlayingDaf,similar
+2002,kinetics700,396,playing_flute,ucf101,60,PlayingDhol,similar
+2003,kinetics700,396,playing_flute,ucf101,61,PlayingFlute,equal
+2004,kinetics700,396,playing_flute,ucf101,62,PlayingGuitar,similar
+2005,kinetics700,396,playing_flute,ucf101,63,PlayingPiano,similar
+2006,kinetics700,396,playing_flute,ucf101,64,PlayingSitar,similar
+2007,kinetics700,396,playing_flute,ucf101,65,PlayingTabla,similar
+2008,kinetics700,396,playing_flute,ucf101,66,PlayingViolin,similar
+2009,kinetics700,398,playing_guitar,ucf101,58,PlayingCello,similar
+2010,kinetics700,398,playing_guitar,ucf101,59,PlayingDaf,similar
+2011,kinetics700,398,playing_guitar,ucf101,60,PlayingDhol,similar
+2012,kinetics700,398,playing_guitar,ucf101,61,PlayingFlute,similar
+2013,kinetics700,398,playing_guitar,ucf101,62,PlayingGuitar,equal
+2014,kinetics700,398,playing_guitar,ucf101,63,PlayingPiano,similar
+2015,kinetics700,398,playing_guitar,ucf101,64,PlayingSitar,similar
+2016,kinetics700,398,playing_guitar,ucf101,65,PlayingTabla,similar
+2017,kinetics700,398,playing_guitar,ucf101,66,PlayingViolin,similar
+2018,kinetics700,400,playing_harmonica,ucf101,58,PlayingCello,similar
+2019,kinetics700,400,playing_harmonica,ucf101,59,PlayingDaf,similar
+2020,kinetics700,400,playing_harmonica,ucf101,60,PlayingDhol,similar
+2021,kinetics700,400,playing_harmonica,ucf101,61,PlayingFlute,similar
+2022,kinetics700,400,playing_harmonica,ucf101,62,PlayingGuitar,similar
+2023,kinetics700,400,playing_harmonica,ucf101,63,PlayingPiano,similar
+2024,kinetics700,400,playing_harmonica,ucf101,64,PlayingSitar,similar
+2025,kinetics700,400,playing_harmonica,ucf101,65,PlayingTabla,similar
+2026,kinetics700,400,playing_harmonica,ucf101,66,PlayingViolin,similar
+2027,kinetics700,401,playing_harp,ucf101,58,PlayingCello,similar
+2028,kinetics700,401,playing_harp,ucf101,59,PlayingDaf,similar
+2029,kinetics700,401,playing_harp,ucf101,60,PlayingDhol,similar
+2030,kinetics700,401,playing_harp,ucf101,61,PlayingFlute,similar
+2031,kinetics700,401,playing_harp,ucf101,62,PlayingGuitar,similar
+2032,kinetics700,401,playing_harp,ucf101,63,PlayingPiano,similar
+2033,kinetics700,401,playing_harp,ucf101,64,PlayingSitar,similar
+2034,kinetics700,401,playing_harp,ucf101,65,PlayingTabla,similar
+2035,kinetics700,401,playing_harp,ucf101,66,PlayingViolin,similar
+2036,kinetics700,403,playing_keyboard,ucf101,5,BandMarching,similar
+2037,kinetics700,403,playing_keyboard,ucf101,58,PlayingCello,similar
+2038,kinetics700,403,playing_keyboard,ucf101,59,PlayingDaf,similar
+2039,kinetics700,403,playing_keyboard,ucf101,60,PlayingDhol,similar
+2040,kinetics700,403,playing_keyboard,ucf101,61,PlayingFlute,similar
+2041,kinetics700,403,playing_keyboard,ucf101,62,PlayingGuitar,similar
+2042,kinetics700,403,playing_keyboard,ucf101,63,PlayingPiano,similar
+2043,kinetics700,403,playing_keyboard,ucf101,64,PlayingSitar,similar
+2044,kinetics700,403,playing_keyboard,ucf101,65,PlayingTabla,similar
+2045,kinetics700,403,playing_keyboard,ucf101,66,PlayingViolin,similar
+2046,kinetics700,406,playing_lute,ucf101,58,PlayingCello,similar
+2047,kinetics700,406,playing_lute,ucf101,59,PlayingDaf,similar
+2048,kinetics700,406,playing_lute,ucf101,60,PlayingDhol,similar
+2049,kinetics700,406,playing_lute,ucf101,61,PlayingFlute,similar
+2050,kinetics700,406,playing_lute,ucf101,62,PlayingGuitar,similar
+2051,kinetics700,406,playing_lute,ucf101,63,PlayingPiano,similar
+2052,kinetics700,406,playing_lute,ucf101,64,PlayingSitar,similar
+2053,kinetics700,406,playing_lute,ucf101,65,PlayingTabla,similar
+2054,kinetics700,406,playing_lute,ucf101,66,PlayingViolin,similar
+2055,kinetics700,408,playing_maracas,ucf101,58,PlayingCello,similar
+2056,kinetics700,408,playing_maracas,ucf101,59,PlayingDaf,similar
+2057,kinetics700,408,playing_maracas,ucf101,60,PlayingDhol,similar
+2058,kinetics700,408,playing_maracas,ucf101,61,PlayingFlute,similar
+2059,kinetics700,408,playing_maracas,ucf101,62,PlayingGuitar,similar
+2060,kinetics700,408,playing_maracas,ucf101,63,PlayingPiano,similar
+2061,kinetics700,408,playing_maracas,ucf101,64,PlayingSitar,similar
+2062,kinetics700,408,playing_maracas,ucf101,65,PlayingTabla,similar
+2063,kinetics700,408,playing_maracas,ucf101,66,PlayingViolin,similar
+2064,kinetics700,412,playing_nose_flute,ucf101,58,PlayingCello,similar
+2065,kinetics700,412,playing_nose_flute,ucf101,59,PlayingDaf,similar
+2066,kinetics700,412,playing_nose_flute,ucf101,60,PlayingDhol,similar
+2067,kinetics700,412,playing_nose_flute,ucf101,61,PlayingFlute,similar
+2068,kinetics700,412,playing_nose_flute,ucf101,62,PlayingGuitar,similar
+2069,kinetics700,412,playing_nose_flute,ucf101,63,PlayingPiano,similar
+2070,kinetics700,412,playing_nose_flute,ucf101,64,PlayingSitar,similar
+2071,kinetics700,412,playing_nose_flute,ucf101,65,PlayingTabla,similar
+2072,kinetics700,412,playing_nose_flute,ucf101,66,PlayingViolin,similar
+2073,kinetics700,413,playing_oboe,ucf101,58,PlayingCello,similar
+2074,kinetics700,413,playing_oboe,ucf101,59,PlayingDaf,similar
+2075,kinetics700,413,playing_oboe,ucf101,60,PlayingDhol,similar
+2076,kinetics700,413,playing_oboe,ucf101,61,PlayingFlute,similar
+2077,kinetics700,413,playing_oboe,ucf101,62,PlayingGuitar,similar
+2078,kinetics700,413,playing_oboe,ucf101,63,PlayingPiano,similar
+2079,kinetics700,413,playing_oboe,ucf101,64,PlayingSitar,similar
+2080,kinetics700,413,playing_oboe,ucf101,65,PlayingTabla,similar
+2081,kinetics700,413,playing_oboe,ucf101,66,PlayingViolin,similar
+2082,kinetics700,414,playing_ocarina,ucf101,58,PlayingCello,similar
+2083,kinetics700,414,playing_ocarina,ucf101,59,PlayingDaf,similar
+2084,kinetics700,414,playing_ocarina,ucf101,60,PlayingDhol,similar
+2085,kinetics700,414,playing_ocarina,ucf101,61,PlayingFlute,similar
+2086,kinetics700,414,playing_ocarina,ucf101,62,PlayingGuitar,similar
+2087,kinetics700,414,playing_ocarina,ucf101,63,PlayingPiano,similar
+2088,kinetics700,414,playing_ocarina,ucf101,64,PlayingSitar,similar
+2089,kinetics700,414,playing_ocarina,ucf101,65,PlayingTabla,similar
+2090,kinetics700,414,playing_ocarina,ucf101,66,PlayingViolin,similar
+2091,kinetics700,415,playing_organ,ucf101,58,PlayingCello,similar
+2092,kinetics700,415,playing_organ,ucf101,59,PlayingDaf,similar
+2093,kinetics700,415,playing_organ,ucf101,60,PlayingDhol,similar
+2094,kinetics700,415,playing_organ,ucf101,61,PlayingFlute,similar
+2095,kinetics700,415,playing_organ,ucf101,62,PlayingGuitar,similar
+2096,kinetics700,415,playing_organ,ucf101,63,PlayingPiano,similar
+2097,kinetics700,415,playing_organ,ucf101,64,PlayingSitar,similar
+2098,kinetics700,415,playing_organ,ucf101,65,PlayingTabla,similar
+2099,kinetics700,415,playing_organ,ucf101,66,PlayingViolin,similar
+2100,kinetics700,417,playing_pan_pipes,ucf101,58,PlayingCello,similar
+2101,kinetics700,417,playing_pan_pipes,ucf101,59,PlayingDaf,similar
+2102,kinetics700,417,playing_pan_pipes,ucf101,60,PlayingDhol,similar
+2103,kinetics700,417,playing_pan_pipes,ucf101,61,PlayingFlute,similar
+2104,kinetics700,417,playing_pan_pipes,ucf101,62,PlayingGuitar,similar
+2105,kinetics700,417,playing_pan_pipes,ucf101,63,PlayingPiano,similar
+2106,kinetics700,417,playing_pan_pipes,ucf101,64,PlayingSitar,similar
+2107,kinetics700,417,playing_pan_pipes,ucf101,65,PlayingTabla,similar
+2108,kinetics700,417,playing_pan_pipes,ucf101,66,PlayingViolin,similar
+2109,kinetics700,418,playing_piano,ucf101,58,PlayingCello,similar
+2110,kinetics700,418,playing_piano,ucf101,59,PlayingDaf,similar
+2111,kinetics700,418,playing_piano,ucf101,60,PlayingDhol,similar
+2112,kinetics700,418,playing_piano,ucf101,61,PlayingFlute,similar
+2113,kinetics700,418,playing_piano,ucf101,62,PlayingGuitar,similar
+2114,kinetics700,418,playing_piano,ucf101,63,PlayingPiano,equal
+2115,kinetics700,418,playing_piano,ucf101,64,PlayingSitar,similar
+2116,kinetics700,418,playing_piano,ucf101,65,PlayingTabla,similar
+2117,kinetics700,418,playing_piano,ucf101,66,PlayingViolin,similar
+2118,kinetics700,419,playing_piccolo,ucf101,5,BandMarching,similar
+2119,kinetics700,419,playing_piccolo,ucf101,58,PlayingCello,similar
+2120,kinetics700,419,playing_piccolo,ucf101,59,PlayingDaf,similar
+2121,kinetics700,419,playing_piccolo,ucf101,60,PlayingDhol,similar
+2122,kinetics700,419,playing_piccolo,ucf101,61,PlayingFlute,similar
+2123,kinetics700,419,playing_piccolo,ucf101,62,PlayingGuitar,similar
+2124,kinetics700,419,playing_piccolo,ucf101,63,PlayingPiano,similar
+2125,kinetics700,419,playing_piccolo,ucf101,64,PlayingSitar,similar
+2126,kinetics700,419,playing_piccolo,ucf101,65,PlayingTabla,similar
+2127,kinetics700,419,playing_piccolo,ucf101,66,PlayingViolin,similar
+2128,kinetics700,424,playing_recorder,ucf101,58,PlayingCello,similar
+2129,kinetics700,424,playing_recorder,ucf101,59,PlayingDaf,similar
+2130,kinetics700,424,playing_recorder,ucf101,60,PlayingDhol,similar
+2131,kinetics700,424,playing_recorder,ucf101,61,PlayingFlute,similar
+2132,kinetics700,424,playing_recorder,ucf101,62,PlayingGuitar,similar
+2133,kinetics700,424,playing_recorder,ucf101,63,PlayingPiano,similar
+2134,kinetics700,424,playing_recorder,ucf101,64,PlayingSitar,similar
+2135,kinetics700,424,playing_recorder,ucf101,65,PlayingTabla,similar
+2136,kinetics700,424,playing_recorder,ucf101,66,PlayingViolin,similar
+2137,kinetics700,428,playing_saxophone,ucf101,5,BandMarching,similar
+2138,kinetics700,428,playing_saxophone,ucf101,58,PlayingCello,similar
+2139,kinetics700,428,playing_saxophone,ucf101,59,PlayingDaf,similar
+2140,kinetics700,428,playing_saxophone,ucf101,60,PlayingDhol,similar
+2141,kinetics700,428,playing_saxophone,ucf101,61,PlayingFlute,similar
+2142,kinetics700,428,playing_saxophone,ucf101,62,PlayingGuitar,similar
+2143,kinetics700,428,playing_saxophone,ucf101,63,PlayingPiano,similar
+2144,kinetics700,428,playing_saxophone,ucf101,64,PlayingSitar,similar
+2145,kinetics700,428,playing_saxophone,ucf101,65,PlayingTabla,similar
+2146,kinetics700,428,playing_saxophone,ucf101,66,PlayingViolin,similar
+2147,kinetics700,434,playing_trombone,ucf101,5,BandMarching,similar
+2148,kinetics700,434,playing_trombone,ucf101,58,PlayingCello,similar
+2149,kinetics700,434,playing_trombone,ucf101,59,PlayingDaf,similar
+2150,kinetics700,434,playing_trombone,ucf101,60,PlayingDhol,similar
+2151,kinetics700,434,playing_trombone,ucf101,61,PlayingFlute,similar
+2152,kinetics700,434,playing_trombone,ucf101,62,PlayingGuitar,similar
+2153,kinetics700,434,playing_trombone,ucf101,63,PlayingPiano,similar
+2154,kinetics700,434,playing_trombone,ucf101,64,PlayingSitar,similar
+2155,kinetics700,434,playing_trombone,ucf101,65,PlayingTabla,similar
+2156,kinetics700,434,playing_trombone,ucf101,66,PlayingViolin,similar
+2157,kinetics700,435,playing_trumpet,ucf101,5,BandMarching,similar
+2158,kinetics700,435,playing_trumpet,ucf101,58,PlayingCello,similar
+2159,kinetics700,435,playing_trumpet,ucf101,59,PlayingDaf,similar
+2160,kinetics700,435,playing_trumpet,ucf101,60,PlayingDhol,similar
+2161,kinetics700,435,playing_trumpet,ucf101,61,PlayingFlute,similar
+2162,kinetics700,435,playing_trumpet,ucf101,62,PlayingGuitar,similar
+2163,kinetics700,435,playing_trumpet,ucf101,63,PlayingPiano,similar
+2164,kinetics700,435,playing_trumpet,ucf101,64,PlayingSitar,similar
+2165,kinetics700,435,playing_trumpet,ucf101,65,PlayingTabla,similar
+2166,kinetics700,435,playing_trumpet,ucf101,66,PlayingViolin,similar
+2167,kinetics700,436,playing_ukulele,ucf101,58,PlayingCello,similar
+2168,kinetics700,436,playing_ukulele,ucf101,59,PlayingDaf,similar
+2169,kinetics700,436,playing_ukulele,ucf101,60,PlayingDhol,similar
+2170,kinetics700,436,playing_ukulele,ucf101,61,PlayingFlute,similar
+2171,kinetics700,436,playing_ukulele,ucf101,62,PlayingGuitar,similar
+2172,kinetics700,436,playing_ukulele,ucf101,63,PlayingPiano,similar
+2173,kinetics700,436,playing_ukulele,ucf101,64,PlayingSitar,similar
+2174,kinetics700,436,playing_ukulele,ucf101,65,PlayingTabla,similar
+2175,kinetics700,436,playing_ukulele,ucf101,66,PlayingViolin,similar
+2176,kinetics700,437,playing_violin,ucf101,58,PlayingCello,similar
+2177,kinetics700,437,playing_violin,ucf101,59,PlayingDaf,similar
+2178,kinetics700,437,playing_violin,ucf101,60,PlayingDhol,similar
+2179,kinetics700,437,playing_violin,ucf101,61,PlayingFlute,similar
+2180,kinetics700,437,playing_violin,ucf101,62,PlayingGuitar,similar
+2181,kinetics700,437,playing_violin,ucf101,63,PlayingPiano,similar
+2182,kinetics700,437,playing_violin,ucf101,64,PlayingSitar,similar
+2183,kinetics700,437,playing_violin,ucf101,65,PlayingTabla,similar
+2184,kinetics700,437,playing_violin,ucf101,66,PlayingViolin,equal
+2185,kinetics700,440,playing_xylophone,ucf101,5,BandMarching,similar
+2186,kinetics700,440,playing_xylophone,ucf101,58,PlayingCello,similar
+2187,kinetics700,440,playing_xylophone,ucf101,59,PlayingDaf,similar
+2188,kinetics700,440,playing_xylophone,ucf101,60,PlayingDhol,similar
+2189,kinetics700,440,playing_xylophone,ucf101,61,PlayingFlute,similar
+2190,kinetics700,440,playing_xylophone,ucf101,62,PlayingGuitar,similar
+2191,kinetics700,440,playing_xylophone,ucf101,63,PlayingPiano,similar
+2192,kinetics700,440,playing_xylophone,ucf101,64,PlayingSitar,similar
+2193,kinetics700,440,playing_xylophone,ucf101,65,PlayingTabla,similar
+2194,kinetics700,440,playing_xylophone,ucf101,66,PlayingViolin,similar
+2195,ucf101,62,PlayingGuitar,kinetics700,611,tapping_guitar,is-a
+2196,kinetics700,397,playing_gong,ucf101,26,Drumming,similar
+2197,kinetics700,397,playing_gong,ucf101,58,PlayingCello,similar
+2198,kinetics700,397,playing_gong,ucf101,59,PlayingDaf,similar
+2199,kinetics700,397,playing_gong,ucf101,60,PlayingDhol,similar
+2200,kinetics700,397,playing_gong,ucf101,61,PlayingFlute,similar
+2201,kinetics700,397,playing_gong,ucf101,62,PlayingGuitar,similar
+2202,kinetics700,397,playing_gong,ucf101,63,PlayingPiano,similar
+2203,kinetics700,397,playing_gong,ucf101,64,PlayingSitar,similar
+2204,kinetics700,397,playing_gong,ucf101,65,PlayingTabla,similar
+2205,kinetics700,397,playing_gong,ucf101,66,PlayingViolin,similar
+2206,kinetics700,381,playing_billiards,ucf101,11,Billiards,equal
+2207,kinetics700,389,playing_cricket,ucf101,22,CricketBowling,is-a
+2208,kinetics700,389,playing_cricket,ucf101,23,CricketShot,is-a
+2209,kinetics700,395,playing_field_hockey,ucf101,28,FieldHockeyPenalty,is-a
+2210,kinetics700,421,playing_ping_pong,ucf101,89,TableTennisShot,is-a
+2211,kinetics700,433,playing_tennis,ucf101,91,TennisSwing,is-a
+2212,ucf101,80,Skiing,kinetics700,543,ski_ballet,is-a
+2213,ucf101,80,Skiing,kinetics700,544,ski_jumping,is-a
+2214,ucf101,80,Skiing,kinetics700,545,skiing_crosscountry,is-a
+2215,ucf101,80,Skiing,kinetics700,546,skiing_mono,is-a
+2216,ucf101,80,Skiing,kinetics700,547,skiing_slalom,is-a
+2217,kinetics700,76,card_throwing,ucf101,92,ThrowDiscus,similar
+2218,kinetics700,622,throwing_knife,ucf101,44,JavelinThrow,similar
+2219,kinetics700,622,throwing_knife,ucf101,92,ThrowDiscus,similar
+2220,kinetics700,623,throwing_snowballs,ucf101,92,ThrowDiscus,similar
+2221,kinetics700,625,throwing_water_balloon,ucf101,92,ThrowDiscus,similar
+2222,kinetics700,323,massaging_back,ucf101,38,HeadMassage,similar
+2223,kinetics700,324,massaging_feet,ucf101,38,HeadMassage,similar
+2224,kinetics700,325,massaging_legs,ucf101,38,HeadMassage,similar
+2225,kinetics700,326,massaging_neck,ucf101,38,HeadMassage,similar
+2226,kinetics700,327,massaging_person's_head,ucf101,38,HeadMassage,equal
+2227,ucf101,86,SumoWrestling,kinetics700,604,tackling,is-a
+2228,ucf101,35,Hammering,kinetics700,651,using_a_sledge_hammer,is-a
+2229,ucf101,87,Surfing,kinetics700,45,bodysurfing,is-a
+2230,kinetics700,72,canoeing_or_kayaking,ucf101,48,Kayaking,equal
+2231,kinetics700,72,canoeing_or_kayaking,ucf101,72,Rafting,equal
+2232,ucf101,75,Rowing,kinetics700,72,canoeing_or_kayaking,is-a
+2233,kinetics700,239,helmet_diving,ucf101,21,CliffDiving,similar
+2234,ucf101,25,Diving,kinetics700,239,helmet_diving,is-a
+2235,kinetics700,267,jetskiing,ucf101,81,Skijet,equal
+2236,ucf101,87,Surfing,kinetics700,281,kitesurfing,is-a
+2237,ucf101,87,Surfing,kinetics700,301,longboarding,is-a
+2238,kinetics700,590,surfing_water,ucf101,87,Surfing,equal
+2239,kinetics700,677,water_skiing,ucf101,81,Skijet,similar
+2240,ucf101,87,Surfing,kinetics700,690,windsurfing,is-a
+2241,activitynet,5,Baking_cookies,charades,66,Making a sandwich,similar
+2242,charades,147,Someone is cooking something,activitynet,5,Baking_cookies,is-a
+2243,charades,144,Fixing their hair,activitynet,12,Blow-drying_hair,is-a
+2244,charades,144,Fixing their hair,activitynet,14,Braiding_hair,is-a
+2245,charades,144,Fixing their hair,activitynet,16,Brushing_hair,is-a
+2246,activitynet,32,Cleaning_windows,charades,91,Washing a window,is-a
+2247,charades,126,Throwing something on the floor,activitynet,43,Doing_a_powerbomb,is-a
+2248,charades,106,Drinking from a cup/glass/bottle,activitynet,51,Drinking_beer,is-a
+2249,charades,106,Drinking from a cup/glass/bottle,activitynet,52,Drinking_coffee,is-a
+2250,activitynet,66,Hand_car_wash,charades,38,Washing something with a towel,similar
+2251,activitynet,66,Hand_car_wash,charades,91,Washing a window,similar
+2252,charades,5,Washing some clothes,activitynet,67,Hand_washing_clothes,is-a
+2253,charades,147,Someone is cooking something,activitynet,88,Making_a_cake,is-a
+2254,activitynet,90,Making_a_sandwich,charades,66,Making a sandwich,equal
+2255,charades,147,Someone is cooking something,activitynet,90,Making_a_sandwich,is-a
+2256,charades,147,Someone is cooking something,activitynet,91,Making_an_omelette,is-a
+2257,charades,147,Someone is cooking something,activitynet,99,Peeling_potatoes,is-a
+2258,charades,147,Someone is cooking something,activitynet,131,Preparing_pasta,is-a
+2259,charades,147,Someone is cooking something,activitynet,132,Preparing_salad,is-a
+2260,activitynet,135,Putting_on_shoes,charades,55,Putting on shoe/shoes,equal
+2261,charades,148,Someone is dressing,activitynet,135,Putting_on_shoes,is-a
+2262,activitynet,137,Raking_leaves,charades,102,Tidying up with a broom,similar
+2263,charades,127,Tidying something on the floor,activitynet,137,Raking_leaves,is-a
+2264,charades,144,Fixing their hair,activitynet,138,Removing_curlers,is-a
+2265,charades,150,Someone is running somewhere,activitynet,147,Running_a_marathon,is-a
+2266,charades,126,Throwing something on the floor,activitynet,153,Shot_put,is-a
+2267,activitynet,187,Vacuuming_floor,charades,127,Tidying something on the floor,similar
+2268,activitynet,191,Washing_dishes,charades,111,Washing a cup/glass/bottle,similar
+2269,activitynet,191,Washing_dishes,charades,121,Wash a dish/dishes,equal
+2270,activitynet,193,Washing_hands,charades,139,Washing their hands,equal
+2271,charades,150,Someone is running somewhere,ucf101,7,Basketball,is-a
+2272,charades,144,Fixing their hair,ucf101,12,BlowDryHair,is-a
+2273,charades,151,Someone is going from standing to sitting,ucf101,14,BodyWeightSquats,is-a
+2274,charades,151,Someone is going from standing to sitting,ucf101,20,CleanAndJerk,is-a
+2275,charades,150,Someone is running somewhere,ucf101,22,CricketBowling,is-a
+2276,charades,147,Someone is cooking something,ucf101,24,CuttingInKitchen,is-a
+2277,charades,144,Fixing their hair,ucf101,33,Haircut,is-a
+2278,charades,150,Someone is running somewhere,ucf101,44,JavelinThrow,is-a
+2279,charades,0,Holding some clothes,ucf101,49,Knitting,is-a
+2280,charades,150,Someone is running somewhere,ucf101,50,LongJump,is-a
+2281,charades,64,Throwing food somewhere,ucf101,57,PizzaTossing,is-a
+2282,charades,147,Someone is cooking something,ucf101,57,PizzaTossing,is-a
+2283,charades,150,Someone is running somewhere,ucf101,67,PoleVault,is-a
+2284,ucf101,92,ThrowDiscus,charades,3,Throwing clothes somewhere,similar
+2285,ucf101,92,ThrowDiscus,charades,24,Throwing a bag somewhere,similar
+2286,ucf101,92,ThrowDiscus,charades,31,Throwing a book somewhere,similar
+2287,ucf101,92,ThrowDiscus,charades,36,Throwing a towel/s somewhere,similar
+2288,ucf101,92,ThrowDiscus,charades,45,Throwing a box somewhere,similar
+2289,ucf101,92,ThrowDiscus,charades,58,Throwing shoes somewhere,similar
+2290,ucf101,92,ThrowDiscus,charades,64,Throwing food somewhere,similar
+2291,ucf101,92,ThrowDiscus,charades,74,Throwing a blanket somewhere,similar
+2292,ucf101,92,ThrowDiscus,charades,80,Throwing a pillow somewhere,similar
+2293,ucf101,92,ThrowDiscus,charades,101,Throwing a broom somewhere,similar
+2294,ucf101,92,ThrowDiscus,charades,126,Throwing something on the floor,similar
+2295,charades,52,Working/Playing on a laptop,ucf101,94,Typing,is-a
+2296,ucf101,97,WalkingWithDog,charades,97,Walking through a doorway,similar
+2297,charades,150,Someone is running somewhere,ucf101,97,WalkingWithDog,is-a
+2298,ucf101,99,WritingOnBoard,charades,145,Working on paper/notebook,similar
+2299,stair_actions,26,exercising,activitynet,1,Archery,is-a
+2300,stair_actions,28,fighting,activitynet,2,Arm_wrestling,is-a
+2301,stair_actions,26,exercising,activitynet,2,Arm_wrestling,is-a
+2302,stair_actions,13,cooking,activitynet,5,Baking_cookies,is-a
+2303,stair_actions,26,exercising,activitynet,6,Ballet,is-a
+2304,stair_actions,16,dancing,activitynet,6,Ballet,is-a
+2305,activitynet,7,Bathing_dog,stair_actions,79,stroking_animal,similar
+2306,stair_actions,26,exercising,activitynet,11,Belly_dance,is-a
+2307,stair_actions,16,dancing,activitynet,11,Belly_dance,is-a
+2308,stair_actions,67,setting_hair,activitynet,12,Blow-drying_hair,is-a
+2309,activitynet,12,Blow-drying_hair,stair_actions,22,drying_hair_with_blower,equal
+2310,stair_actions,30,gardening,activitynet,13,Blowing_leaves,is-a
+2311,stair_actions,67,setting_hair,activitynet,14,Braiding_hair,is-a
+2312,stair_actions,26,exercising,activitynet,15,Breakdancing,is-a
+2313,stair_actions,16,dancing,activitynet,15,Breakdancing,is-a
+2314,stair_actions,67,setting_hair,activitynet,16,Brushing_hair,is-a
+2315,activitynet,17,Brushing_teeth,stair_actions,9,brushing_teeth,equal
+2316,stair_actions,28,fighting,activitynet,24,Capoeira,is-a
+2317,stair_actions,26,exercising,activitynet,24,Capoeira,is-a
+2318,stair_actions,16,dancing,activitynet,24,Capoeira,is-a
+2319,stair_actions,26,exercising,activitynet,27,Cheerleading,is-a
+2320,stair_actions,16,dancing,activitynet,27,Cheerleading,is-a
+2321,activitynet,30,Cleaning_shoes,stair_actions,60,polishing_shoe,is-a
+2322,stair_actions,39,housecleaning,activitynet,31,Cleaning_sink,is-a
+2323,stair_actions,39,housecleaning,activitynet,32,Cleaning_windows,is-a
+2324,activitynet,32,Cleaning_windows,stair_actions,98,wiping_window,is-a
+2325,stair_actions,26,exercising,activitynet,36,Cumbia,is-a
+2326,stair_actions,16,dancing,activitynet,36,Cumbia,is-a
+2327,stair_actions,26,exercising,activitynet,37,Curling,is-a
+2328,stair_actions,30,gardening,activitynet,38,Cutting_the_grass,is-a
+2329,stair_actions,26,exercising,activitynet,40,Disc_dog,is-a
+2330,stair_actions,84,throwing,activitynet,41,Discus_throw,is-a
+2331,stair_actions,26,exercising,activitynet,41,Discus_throw,is-a
+2332,stair_actions,26,exercising,activitynet,44,Doing_crunches,is-a
+2333,activitynet,49,Doing_nails,stair_actions,48,manicuring,equal
+2334,stair_actions,26,exercising,activitynet,50,Doing_step_aerobics,is-a
+2335,stair_actions,21,drinking,activitynet,51,Drinking_beer,is-a
+2336,stair_actions,21,drinking,activitynet,52,Drinking_coffee,is-a
+2337,stair_actions,89,walking,activitynet,54,Elliptical_trainer,is-a
+2338,stair_actions,26,exercising,activitynet,54,Elliptical_trainer,is-a
+2339,stair_actions,31,gargling,activitynet,59,Gargling_mouthwash,is-a
+2340,activitynet,59,Gargling_mouthwash,stair_actions,9,brushing_teeth,similar
+2341,stair_actions,67,setting_hair,activitynet,60,Getting_a_haircut,is-a
+2342,activitynet,60,Getting_a_haircut,stair_actions,22,drying_hair_with_blower,similar
+2343,activitynet,63,Grooming_dog,stair_actions,79,stroking_animal,similar
+2344,activitynet,64,Grooming_horse,stair_actions,79,stroking_animal,similar
+2345,stair_actions,84,throwing,activitynet,65,Hammer_throw,is-a
+2346,stair_actions,26,exercising,activitynet,65,Hammer_throw,is-a
+2347,stair_actions,24,eating_snack,activitynet,69,Having_an_ice_cream,is-a
+2348,stair_actions,26,exercising,activitynet,70,High_jump,is-a
+2349,stair_actions,58,playing_with_toy,activitynet,74,Hula_hoop,is-a
+2350,stair_actions,26,exercising,activitynet,74,Hula_hoop,is-a
+2351,stair_actions,41,ironing,activitynet,78,Ironing_clothes,is-a
+2352,stair_actions,58,playing_with_toy,activitynet,81,Kite_flying,is-a
+2353,activitynet,82,Kneeling,stair_actions,8,bowing,similar
+2354,activitynet,82,Kneeling,stair_actions,72,sitting_down,similar
+2355,activitynet,83,Knitting,stair_actions,44,knitting_or_stitching,equal
+2356,activitynet,83,Knitting,stair_actions,68,sewing,similar
+2357,stair_actions,26,exercising,activitynet,86,Long_jump,is-a
+2358,stair_actions,13,cooking,activitynet,88,Making_a_cake,is-a
+2359,stair_actions,13,cooking,activitynet,89,Making_a_lemonade,is-a
+2360,stair_actions,13,cooking,activitynet,90,Making_a_sandwich,is-a
+2361,stair_actions,13,cooking,activitynet,91,Making_an_omelette,is-a
+2362,stair_actions,39,housecleaning,activitynet,93,Mooping_floor,is-a
+2363,stair_actions,30,gardening,activitynet,94,Mowing_the_lawn,is-a
+2364,activitynet,96,Painting,stair_actions,20,drawing_picture,similar
+2365,activitynet,99,Peeling_potatoes,stair_actions,15,cutting_food,similar
+2366,stair_actions,13,cooking,activitynet,99,Peeling_potatoes,is-a
+2367,activitynet,103,Playing_accordion,stair_actions,56,playing_guitar,similar
+2368,activitynet,103,Playing_accordion,stair_actions,57,playing_piano,similar
+2369,activitynet,103,Playing_accordion,stair_actions,6,blowing_flute,similar
+2370,activitynet,105,Playing_bagpipes,stair_actions,56,playing_guitar,similar
+2371,activitynet,105,Playing_bagpipes,stair_actions,57,playing_piano,similar
+2372,activitynet,105,Playing_bagpipes,stair_actions,6,blowing_flute,similar
+2373,stair_actions,54,playing_board_game,activitynet,107,Playing_blackjack,is-a
+2374,activitynet,107,Playing_blackjack,stair_actions,55,playing_computer_game,similar
+2375,activitynet,108,Playing_congas,stair_actions,56,playing_guitar,similar
+2376,activitynet,108,Playing_congas,stair_actions,57,playing_piano,similar
+2377,activitynet,108,Playing_congas,stair_actions,6,blowing_flute,similar
+2378,activitynet,109,Playing_drums,stair_actions,56,playing_guitar,similar
+2379,activitynet,109,Playing_drums,stair_actions,57,playing_piano,similar
+2380,activitynet,109,Playing_drums,stair_actions,6,blowing_flute,similar
+2381,activitynet,111,Playing_flauta,stair_actions,56,playing_guitar,similar
+2382,activitynet,111,Playing_flauta,stair_actions,57,playing_piano,similar
+2383,activitynet,111,Playing_flauta,stair_actions,6,blowing_flute,equal
+2384,activitynet,112,Playing_guitarra,stair_actions,56,playing_guitar,equal
+2385,activitynet,112,Playing_guitarra,stair_actions,57,playing_piano,similar
+2386,activitynet,112,Playing_guitarra,stair_actions,6,blowing_flute,similar
+2387,activitynet,113,Playing_harmonica,stair_actions,56,playing_guitar,similar
+2388,activitynet,113,Playing_harmonica,stair_actions,57,playing_piano,similar
+2389,activitynet,113,Playing_harmonica,stair_actions,6,blowing_flute,similar
+2390,activitynet,117,Playing_piano,stair_actions,56,playing_guitar,similar
+2391,activitynet,117,Playing_piano,stair_actions,57,playing_piano,equal
+2392,activitynet,117,Playing_piano,stair_actions,6,blowing_flute,similar
+2393,stair_actions,58,playing_with_toy,activitynet,121,Playing_rubik_cube,is-a
+2394,activitynet,121,Playing_rubik_cube,stair_actions,54,playing_board_game,similar
+2395,activitynet,121,Playing_rubik_cube,stair_actions,55,playing_computer_game,similar
+2396,activitynet,122,Playing_saxophone,stair_actions,56,playing_guitar,similar
+2397,activitynet,122,Playing_saxophone,stair_actions,57,playing_piano,similar
+2398,activitynet,122,Playing_saxophone,stair_actions,6,blowing_flute,similar
+2399,activitynet,125,Playing_violin,stair_actions,56,playing_guitar,similar
+2400,activitynet,125,Playing_violin,stair_actions,57,playing_piano,similar
+2401,activitynet,125,Playing_violin,stair_actions,6,blowing_flute,similar
+2402,activitynet,128,Polishing_forniture,stair_actions,60,polishing_shoe,similar
+2403,stair_actions,39,housecleaning,activitynet,128,Polishing_forniture,is-a
+2404,activitynet,128,Polishing_forniture,stair_actions,98,wiping_window,similar
+2405,activitynet,129,Polishing_shoes,stair_actions,60,polishing_shoe,equal
+2406,stair_actions,13,cooking,activitynet,131,Preparing_pasta,is-a
+2407,stair_actions,13,cooking,activitynet,132,Preparing_salad,is-a
+2408,activitynet,133,Putting_in_contact_lenses,stair_actions,95,wearing_glass,similar
+2409,activitynet,134,Putting_on_makeup,stair_actions,67,setting_hair,similar
+2410,activitynet,134,Putting_on_makeup,stair_actions,47,making_up,equal
+2411,activitynet,134,Putting_on_makeup,stair_actions,48,manicuring,similar
+2412,activitynet,135,Putting_on_shoes,stair_actions,96,wearing_shoes,equal
+2413,activitynet,135,Putting_on_shoes,stair_actions,97,wearing_tie,similar
+2414,activitynet,135,Putting_on_shoes,stair_actions,63,putting_on_cloth,similar
+2415,stair_actions,67,setting_hair,activitynet,138,Removing_curlers,is-a
+2416,activitynet,142,Rock-paper-scissors,stair_actions,19,doing_paper-rock-scissors,equal
+2417,stair_actions,26,exercising,activitynet,144,Rollerblading,is-a
+2418,stair_actions,26,exercising,activitynet,147,Running_a_marathon,is-a
+2419,activitynet,147,Running_a_marathon,stair_actions,66,running_around,similar
+2420,activitynet,151,Shaving,stair_actions,71,shaving,equal
+2421,stair_actions,71,shaving,activitynet,152,Shaving_legs,is-a
+2422,stair_actions,75,smoking,activitynet,159,Smoking_a_cigarette,is-a
+2423,stair_actions,75,smoking,activitynet,160,Smoking_hookah,is-a
+2424,stair_actions,26,exercising,activitynet,164,Spinning,is-a
+2425,stair_actions,30,gardening,activitynet,165,Spread_mulch,is-a
+2426,stair_actions,26,exercising,activitynet,173,Tai_chi,is-a
+2427,stair_actions,26,exercising,activitynet,174,Tango,is-a
+2428,stair_actions,16,dancing,activitynet,174,Tango,is-a
+2429,stair_actions,84,throwing,activitynet,176,Throwing_darts,is-a
+2430,stair_actions,30,gardening,activitynet,177,Trimming_branches_or_hedges,is-a
+2431,stair_actions,26,exercising,activitynet,185,Using_the_rowing_machine,is-a
+2432,stair_actions,39,housecleaning,activitynet,187,Vacuuming_floor,is-a
+2433,activitynet,187,Vacuuming_floor,stair_actions,98,wiping_window,similar
+2434,stair_actions,89,walking,activitynet,190,Walking_the_dog,is-a
+2435,activitynet,191,Washing_dishes,stair_actions,91,washing_dish,equal
+2436,activitynet,191,Washing_dishes,stair_actions,93,washing_hands,similar
+2437,activitynet,191,Washing_dishes,stair_actions,92,washing_face,similar
+2438,activitynet,192,Washing_face,stair_actions,91,washing_dish,similar
+2439,activitynet,192,Washing_face,stair_actions,93,washing_hands,similar
+2440,activitynet,192,Washing_face,stair_actions,92,washing_face,equal
+2441,activitynet,193,Washing_hands,stair_actions,91,washing_dish,similar
+2442,activitynet,193,Washing_hands,stair_actions,93,washing_hands,equal
+2443,activitynet,193,Washing_hands,stair_actions,92,washing_face,similar
+2444,stair_actions,26,exercising,activitynet,199,Zumba,is-a
+2445,stair_actions,16,dancing,activitynet,199,Zumba,is-a
+2446,activitynet,134,Putting_on_makeup,ucf101,0,ApplyEyeMakeup,is-a
+2447,activitynet,134,Putting_on_makeup,ucf101,1,ApplyLipstick,is-a
+2448,ucf101,2,Archery,activitynet,1,Archery,equal
+2449,ucf101,4,BalanceBeam,activitynet,182,Using_the_balance_beam,equal
+2450,ucf101,5,BandMarching,activitynet,53,Drum_corps,similar
+2451,ucf101,6,BaseballPitch,activitynet,153,Shot_put,similar
+2452,ucf101,7,Basketball,activitynet,85,Layup_drill_in_basketball,is-a
+2453,ucf101,8,BasketballDunk,activitynet,85,Layup_drill_in_basketball,similar
+2454,ucf101,9,BenchPress,activitynet,29,Clean_and_jerk,similar
+2455,ucf101,10,Biking,activitynet,4,BMX,is-a
+2456,ucf101,10,Biking,activitynet,48,Doing_motocross,is-a
+2457,ucf101,11,Billiards,activitynet,119,Playing_pool,similar
+2458,ucf101,12,BlowDryHair,activitynet,12,Blow-drying_hair,equal
+2459,ucf101,12,BlowDryHair,activitynet,14,Braiding_hair,similar
+2460,ucf101,12,BlowDryHair,activitynet,16,Brushing_hair,similar
+2461,ucf101,15,Bowling,activitynet,124,Playing_ten_pins,equal
+2462,ucf101,16,BoxingPunchingBag,activitynet,47,Doing_kickboxing,similar
+2463,ucf101,17,BoxingSpeedBag,activitynet,47,Doing_kickboxing,similar
+2464,activitynet,170,Swimming,ucf101,18,BreastStroke,is-a
+2465,ucf101,19,BrushingTeeth,activitynet,17,Brushing_teeth,equal
+2466,ucf101,20,CleanAndJerk,activitynet,29,Clean_and_jerk,equal
+2467,ucf101,20,CleanAndJerk,activitynet,161,Snatch,similar
+2468,activitynet,170,Swimming,ucf101,21,CliffDiving,is-a
+2469,activitynet,34,Cricket,ucf101,22,CricketBowling,is-a
+2470,activitynet,34,Cricket,ucf101,23,CricketShot,is-a
+2471,ucf101,24,CuttingInKitchen,activitynet,99,Peeling_potatoes,similar
+2472,ucf101,24,CuttingInKitchen,activitynet,132,Preparing_salad,similar
+2473,ucf101,25,Diving,activitynet,102,Plataform_diving,is-a
+2474,ucf101,25,Diving,activitynet,149,Scuba_diving,is-a
+2475,ucf101,25,Diving,activitynet,166,Springboard_diving,is-a
+2476,ucf101,25,Diving,activitynet,170,Swimming,similar
+2477,ucf101,26,Drumming,activitynet,53,Drum_corps,is-a
+2478,activitynet,110,Playing_field_hockey,ucf101,28,FieldHockeyPenalty,is-a
+2479,activitynet,40,Disc_dog,ucf101,30,FrisbeeCatch,is-a
+2480,activitynet,170,Swimming,ucf101,31,FrontCrawl,is-a
+2481,ucf101,33,Haircut,activitynet,12,Blow-drying_hair,similar
+2482,ucf101,33,Haircut,activitynet,14,Braiding_hair,similar
+2483,ucf101,33,Haircut,activitynet,16,Brushing_hair,similar
+2484,ucf101,33,Haircut,activitynet,60,Getting_a_haircut,is-a
+2485,ucf101,34,HammerThrow,activitynet,65,Hammer_throw,equal
+2486,ucf101,39,HighJump,activitynet,70,High_jump,equal
+2487,ucf101,39,HighJump,activitynet,127,Pole_vault,is-a
+2488,ucf101,40,HorseRace,activitynet,73,Horseback_riding,similar
+2489,ucf101,41,HorseRiding,activitynet,22,Camel_ride,similar
+2490,ucf101,41,HorseRiding,activitynet,73,Horseback_riding,equal
+2491,ucf101,41,HorseRiding,activitynet,118,Playing_polo,is-a
+2492,ucf101,42,HulaHoop,activitynet,74,Hula_hoop,equal
+2493,ucf101,44,JavelinThrow,activitynet,79,Javelin_throw,equal
+2494,ucf101,48,Kayaking,activitynet,23,Canoeing,similar
+2495,ucf101,48,Kayaking,activitynet,80,Kayaking,equal
+2496,ucf101,49,Knitting,activitynet,83,Knitting,equal
+2497,ucf101,50,LongJump,activitynet,86,Long_jump,equal
+2498,ucf101,52,MilitaryParade,activitynet,53,Drum_corps,similar
+2499,activitynet,89,Making_a_lemonade,ucf101,53,Mixing,is-a
+2500,ucf101,53,Mixing,activitynet,92,Mixing_drinks,is-a
+2501,ucf101,54,MoppingFloor,activitynet,93,Mooping_floor,equal
+2502,ucf101,56,ParallelBars,activitynet,181,Using_parallel_bars,equal
+2503,ucf101,58,PlayingCello,activitynet,103,Playing_accordion,similar
+2504,ucf101,58,PlayingCello,activitynet,105,Playing_bagpipes,similar
+2505,ucf101,58,PlayingCello,activitynet,108,Playing_congas,similar
+2506,ucf101,58,PlayingCello,activitynet,109,Playing_drums,similar
+2507,ucf101,58,PlayingCello,activitynet,111,Playing_flauta,similar
+2508,ucf101,58,PlayingCello,activitynet,112,Playing_guitarra,similar
+2509,ucf101,58,PlayingCello,activitynet,113,Playing_harmonica,similar
+2510,ucf101,58,PlayingCello,activitynet,117,Playing_piano,similar
+2511,ucf101,58,PlayingCello,activitynet,122,Playing_saxophone,similar
+2512,ucf101,58,PlayingCello,activitynet,125,Playing_violin,similar
+2513,ucf101,59,PlayingDaf,activitynet,103,Playing_accordion,similar
+2514,ucf101,59,PlayingDaf,activitynet,105,Playing_bagpipes,similar
+2515,ucf101,59,PlayingDaf,activitynet,108,Playing_congas,similar
+2516,activitynet,109,Playing_drums,ucf101,59,PlayingDaf,is-a
+2517,ucf101,59,PlayingDaf,activitynet,111,Playing_flauta,similar
+2518,ucf101,59,PlayingDaf,activitynet,112,Playing_guitarra,similar
+2519,ucf101,59,PlayingDaf,activitynet,113,Playing_harmonica,similar
+2520,ucf101,59,PlayingDaf,activitynet,117,Playing_piano,similar
+2521,ucf101,59,PlayingDaf,activitynet,122,Playing_saxophone,similar
+2522,ucf101,59,PlayingDaf,activitynet,125,Playing_violin,similar
+2523,ucf101,60,PlayingDhol,activitynet,103,Playing_accordion,similar
+2524,ucf101,60,PlayingDhol,activitynet,105,Playing_bagpipes,similar
+2525,ucf101,60,PlayingDhol,activitynet,108,Playing_congas,similar
+2526,activitynet,109,Playing_drums,ucf101,60,PlayingDhol,is-a
+2527,ucf101,60,PlayingDhol,activitynet,111,Playing_flauta,similar
+2528,ucf101,60,PlayingDhol,activitynet,112,Playing_guitarra,similar
+2529,ucf101,60,PlayingDhol,activitynet,113,Playing_harmonica,similar
+2530,ucf101,60,PlayingDhol,activitynet,117,Playing_piano,similar
+2531,ucf101,60,PlayingDhol,activitynet,122,Playing_saxophone,similar
+2532,ucf101,60,PlayingDhol,activitynet,125,Playing_violin,similar
+2533,ucf101,61,PlayingFlute,activitynet,103,Playing_accordion,similar
+2534,ucf101,61,PlayingFlute,activitynet,105,Playing_bagpipes,similar
+2535,ucf101,61,PlayingFlute,activitynet,108,Playing_congas,similar
+2536,ucf101,61,PlayingFlute,activitynet,109,Playing_drums,similar
+2537,ucf101,61,PlayingFlute,activitynet,111,Playing_flauta,equal
+2538,ucf101,61,PlayingFlute,activitynet,112,Playing_guitarra,similar
+2539,ucf101,61,PlayingFlute,activitynet,113,Playing_harmonica,similar
+2540,ucf101,61,PlayingFlute,activitynet,117,Playing_piano,similar
+2541,ucf101,61,PlayingFlute,activitynet,122,Playing_saxophone,similar
+2542,ucf101,61,PlayingFlute,activitynet,125,Playing_violin,similar
+2543,ucf101,62,PlayingGuitar,activitynet,103,Playing_accordion,similar
+2544,ucf101,62,PlayingGuitar,activitynet,105,Playing_bagpipes,similar
+2545,ucf101,62,PlayingGuitar,activitynet,108,Playing_congas,similar
+2546,ucf101,62,PlayingGuitar,activitynet,109,Playing_drums,similar
+2547,ucf101,62,PlayingGuitar,activitynet,111,Playing_flauta,similar
+2548,ucf101,62,PlayingGuitar,activitynet,112,Playing_guitarra,equal
+2549,ucf101,62,PlayingGuitar,activitynet,113,Playing_harmonica,similar
+2550,ucf101,62,PlayingGuitar,activitynet,117,Playing_piano,similar
+2551,ucf101,62,PlayingGuitar,activitynet,122,Playing_saxophone,similar
+2552,ucf101,62,PlayingGuitar,activitynet,125,Playing_violin,similar
+2553,ucf101,63,PlayingPiano,activitynet,103,Playing_accordion,similar
+2554,ucf101,63,PlayingPiano,activitynet,105,Playing_bagpipes,similar
+2555,ucf101,63,PlayingPiano,activitynet,108,Playing_congas,similar
+2556,ucf101,63,PlayingPiano,activitynet,109,Playing_drums,similar
+2557,ucf101,63,PlayingPiano,activitynet,111,Playing_flauta,similar
+2558,ucf101,63,PlayingPiano,activitynet,112,Playing_guitarra,similar
+2559,ucf101,63,PlayingPiano,activitynet,113,Playing_harmonica,similar
+2560,ucf101,63,PlayingPiano,activitynet,117,Playing_piano,equal
+2561,ucf101,63,PlayingPiano,activitynet,122,Playing_saxophone,similar
+2562,ucf101,63,PlayingPiano,activitynet,125,Playing_violin,similar
+2563,ucf101,64,PlayingSitar,activitynet,103,Playing_accordion,similar
+2564,ucf101,64,PlayingSitar,activitynet,105,Playing_bagpipes,similar
+2565,ucf101,64,PlayingSitar,activitynet,108,Playing_congas,similar
+2566,ucf101,64,PlayingSitar,activitynet,109,Playing_drums,similar
+2567,ucf101,64,PlayingSitar,activitynet,111,Playing_flauta,similar
+2568,ucf101,64,PlayingSitar,activitynet,112,Playing_guitarra,similar
+2569,ucf101,64,PlayingSitar,activitynet,113,Playing_harmonica,similar
+2570,ucf101,64,PlayingSitar,activitynet,117,Playing_piano,similar
+2571,ucf101,64,PlayingSitar,activitynet,122,Playing_saxophone,similar
+2572,ucf101,64,PlayingSitar,activitynet,125,Playing_violin,similar
+2573,ucf101,65,PlayingTabla,activitynet,103,Playing_accordion,similar
+2574,ucf101,65,PlayingTabla,activitynet,105,Playing_bagpipes,similar
+2575,ucf101,65,PlayingTabla,activitynet,108,Playing_congas,similar
+2576,activitynet,109,Playing_drums,ucf101,65,PlayingTabla,is-a
+2577,ucf101,65,PlayingTabla,activitynet,111,Playing_flauta,similar
+2578,ucf101,65,PlayingTabla,activitynet,112,Playing_guitarra,similar
+2579,ucf101,65,PlayingTabla,activitynet,113,Playing_harmonica,similar
+2580,ucf101,65,PlayingTabla,activitynet,117,Playing_piano,similar
+2581,ucf101,65,PlayingTabla,activitynet,122,Playing_saxophone,similar
+2582,ucf101,65,PlayingTabla,activitynet,125,Playing_violin,similar
+2583,ucf101,66,PlayingViolin,activitynet,103,Playing_accordion,similar
+2584,ucf101,66,PlayingViolin,activitynet,105,Playing_bagpipes,similar
+2585,ucf101,66,PlayingViolin,activitynet,108,Playing_congas,similar
+2586,ucf101,66,PlayingViolin,activitynet,109,Playing_drums,similar
+2587,ucf101,66,PlayingViolin,activitynet,111,Playing_flauta,similar
+2588,ucf101,66,PlayingViolin,activitynet,112,Playing_guitarra,similar
+2589,ucf101,66,PlayingViolin,activitynet,113,Playing_harmonica,similar
+2590,ucf101,66,PlayingViolin,activitynet,117,Playing_piano,similar
+2591,ucf101,66,PlayingViolin,activitynet,122,Playing_saxophone,similar
+2592,ucf101,66,PlayingViolin,activitynet,125,Playing_violin,equal
+2593,activitynet,70,High_jump,ucf101,67,PoleVault,is-a
+2594,ucf101,67,PoleVault,activitynet,127,Pole_vault,equal
+2595,ucf101,68,PommelHorse,activitynet,184,Using_the_pommel_horse,equal
+2596,ucf101,72,Rafting,activitynet,136,Rafting,equal
+2597,ucf101,72,Rafting,activitynet,141,River_tubing,similar
+2598,activitynet,143,Rock_climbing,ucf101,73,RockClimbingIndoor,is-a
+2599,ucf101,74,RopeClimbing,activitynet,143,Rock_climbing,similar
+2600,ucf101,75,Rowing,activitynet,23,Canoeing,is-a
+2601,ucf101,75,Rowing,activitynet,185,Using_the_rowing_machine,is-a
+2602,activitynet,164,Spinning,ucf101,76,SalsaSpin,is-a
+2603,ucf101,78,Shotput,activitynet,65,Hammer_throw,similar
+2604,ucf101,79,SkateBoarding,activitynet,87,Longboarding,is-a
+2605,ucf101,79,SkateBoarding,activitynet,156,Skateboarding,equal
+2606,ucf101,80,Skiing,activitynet,157,Skiing,equal
+2607,ucf101,80,Skiing,activitynet,194,Waterskiing,is-a
+2608,ucf101,81,Skijet,activitynet,194,Waterskiing,similar
+2609,ucf101,83,SoccerJuggling,activitynet,9,Beach_soccer,similar
+2610,ucf101,83,SoccerJuggling,activitynet,58,Futsal,similar
+2611,ucf101,84,SoccerPenalty,activitynet,9,Beach_soccer,similar
+2612,ucf101,84,SoccerPenalty,activitynet,58,Futsal,similar
+2613,ucf101,86,SumoWrestling,activitynet,168,Sumo,equal
+2614,ucf101,87,Surfing,activitynet,169,Surfing,equal
+2615,ucf101,87,Surfing,activitynet,197,Windsurfing,is-a
+2616,ucf101,88,Swing,activitynet,171,Swinging_at_the_playground,is-a
+2617,activitynet,100,Ping-pong,ucf101,89,TableTennisShot,is-a
+2618,ucf101,90,TaiChi,activitynet,173,Tai_chi,equal
+2619,ucf101,91,TennisSwing,activitynet,120,Playing_racquetball,similar
+2620,ucf101,91,TennisSwing,activitynet,123,Playing_squash,similar
+2621,ucf101,92,ThrowDiscus,activitynet,41,Discus_throw,equal
+2622,ucf101,95,UnevenBars,activitynet,186,Using_uneven_bars,equal
+2623,ucf101,96,VolleyballSpiking,activitynet,106,Playing_beach_volleyball,similar
+2624,activitynet,188,Volleyball,ucf101,96,VolleyballSpiking,is-a
+2625,ucf101,97,WalkingWithDog,activitynet,190,Walking_the_dog,equal
+2626,ucf101,2,Archery,hmdb51,35,shoot_bow,similar
+2627,hmdb51,49,walk,ucf101,4,BalanceBeam,is-a
+2628,hmdb51,49,walk,ucf101,5,BandMarching,is-a
+2629,hmdb51,47,throw,ucf101,6,BaseballPitch,is-a
+2630,ucf101,7,Basketball,hmdb51,9,dribble,is-a
+2631,ucf101,7,Basketball,hmdb51,34,shoot_ball,is-a
+2632,hmdb51,34,shoot_ball,ucf101,8,BasketballDunk,is-a
+2633,hmdb51,47,throw,ucf101,8,BasketballDunk,is-a
+2634,ucf101,10,Biking,hmdb51,30,ride_bike,equal
+2635,ucf101,12,BlowDryHair,hmdb51,0,brush_hair,similar
+2636,ucf101,15,Bowling,hmdb51,47,throw,similar
+2637,hmdb51,27,punch,ucf101,16,BoxingPunchingBag,is-a
+2638,hmdb51,27,punch,ucf101,17,BoxingSpeedBag,is-a
+2639,ucf101,19,BrushingTeeth,hmdb51,0,brush_hair,similar
+2640,hmdb51,7,dive,ucf101,21,CliffDiving,is-a
+2641,hmdb51,47,throw,ucf101,22,CricketBowling,is-a
+2642,hmdb51,17,hit,ucf101,23,CricketShot,is-a
+2643,hmdb51,34,shoot_ball,ucf101,23,CricketShot,is-a
+2644,ucf101,25,Diving,hmdb51,7,dive,equal
+2645,hmdb51,17,hit,ucf101,26,Drumming,is-a
+2646,ucf101,27,Fencing,hmdb51,13,fencing,equal
+2647,hmdb51,44,sword,ucf101,27,Fencing,is-a
+2648,hmdb51,45,sword_exercise,ucf101,27,Fencing,is-a
+2649,hmdb51,17,hit,ucf101,28,FieldHockeyPenalty,is-a
+2650,hmdb51,2,catch,ucf101,30,FrisbeeCatch,is-a
+2651,hmdb51,15,golf,ucf101,32,GolfSwing,is-a
+2652,hmdb51,47,throw,ucf101,34,HammerThrow,is-a
+2653,hmdb51,29,pushup,ucf101,36,HandstandPushups,is-a
+2654,hmdb51,49,walk,ucf101,37,HandstandWalking,is-a
+2655,hmdb51,19,jump,ucf101,39,HighJump,is-a
+2656,hmdb51,31,ride_horse,ucf101,40,HorseRace,is-a
+2657,ucf101,41,HorseRiding,hmdb51,31,ride_horse,equal
+2658,hmdb51,47,throw,ucf101,44,JavelinThrow,is-a
+2659,hmdb51,19,jump,ucf101,47,JumpingJack,is-a
+2660,hmdb51,19,jump,ucf101,46,JumpRope,is-a
+2661,hmdb51,19,jump,ucf101,50,LongJump,is-a
+2662,hmdb51,17,hit,ucf101,59,PlayingDaf,is-a
+2663,hmdb51,17,hit,ucf101,60,PlayingDhol,is-a
+2664,hmdb51,17,hit,ucf101,65,PlayingTabla,is-a
+2665,hmdb51,19,jump,ucf101,67,PoleVault,is-a
+2666,ucf101,69,PullUps,hmdb51,26,pullup,equal
+2667,ucf101,70,Punch,hmdb51,27,punch,equal
+2668,ucf101,71,PushUps,hmdb51,29,pushup,equal
+2669,hmdb51,5,climb,ucf101,73,RockClimbingIndoor,is-a
+2670,hmdb51,5,climb,ucf101,74,RopeClimbing,is-a
+2671,hmdb51,47,throw,ucf101,78,Shotput,is-a
+2672,hmdb51,7,dive,ucf101,82,SkyDiving,is-a
+2673,ucf101,83,SoccerJuggling,hmdb51,9,dribble,similar
+2674,hmdb51,20,kick,ucf101,84,SoccerPenalty,is-a
+2675,hmdb51,21,kick_ball,ucf101,84,SoccerPenalty,is-a
+2676,ucf101,88,Swing,hmdb51,43,swing_baseball,is-a
+2677,hmdb51,17,hit,ucf101,89,TableTennisShot,is-a
+2678,hmdb51,34,shoot_ball,ucf101,89,TableTennisShot,is-a
+2679,ucf101,91,TennisSwing,hmdb51,43,swing_baseball,similar
+2680,hmdb51,47,throw,ucf101,92,ThrowDiscus,is-a
+2681,hmdb51,19,jump,ucf101,93,TrampolineJumping,is-a
+2682,hmdb51,17,hit,ucf101,96,VolleyballSpiking,is-a
+2683,hmdb51,49,walk,ucf101,97,WalkingWithDog,is-a
+2684,hmdb51,29,pushup,ucf101,98,WallPushups,is-a
+2685,stair_actions,21,drinking,charades,106,Drinking from a cup/glass/bottle,is-a
+2686,stair_actions,23,eating_meal,charades,65,Eating a sandwich,is-a
+2687,charades,156,Someone is eating something,stair_actions,23,eating_meal,is-a
+2688,charades,156,Someone is eating something,stair_actions,24,eating_snack,is-a
+2689,stair_actions,91,washing_dish,charades,111,Washing a cup/glass/bottle,similar
+2690,stair_actions,91,washing_dish,charades,121,Wash a dish/dishes,equal
+2691,stair_actions,85,throwing_trash,charades,45,Throwing a box somewhere,similar
+2692,stair_actions,85,throwing_trash,charades,126,Throwing something on the floor,similar
+2693,stair_actions,93,washing_hands,charades,139,Washing their hands,equal
+2694,charades,8,Opening a door,stair_actions,51,opening_refrigerator_door,is-a
+2695,stair_actions,51,opening_refrigerator_door,charades,113,Opening a closet/cabinet,similar
+2696,stair_actions,51,opening_refrigerator_door,charades,142,Closing a refrigerator,similar
+2697,stair_actions,51,opening_refrigerator_door,charades,143,Opening a refrigerator,equal
+2698,stair_actions,61,pouring_tea_or_coffee,charades,108,Pouring something into a cup/glass/bottle,similar
+2699,charades,147,Someone is cooking something,stair_actions,15,cutting_food,is-a
+2700,stair_actions,13,cooking,charades,66,Making a sandwich,is-a
+2701,stair_actions,13,cooking,charades,147,Someone is cooking something,equal
+2702,stair_actions,67,setting_hair,charades,144,Fixing their hair,equal
+2703,charades,144,Fixing their hair,stair_actions,22,drying_hair_with_blower,is-a
+2704,stair_actions,92,washing_face,charades,38,Washing something with a towel,similar
+2705,stair_actions,86,using_computer,charades,46,Closing a laptop,similar
+2706,stair_actions,86,using_computer,charades,47,Holding a laptop,is-a
+2707,stair_actions,86,using_computer,charades,48,Opening a laptop,similar
+2708,stair_actions,86,using_computer,charades,51,Watching a laptop or something on a laptop,is-a
+2709,stair_actions,86,using_computer,charades,52,Working/Playing on a laptop,is-a
+2710,stair_actions,55,playing_computer_game,charades,132,Watching television,similar
+2711,stair_actions,81,taking_photo,charades,87,Taking a picture of something,equal
+2712,stair_actions,87,using_smartphone,charades,16,Playing with a phone/camera,is-a
+2713,stair_actions,87,using_smartphone,charades,19,Talking on a phone/camera,is-a
+2714,stair_actions,88,using_tablet,charades,51,Watching a laptop or something on a laptop,similar
+2715,stair_actions,88,using_tablet,charades,52,Working/Playing on a laptop,similar
+2716,stair_actions,94,watching_TV,charades,51,Watching a laptop or something on a laptop,similar
+2717,stair_actions,94,watching_TV,charades,131,Laughing at television,is-a
+2718,stair_actions,94,watching_TV,charades,132,Watching television,equal
+2719,stair_actions,83,telephoning,charades,19,Talking on a phone/camera,is-a
+2720,stair_actions,77,standing_on_chair_or_table_or_stepladder,charades,60,Standing on a chair,equal
+2721,stair_actions,84,throwing,charades,3,Throwing clothes somewhere,is-a
+2722,stair_actions,84,throwing,charades,24,Throwing a bag somewhere,is-a
+2723,stair_actions,84,throwing,charades,31,Throwing a book somewhere,is-a
+2724,stair_actions,84,throwing,charades,36,Throwing a towel/s somewhere,is-a
+2725,stair_actions,84,throwing,charades,45,Throwing a box somewhere,is-a
+2726,stair_actions,84,throwing,charades,58,Throwing shoes somewhere,is-a
+2727,stair_actions,84,throwing,charades,64,Throwing food somewhere,is-a
+2728,stair_actions,84,throwing,charades,74,Throwing a blanket somewhere,is-a
+2729,stair_actions,84,throwing,charades,80,Throwing a pillow somewhere,is-a
+2730,stair_actions,84,throwing,charades,101,Throwing a broom somewhere,is-a
+2731,stair_actions,84,throwing,charades,126,Throwing something on the floor,is-a
+2732,stair_actions,50,opening_or_closing_container,charades,39,Closing a box,similar
+2733,stair_actions,50,opening_or_closing_container,charades,41,Opening a box,similar
+2734,stair_actions,96,wearing_shoes,charades,55,Putting on shoe/shoes,similar
+2735,charades,0,Holding some clothes,stair_actions,35,hanging_out_or_taking_in_laundry,is-a
+2736,charades,0,Holding some clothes,stair_actions,29,folding_laundry,is-a
+2737,stair_actions,29,folding_laundry,charades,4,Tidying some clothes,similar
+2738,charades,0,Holding some clothes,stair_actions,62,putting_off_cloth,is-a
+2739,stair_actions,62,putting_off_cloth,charades,57,Taking off some shoes,similar
+2740,stair_actions,62,putting_off_cloth,charades,155,Someone is undressing,equal
+2741,charades,0,Holding some clothes,stair_actions,63,putting_on_cloth,is-a
+2742,stair_actions,63,putting_on_cloth,charades,55,Putting on shoe/shoes,similar
+2743,stair_actions,63,putting_on_cloth,charades,148,Someone is dressing,equal
+2744,stair_actions,39,housecleaning,charades,98,Holding a broom,similar
+2745,stair_actions,39,housecleaning,charades,99,Putting a broom somewhere,similar
+2746,stair_actions,39,housecleaning,charades,100,Taking a broom from somewhere,similar
+2747,stair_actions,39,housecleaning,charades,102,Tidying up with a broom,is-a
+2748,stair_actions,39,housecleaning,charades,127,Tidying something on the floor,is-a
+2749,stair_actions,39,housecleaning,charades,137,Holding a vacuum,is-a
+2750,stair_actions,39,housecleaning,charades,138,Taking a vacuum from somewhere,is-a
+2751,stair_actions,98,wiping_window,charades,91,Washing a window,similar
+2752,stair_actions,20,drawing_picture,charades,145,Working on paper/notebook,similar
+2753,stair_actions,65,reading_newspaper,charades,32,Watching/Reading/Looking at a book,similar
+2754,stair_actions,80,studying,charades,32,Watching/Reading/Looking at a book,is-a
+2755,stair_actions,80,studying,charades,52,Working/Playing on a laptop,is-a
+2756,stair_actions,80,studying,charades,145,Working on paper/notebook,is-a
+2757,stair_actions,64,reading_book,charades,29,Smiling at a book,is-a
+2758,stair_actions,64,reading_book,charades,32,Watching/Reading/Looking at a book,equal
+2759,stair_actions,99,writing,charades,145,Working on paper/notebook,is-a
+2760,charades,106,Drinking from a cup/glass/bottle,stair_actions,7,bottle-feeding_baby,is-a
+2761,charades,107,Holding a cup/glass/bottle of something,stair_actions,7,bottle-feeding_baby,is-a
+2762,stair_actions,37,holding_someone,charades,76,Holding a pillow,similar
+2763,charades,61,Holding some food,stair_actions,27,feeding_baby,is-a
+2764,stair_actions,76,speaking,charades,19,Talking on a phone/camera,is-a
+2765,stair_actions,90,walking_with_stick,charades,97,Walking through a doorway,similar
+2766,stair_actions,89,walking,charades,97,Walking through a doorway,is-a
+2767,stair_actions,89,walking,charades,150,Someone is running somewhere,similar
+2768,stair_actions,26,exercising,charades,150,Someone is running somewhere,is-a
+2769,charades,150,Someone is running somewhere,stair_actions,66,running_around,is-a
+2770,stair_actions,72,sitting_down,charades,10,Sitting on a table,is-a
+2771,stair_actions,72,sitting_down,charades,11,Sitting at a table,is-a
+2772,stair_actions,72,sitting_down,charades,59,Sitting in a chair,is-a
+2773,stair_actions,72,sitting_down,charades,123,Sitting on sofa/couch,is-a
+2774,stair_actions,72,sitting_down,charades,125,Sitting on the floor,is-a
+2775,stair_actions,72,sitting_down,charades,135,Sitting in a bed,is-a
+2776,stair_actions,72,sitting_down,charades,151,Someone is going from standing to sitting,equal
+2777,stair_actions,78,standing_up,charades,60,Standing on a chair,is-a
+2778,stair_actions,78,standing_up,charades,154,Someone is standing up from somewhere,equal
+2779,stair_actions,73,sleeping_on_bed,charades,72,Snuggling with a blanket,is-a
+2780,stair_actions,73,sleeping_on_bed,charades,78,Snuggling with a pillow,is-a
+2781,stair_actions,73,sleeping_on_bed,charades,122,Lying on a sofa/couch,similar
+2782,stair_actions,73,sleeping_on_bed,charades,124,Lying on the floor,similar
+2783,stair_actions,73,sleeping_on_bed,charades,134,Lying on a bed,equal
+2784,stair_actions,46,lying_on_floor,charades,122,Lying on a sofa/couch,similar
+2785,stair_actions,46,lying_on_floor,charades,124,Lying on the floor,equal
+2786,stair_actions,46,lying_on_floor,charades,134,Lying on a bed,similar
+2787,stair_actions,33,going_out_of_room,charades,97,Walking through a doorway,equal
+2788,stair_actions,25,entering_room,charades,97,Walking through a doorway,equal
+2789,stair_actions,4,being_angry,charades,149,Someone is laughing,similar
+2790,stair_actions,4,being_angry,charades,152,Someone is smiling,similar
+2791,stair_actions,5,being_surprised,charades,149,Someone is laughing,similar
+2792,stair_actions,5,being_surprised,charades,152,Someone is smiling,similar
+2793,stair_actions,14,crying,charades,149,Someone is laughing,similar
+2794,stair_actions,14,crying,charades,152,Someone is smiling,similar
+2795,stair_actions,74,smiling,charades,29,Smiling at a book,is-a
+2796,stair_actions,74,smiling,charades,85,Laughing at a picture,is-a
+2797,stair_actions,74,smiling,charades,94,Smiling in a mirror,is-a
+2798,stair_actions,74,smiling,charades,131,Laughing at television,is-a
+2799,stair_actions,74,smiling,charades,149,Someone is laughing,equal
+2800,stair_actions,74,smiling,charades,152,Someone is smiling,equal
