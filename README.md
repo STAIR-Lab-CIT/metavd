@@ -1,3 +1,5 @@
+![MetaVD Logo](https://metavd.stair.center/images/logo.svg)
+
 # MetaVD
 
 MetaVD is a *Meta Video Dataset* for enhancing human action recognition datasets.
